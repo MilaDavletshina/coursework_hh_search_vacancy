@@ -10,6 +10,8 @@ def main():
     result = JSONSaver("data/vacancies.json")
     greeting = get_greeting()
     print(greeting)
+    print("Данные по вакансиям предоставлены сайтом hh.ru")
+    print()
 
     keyword = input("Введите вакансию: ")
     api = HH(keyword)
@@ -18,8 +20,9 @@ def main():
             Vacancy(data["name"], data.get("salary"), data["url"], data.get("snippet", {}).get("requirement", ""))
             for data in vacancies_data]
     result.add_vacancy(new_vacancy)
-    print(f"Найдено {len(new_vacancy)} вакансий.")
-    print(f"Данные записаны в файл {result}")
+    print()
+    print(f"Итого найдено {len(new_vacancy)} вакансий.")
+    print(f"Данные по вакансиям записаны в файл {result}")
     print()
 
     top_n = int(input("Введите количество вакансий для сравнения: "))
@@ -38,6 +41,10 @@ def main():
     filtered_vacancies = [i for i in new_vacancy if i.description and keyword in i.description]
     for i in filtered_vacancies:
         print(i.name, i.salary, i.url, i.description)
+    print()
+    print("Благодарим что воспользовались нашим сервисом.")
+    print("Желаем успехов в собеседовании. Всего хорошего!")
+
 
 
 if __name__ == "__main__":

@@ -1,2117 +1,2087 @@
 [
     {
-        "name": "Бухгалтер на первичную документацию",
-        "salary": {
-            "from": 80000,
-            "to": 100000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/103998396?host=hh.ru",
-        "description": "Высшее или среднее профильное образование. Опыт работы на аналогичной должности не менее 3-х лет (удаленный формат работы). "
-    },
-    {
-        "name": "Бухгалтер г. Новосибирск",
-        "salary": {
-            "from": 60000,
-            "to": null,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/100609657?host=hh.ru",
-        "description": "Высшее образование (экономика, финансы, бухучет). Опыт работы в должности <highlighttext>бухгалтера</highlighttext> (производство, общепит, розничная торговля) от 3-х лет. "
-    },
-    {
-        "name": "Бухгалтер по реализации",
-        "salary": {
-            "from": 300000,
-            "to": 400000,
-            "currency": "KZT",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/101350343?host=hh.ru",
-        "description": "Требования к опыту: Среднее или высшее профессиональное (экономическое) образование; стаж работы в должности <highlighttext>бухгалтера</highlighttext> по реализации не менее 1 года..."
-    },
-    {
-        "name": "Главный бухгалтер",
-        "salary": {
-            "from": 700000,
-            "to": 700000,
-            "currency": "KZT",
-            "gross": true
-        },
-        "url": "https://api.hh.ru/vacancies/104971063?host=hh.ru",
-        "description": "С опытом в строительстве Обязателен! Знание ЭСФ, СНТ. Знание участка импорта из третьих стран, таможенного союза, налогообложение."
-    },
-    {
-        "name": "Бухгалтер",
-        "salary": {
-            "from": 350000,
-            "to": null,
-            "currency": "KZT",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/104446053?host=hh.ru",
-        "description": "Опыт работы обязателен от 3 лет( в строительной организации будет преимуществом)."
-    },
-    {
-        "name": "Ведущий бухгалтер",
-        "salary": {
-            "from": 170000,
-            "to": null,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/105075414?host=hh.ru",
-        "description": "Опыт достоверного закрытия ежемесячного отчетного периода в бухгалтерских учетных системах. Опыт работы с первичной документацией. Оформление реализаций. Контроль дебиторской и..."
-    },
-    {
-        "name": "Бухгалтер",
-        "salary": {
-            "from": 80000,
-            "to": 80000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/104422461?host=hh.ru",
-        "description": "Свободное владение знаниями в области бухгалтерского учета и налогообложения + УСН. Умение работать в узко-ориентированных бухгалтерских программах."
-    },
-    {
-        "name": "Бухгалтер на удаленке",
-        "salary": {
-            "from": 200000,
-            "to": 300000,
-            "currency": "KZT",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/104950665?host=hh.ru",
-        "description": "Уверенное владение компьютером, знание бухгалтерских программ 1С:<highlighttext>Бухгалтерия</highlighttext>, а также MS Office, в особенности Excel. Высокая степень внимательности и..."
-    },
-    {
-        "name": "Бухгалтер",
-        "salary": {
-            "from": 2500,
-            "to": null,
-            "currency": "BYR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/105038894?host=hh.ru",
-        "description": "Опыт работы в программе 1С:8 <highlighttext>Бухгалтерия</highlighttext>. Уверенный пользователь Exсel, Word."
-    },
-    {
-        "name": "Помощник бухгалтера на первичную документацию",
-        "salary": {
-            "from": 50000,
-            "to": null,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/104099937?host=hh.ru",
-        "description": "Высшее или средне-специальное образование. Коммуникативные навыки, ответственность, исполнительность. Ответственность за результат, порядочность. Внимательное отношение к бухгалтерскому учету в целом..."
-    },
-    {
-        "name": "Бухгалтер (удаленно)",
-        "salary": {
-            "from": 350000,
-            "to": null,
-            "currency": "KZT",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/105120223?host=hh.ru",
-        "description": "высшее образование. опыт от 5 лет. опыт в сфере услуг. грамотная устная и письменная речь. Сертификат Профбух."
-    },
-    {
-        "name": "Бухгалтер",
-        "salary": {
-            "from": 65000,
-            "to": 65000,
-            "currency": "RUR",
-            "gross": true
-        },
-        "url": "https://api.hh.ru/vacancies/105092705?host=hh.ru",
-        "description": "Опыт работы в должности специалиста соответствующего профиля от 3 лет. Пользователь ПК. Знание 1С:8,3 (1С УПП). "
-    },
-    {
-        "name": "Бухгалтер (частичная занятость)",
-        "salary": "По найденной позиции зарплата не указана",
-        "url": "https://api.hh.ru/vacancies/103306269?host=hh.ru",
-        "description": "Опыт работы от 5-ти лет. Опыт работы <highlighttext>бухгалтером</highlighttext> в единственном лице. Высшее профильное образование. Знание законодательства в сфере налогов..."
-    },
-    {
-        "name": "Главный бухгалтер (государственный университет)",
-        "salary": {
-            "from": 400000,
-            "to": null,
-            "currency": "RUR",
-            "gross": true
-        },
-        "url": "https://api.hh.ru/vacancies/104954662?host=hh.ru",
-        "description": "Высшее профильное образование. Опыт работы главным <highlighttext>бухгалтером</highlighttext> от 5 лет в крупных организациях с оборотом от 3 млрд.руб. "
-    },
-    {
-        "name": "Бухгалтер на первичную документацию",
-        "salary": {
-            "from": 70000,
-            "to": 70000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/105056619?host=hh.ru",
-        "description": "Опыт работы в Word, Outlook, Excel (работа с таблицами на начальном уровне). Желателен опыт работы <highlighttext>бухгалтером</highlighttext> в ТЭК."
-    },
-    {
-        "name": "Бухгалтер (упор на материальный стол)",
-        "salary": {
-            "from": 400000,
-            "to": null,
-            "currency": "KZT",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/104885306?host=hh.ru",
-        "description": "Умение работать с первичной документацией по движению ТМЦ (упор на материальный учет). Средне-специальное или высшее образование. Опыт работы <highlighttext>бухгалтером</highlighttext>..."
-    },
-    {
-        "name": "Офис менеджер / Бухгалтер на первичную документацию",
-        "salary": {
-            "from": 55000,
-            "to": null,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/105091975?host=hh.ru",
-        "description": "Средне-специальное/высшее образование. Уверенный пользователь 1С 8.3, Word, Excel. Умение работать в режиме многозадачности. И т.д."
-    },
-    {
-        "name": "Бухгалтер",
-        "salary": {
-            "from": 66000,
-            "to": 66000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/105052994?host=hh.ru",
-        "description": "Законодательные акты, постановления, распоряжения, приказы, руководящие, методические и нормативные материалы по организации бухгалтерского учета имущества, обязательств и хозяйственных операций и..."
-    },
-    {
-        "name": "Бухгалтер-кассир",
-        "salary": {
-            "from": 500000,
-            "to": null,
-            "currency": "KZT",
-            "gross": true
-        },
-        "url": "https://api.hh.ru/vacancies/105094781?host=hh.ru",
-        "description": "Опвт работы не менее трех лет, предпочтительно в авиакомпании и турбизнесе. 1С, знание SAP. Высшее образование. Ответственность."
-    },
-    {
-        "name": "Заместитель главного бухгалтера",
-        "salary": {
-            "from": 250000,
-            "to": 250000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/105057310?host=hh.ru",
-        "description": "Опыт работы от 3-х лет на позиции заместителя главного <highlighttext>бухгалтера</highlighttext>/главного <highlighttext>бухгалтера</highlighttext>. Образование: высшее. Опыт работы в производственной компании . "
-    },
-    {
-        "name": "Бухгалтер на первичную документацию",
-        "salary": {
-            "from": 55000,
-            "to": null,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/105058892?host=hh.ru",
-        "description": "Порядочность. Обучаемость."
-    },
-    {
-        "name": "Главный бухгалтер",
-        "salary": {
-            "from": 300000,
-            "to": 350000,
-            "currency": "RUR",
-            "gross": true
-        },
-        "url": "https://api.hh.ru/vacancies/104975780?host=hh.ru",
-        "description": "Стаж работы в должности главного <highlighttext>бухгалтера</highlighttext> не менее 3х лет. Оборот на последнем месте работы от 2 млрд.. "
-    },
-    {
-        "name": "Главный бухгалтер",
-        "salary": {
-            "from": 15000000,
-            "to": null,
-            "currency": "UZS",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/105061586?host=hh.ru",
-        "description": null
-    },
-    {
-        "name": "Бухгалтер",
-        "salary": {
-            "from": 500000,
-            "to": 2000000,
-            "currency": "KZT",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/104143378?host=hh.ru",
-        "description": "У тебя есть опыт и время? У нас есть клиенты. Опыт работы <highlighttext>бухгалтером</highlighttext> от 2 лет. Наличие ПК интернета."
-    },
-    {
-        "name": "Заместитель главного бухгалтера ТСЖ, УК",
-        "salary": {
-            "from": 100000,
-            "to": 100000,
-            "currency": "RUR",
-            "gross": true
-        },
-        "url": "https://api.hh.ru/vacancies/103120661?host=hh.ru",
-        "description": "Высшее образование (экономика или бухгалтерский учет). Опыт работы в должности <highlighttext>бухгалтера</highlighttext> от 3 –х лет, обязателен опыт работы в УК..."
-    },
-    {
-        "name": "Бухгалтер по расчету заработной платы",
-        "salary": {
-            "from": null,
-            "to": 180000,
-            "currency": "RUR",
-            "gross": true
-        },
-        "url": "https://api.hh.ru/vacancies/104213287?host=hh.ru",
-        "description": "Высшее образование (Бухгалтерский учет/Финансы/Экономика). Опыт работы на участке заработной платы в компании с численностью от 100 человек. "
-    },
-    {
-        "name": "Бухгалтер",
-        "salary": {
-            "from": 7000000,
-            "to": 10000000,
-            "currency": "UZS",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/104944701?host=hh.ru",
-        "description": "опыт работы не менее 3 лет в должности <highlighttext>бухгалтера</highlighttext>. - знание русского языка в совершенстве. - знание 1С <highlighttext>бухгалтерии</highlighttext>. - "
-    },
-    {
-        "name": "Бухгалтер / Делопроизводитель",
-        "salary": "По найденной позиции зарплата не указана",
-        "url": "https://api.hh.ru/vacancies/102907380?host=hh.ru",
-        "description": "Исполнительность, пунктуальность, быстрая обучаемость. Уверенный пользователь ПК (MS Word, MS Excel, Power Point). Аналогичный опыт работы от года. "
-    },
-    {
-        "name": "Бухгалтер по расчету заработной платы (автобизнес)",
-        "salary": {
-            "from": 160000,
-            "to": null,
-            "currency": "RUR",
-            "gross": true
-        },
-        "url": "https://api.hh.ru/vacancies/105071620?host=hh.ru",
-        "description": "Высшее образование. Опыт работы по специальности от 6-х лет. Знание бухгалтерского и налогового законодательства. Опыт прохождения камеральных и выездных..."
-    },
-    {
-        "name": "Помощник главного бухгалтера",
-        "salary": {
-            "from": 70000,
-            "to": null,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/104052410?host=hh.ru",
-        "description": "...работы на основных участках (учет МПЗ, расчеты с контрагентами, учет кассовых операций, учет ОС). Умение работать в 1С <highlighttext>Бухгалтерия</highlighttext>."
-    },
-    {
-        "name": "Бухгалтер по производству",
-        "salary": {
-            "from": 1700,
-            "to": 1800,
-            "currency": "BYR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/104371374?host=hh.ru",
-        "description": "Опыт работы (желательно в производстве, в деревообработке). Скрупулезность, внимательность, умение работать с цифрами. Работа в 1С 8.3 (Мисофт)."
-    },
-    {
-        "name": "Помощник главного бухгалтера - ассистент",
+        "name": "Водитель - экспедитор на автомобиле заказчика",
         "salary": {
             "from": 150000,
-            "to": 200000,
-            "currency": "KZT",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/104519504?host=hh.ru",
-        "description": "Бухгалтерское образование желательно. Опыт работы приветствуется, но можно без опыта. Знание MS Word, MS Excel. Наличие ноутбука или ПК, хорошего..."
-    },
-    {
-        "name": "Бухгалтер",
-        "salary": {
-            "from": 400000,
-            "to": 400000,
-            "currency": "KZT",
-            "gross": true
-        },
-        "url": "https://api.hh.ru/vacancies/104839891?host=hh.ru",
-        "description": "Образование высшее полное. Опыт работы <highlighttext>бухгалтером</highlighttext> не менее 5-6 лет . Умение работать в программе 1 С <highlighttext>Бухгалтерия</highlighttext> (желательно 8..."
-    },
-    {
-        "name": "Главный бухгалтер",
-        "salary": {
-            "from": null,
             "to": 300000,
             "currency": "RUR",
             "gross": false
         },
-        "url": "https://api.hh.ru/vacancies/104986875?host=hh.ru",
-        "description": "Опыт работы Главным <highlighttext>бухгалтером</highlighttext> от 3-х лет. Высшее профильное образование. Знание программы 1С 8.3, word, excel. "
+        "url": "https://api.hh.ru/vacancies/85692144?host=hh.ru",
+        "description": "Опыт работы на грузовом коммерческом транспорте от 6 мес.. Права категории В. Работоспособность и активность. Возможность приступить к работе в..."
     },
     {
-        "name": "Главный бухгалтер (казначейство)",
+        "name": "Водитель категории С",
         "salary": {
-            "from": 220000,
+            "from": 85000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/80132755?host=hh.ru",
+        "description": "Водительское удостоверение кат. «С». Знание технической базы автомобиля. Опыт вождения грузового автомобиля от трех лет."
+    },
+    {
+        "name": "Водитель-курьер",
+        "salary": {
+            "from": 110000,
             "to": null,
             "currency": "RUR",
             "gross": true
         },
-        "url": "https://api.hh.ru/vacancies/102704697?host=hh.ru",
-        "description": "высшее экономическое образование. * опыт работы главным <highlighttext>бухгалтером</highlighttext> или заместителем главного <highlighttext>бухгалтера</highlighttext> не менее 5 лет. * знание законодательства о бухгалтерском учёте..."
+        "url": "https://api.hh.ru/vacancies/78394416?host=hh.ru",
+        "description": "Будет плюсом, если у вас есть опыт работы с людьми и работы разъездного характера от полугода."
     },
     {
-        "name": "Заместитель главного бухгалтера",
+        "name": "Водитель - Курьер на личном автомобиле (ТРЦ «Ривьера»)",
         "salary": {
-            "from": 250000,
-            "to": 250000,
+            "from": 110000,
+            "to": null,
             "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/105057312?host=hh.ru",
-        "description": "Опыт работы от 3-х лет на позиции заместителя главного <highlighttext>бухгалтера</highlighttext>/главного <highlighttext>бухгалтера</highlighttext>. Образование: высшее. Опыт работы в производственной компании . "
-    },
-    {
-        "name": "Главный бухгалтер",
-        "salary": {
-            "from": 2000,
-            "to": 2000,
-            "currency": "USD",
             "gross": true
         },
-        "url": "https://api.hh.ru/vacancies/105080448?host=hh.ru",
-        "description": "Опыт работы от 3 лет в должности главного <highlighttext>бухгалтера</highlighttext> (зам. главного <highlighttext>бухгалтера</highlighttext>). Опыт работы с импортом / экспортом товаров и услуг. "
+        "url": "https://api.hh.ru/vacancies/102611350?host=hh.ru",
+        "description": "Ответственно относитесь к работе. Хотите освоить навыки перспективной профессии. Имеете опыт работы – отлично! Без опыта – обучим! Быстро ориентируются в маршрутах. "
     },
     {
-        "name": "Главный бухгалтер",
+        "name": "Водитель экспедитор категория в на авто компании",
         "salary": {
-            "from": 250000,
-            "to": null,
+            "from": 150000,
+            "to": 300000,
             "currency": "RUR",
             "gross": false
         },
-        "url": "https://api.hh.ru/vacancies/105041828?host=hh.ru",
-        "description": "Высшее образование (финансовое/экономическое). -Опыт работы в должности Главного <highlighttext>бухгалтера</highlighttext> с релевантным функционалом от 5 лет. -Опыт работы в сфере..."
+        "url": "https://api.hh.ru/vacancies/93626817?host=hh.ru",
+        "description": "Права категории В. Работоспособность и активность. Возможность приступить к работе в ближайшее время."
     },
     {
-        "name": "Главный бухгалтер",
+        "name": "Водитель - экспедитор (курьер) на автомобиле заказчика",
         "salary": {
-            "from": 800000,
-            "to": 1000000,
-            "currency": "KZT",
+            "from": 150000,
+            "to": 300000,
+            "currency": "RUR",
             "gross": false
         },
-        "url": "https://api.hh.ru/vacancies/105100387?host=hh.ru",
-        "description": "Опыт работы в АО или крупной ТОО (производство). Наличие Сертификата \"Профессиональный <highlighttext>бухгалтер</highlighttext>\". Предпочтительно : опыт прохождения аудита BIG4. "
+        "url": "https://api.hh.ru/vacancies/85692143?host=hh.ru",
+        "description": "Опыт работы на грузовом коммерческом транспорте от 6 мес.. Права категории В. Работоспособность и активность. Возможность приступить к работе в..."
     },
     {
-        "name": "Бухгалтер по банковским операциям",
-        "salary": {
-            "from": 350000,
-            "to": 400000,
-            "currency": "KZT",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/100690021?host=hh.ru",
-        "description": "Высшее образование (бухгалтерский учет и аудит, финансы, экономика). -Стаж работы по соответствующей специальности не менее 3 года. -Опыт работы в..."
-    },
-    {
-        "name": "Заместитель главного бухгалтера",
-        "salary": {
-            "from": 15000000,
-            "to": null,
-            "currency": "UZS",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/105054154?host=hh.ru",
-        "description": "Сферы деятельности: - хорошее знание excel является преимуществом. - хорошее знание налогового законодательства, при этом знать пределы своей компетенции и задавать вопросы..."
-    },
-    {
-        "name": "Бухгалтер по первичной документации (расчеты с поставщиками)",
+        "name": "Личный водитель",
         "salary": {
             "from": 120000,
-            "to": 120000,
+            "to": null,
             "currency": "RUR",
-            "gross": true
+            "gross": false
         },
-        "url": "https://api.hh.ru/vacancies/104932856?host=hh.ru",
-        "description": "Высокая организованность, ответственность, аналитические способности. Уверенный пользователь 1С <highlighttext>Бухгалтерия</highlighttext> 8.3, MS Office (Excel, Word), Консультант Плюс. "
+        "url": "https://api.hh.ru/vacancies/105100924?host=hh.ru",
+        "description": "Наличие водительского удостоверения категории «В». Опыт вождения от 10 лет. Обязательно наличие рекомендаций с предыдущих мест работы. Пунктуальность, аккуратное, комфортное..."
     },
     {
-        "name": "Бухгалтер",
+        "name": "Семейный водитель",
         "salary": {
-            "from": 1500,
-            "to": null,
+            "from": 3000,
+            "to": 3600,
             "currency": "BYR",
             "gross": false
         },
-        "url": "https://api.hh.ru/vacancies/105052629?host=hh.ru",
-        "description": "Требования: Ответственность, опыт работы."
+        "url": "https://api.hh.ru/vacancies/104986287?host=hh.ru",
+        "description": "Опыт работы в семье не менее 3-х лет. Рекомендации."
     },
     {
-        "name": "Бухгалтер",
+        "name": "Водитель персональный",
         "salary": {
-            "from": 70000,
-            "to": null,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/105072552?host=hh.ru",
-        "description": "Опыт работы: от 3 лет. Среднее профессиональное или высшее образование. Знание всех участков бухгалтерского учета. Знание налогового, гражданского и трудового..."
-    },
-    {
-        "name": "Бухгалтер-калькулятор",
-        "salary": {
-            "from": 30000,
-            "to": 50000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/105075386?host=hh.ru",
-        "description": "Опыт работы от общепите от 3 лет."
-    },
-    {
-        "name": "Главный бухгалтер",
-        "salary": {
-            "from": 130000,
-            "to": null,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/105099960?host=hh.ru",
-        "description": "Знание всех участков бухгалтерского, налогового учета и трудового законодательства РФ. Знание программ: 1С: <highlighttext>Бухгалтерия</highlighttext> 8.3, Альфа-Авто, ЗУП..."
-    },
-    {
-        "name": "Бухгалтер",
-        "salary": {
-            "from": 75000,
-            "to": null,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/103733684?host=hh.ru",
-        "description": "4. Обязательно навыки работы в 1с управление торговлей (торговля и склад)."
-    },
-    {
-        "name": "Главный бухгалтер",
-        "salary": {
-            "from": 200000,
-            "to": null,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/105074220?host=hh.ru",
-        "description": "Высшее экономическое образование. Свободное владение: 1С: 8.3 <highlighttext>Бухгалтерия</highlighttext>. Опыт работы от 3 до 6 лет. Знание бух.бучета и..."
-    },
-    {
-        "name": "Бухгалтер",
-        "salary": {
-            "from": 2300,
-            "to": null,
-            "currency": "BYR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/105001627?host=hh.ru",
-        "description": "Опыт работы от 1 года. Знание 1С7, 8 <highlighttext>Бухгалтерия</highlighttext>. Ответственность, внимательность к деталям, дружелюбие."
-    },
-    {
-        "name": "Главный бухгалтер",
-        "salary": "По найденной позиции зарплата не указана",
-        "url": "https://api.hh.ru/vacancies/105023132?host=hh.ru",
-        "description": "Высшее профессиональное (экономическое) образование и стаж работы не менее 5 лет. Главный <highlighttext>бухгалтер</highlighttext> должен знать: Законодательство о бухучете, о налогах..."
-    },
-    {
-        "name": "Бухгалтер",
-        "salary": {
-            "from": 300000,
-            "to": 300000,
-            "currency": "KZT",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/105020602?host=hh.ru",
-        "description": "Высшее, средне-специальное образование. Знание программы 1С: версия 8.3."
-    },
-    {
-        "name": "Бухгалтер-казначей на участок банк-клиент",
-        "salary": {
-            "from": null,
-            "to": 200000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/105126119?host=hh.ru",
-        "description": "Опыт работы не менее 3 лет непосредственно на участке Банк-клиент. * Опыт работы не менее 1 года в банках желателен..."
-    },
-    {
-        "name": "Операционист-бухгалтер",
-        "salary": {
-            "from": 40000,
-            "to": 70000,
-            "currency": "RUR",
-            "gross": true
-        },
-        "url": "https://api.hh.ru/vacancies/104967142?host=hh.ru",
-        "description": "Опыт работы от года. Ответственность и аккуратность."
-    },
-    {
-        "name": "Главный бухгалтер группы компаний",
-        "salary": "По найденной позиции зарплата не указана",
-        "url": "https://api.hh.ru/vacancies/105037471?host=hh.ru",
-        "description": "Опыт работы в должности главного <highlighttext>бухгалтера</highlighttext> не менее 5 лет. Знание специфики учета торгово-производственной компании с ВЭД. "
-    },
-    {
-        "name": "Помощник главного бухгалтера",
-        "salary": {
-            "from": 250000,
-            "to": null,
-            "currency": "RUR",
-            "gross": true
-        },
-        "url": "https://api.hh.ru/vacancies/101255927?host=hh.ru",
-        "description": "Высшее финансовое или экономическое образование (желательно наличие сертификатов и доп.курсов по специальности). Знание бухгалтерского учета, налогового учета, управленческого учета, финансового..."
-    },
-    {
-        "name": "Бухгалтер",
-        "salary": {
-            "from": 69000,
-            "to": null,
-            "currency": "RUR",
-            "gross": true
-        },
-        "url": "https://api.hh.ru/vacancies/105066816?host=hh.ru",
-        "description": "Опыт работы <highlighttext>бухгалтером</highlighttext> приветствуется. Опытный пользователь 1С от 3 лет. Образование Высшее ( экономическое, бухгалтерское/финансовое)."
-    },
-    {
-        "name": "Помощник главного бухгалтера",
-        "salary": {
-            "from": 70000,
-            "to": null,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/103779160?host=hh.ru",
-        "description": "Высшее образование. Опыт работы в 1С 8.3. Знание Microsoft Office (опытный пользователь Word, Excel). Личные качества: аккуратность, внимательность..."
-    },
-    {
-        "name": "Бухгалтер на первичную документацию",
-        "salary": {
-            "from": 250000,
-            "to": 300000,
-            "currency": "KZT",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/104743513?host=hh.ru",
-        "description": null
-    },
-    {
-        "name": "Бухгалтер-кассир",
-        "salary": {
-            "from": 75000,
-            "to": 81250,
-            "currency": "RUR",
-            "gross": true
-        },
-        "url": "https://api.hh.ru/vacancies/105091188?host=hh.ru",
-        "description": "Опыт работы: от 1 года. Навыки работы с программами 1С:8.3 <highlighttext>бухгалтерия</highlighttext> и 1 с УТ, опыт работы..."
-    },
-    {
-        "name": "Главный бухгалтер",
-        "salary": {
-            "from": 600000,
-            "to": null,
-            "currency": "KZT",
-            "gross": true
-        },
-        "url": "https://api.hh.ru/vacancies/104959223?host=hh.ru",
-        "description": "Опыт работы на производстве обязателен."
-    },
-    {
-        "name": "Бухгалтер по учету тмц",
-        "salary": {
-            "from": 150000,
-            "to": 150000,
-            "currency": "RUR",
-            "gross": true
-        },
-        "url": "https://api.hh.ru/vacancies/105045887?host=hh.ru",
-        "description": "Высшее бухгалтерское или экономическое. Опыт работы в 1С: <highlighttext>Бухгалтерия</highlighttext> и КАУП, на участке учета движения ТМЦ от закупки до..."
-    },
-    {
-        "name": "Главный бухгалтер",
-        "salary": {
-            "from": 2500,
-            "to": null,
-            "currency": "USD",
-            "gross": true
-        },
-        "url": "https://api.hh.ru/vacancies/105028038?host=hh.ru",
-        "description": "Высшее профессиональное образование (экономическое, финансовое). Опыт работы главным <highlighttext>бухгалтером</highlighttext> не менее 5-ти лет. Знание национальных и международных стандартов. "
-    },
-    {
-        "name": "Бухгалтер",
-        "salary": {
-            "from": 100000,
-            "to": 120000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/105104965?host=hh.ru",
-        "description": "Опыт работы в <highlighttext>бухгалтерии</highlighttext> с аналогичными обязанностями от 3 лет. Опыт работы с 1С 8.3 <highlighttext>Бухгалтерия</highlighttext>, СКБ-Контур..."
-    },
-    {
-        "name": "Главный бухгалтер",
-        "salary": {
-            "from": 250000,
-            "to": null,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/104963687?host=hh.ru",
-        "description": "Высшее экономическое образование, стаж работы в строительстве, от 3-х лет в должности главного <highlighttext>бухгалтера</highlighttext>, ОСНО. Знание всех участков бухгалтерского..."
-    },
-    {
-        "name": "Бухгалтер на первичную документацию",
-        "salary": {
-            "from": 50000,
-            "to": 75000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/104986572?host=hh.ru",
-        "description": "Требуемый опыт работы: не менее 1 года, опыт работы в строительстве будет вашим преимуществом. Образование высшее или среднее профессиональное. "
-    },
-    {
-        "name": "Бухгалтер",
-        "salary": {
-            "from": null,
-            "to": 402500,
-            "currency": "KZT",
-            "gross": true
-        },
-        "url": "https://api.hh.ru/vacancies/104984671?host=hh.ru",
-        "description": "Образование: Высшее по профилю (желательно), средне-специальное по профилю. Знание программ: 1С 8.3 (желательно ERP), ИС ЭСФ. "
-    },
-    {
-        "name": "Помощник бухгалтера",
-        "salary": {
-            "from": 3000000,
-            "to": 4000000,
-            "currency": "UZS",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/103722452?host=hh.ru",
-        "description": "Вы уверенный пользователь Word,Excel. - Вы внимательны к деталям и усидчивы. - Рассмотрим кандидатов без опыта работы."
-    },
-    {
-        "name": "Бухгалтер-кассир",
-        "salary": "По найденной позиции зарплата не указана",
-        "url": "https://api.hh.ru/vacancies/103069201?host=hh.ru",
-        "description": "Опыт работы в программе 1С 8.3 УТ, <highlighttext>бухгалтерия</highlighttext>, Exсel. Опыт работы с кассой и эквайрингом обязателен!. "
-    },
-    {
-        "name": "Помощник главного бухгалтера",
-        "salary": {
-            "from": 2000000,
-            "to": null,
-            "currency": "UZS",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/105024660?host=hh.ru",
-        "description": "Знания бухгалтерского и налогового учета. Знание трудового и налогового законодательства РУз. Уверенный пользователь 1С <highlighttext>Бухгалтерия</highlighttext> 8.3. "
-    },
-    {
-        "name": "Помощник главного бухгалтера",
-        "salary": {
-            "from": 2000000,
-            "to": 10000000,
-            "currency": "UZS",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/104523116?host=hh.ru",
-        "description": "Опыт работы на ДОЛЖНОСТИ <highlighttext>БУХГАЛТЕРА</highlighttext> НЕ ТРЕБУЕТСЯ. Знание русского языка. Уверенный пользователь Пк (word, Excel (умение работать с таблицами)). "
-    },
-    {
-        "name": "Помощник бухгалтера",
-        "salary": {
-            "from": 6000000,
-            "to": 8000000,
-            "currency": "UZS",
-            "gross": true
-        },
-        "url": "https://api.hh.ru/vacancies/104360439?host=hh.ru",
-        "description": "Имеете опыт работы в <highlighttext>бухгалтерии</highlighttext> от 3-х лет. Имеете профильное образования, знаете основы бухгалтерского учета. Хорошо знаете программу 1..."
-    },
-    {
-        "name": "Бухгалтер по заработной плате",
-        "salary": {
-            "from": 180000,
-            "to": 180000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/104944707?host=hh.ru",
-        "description": "Требования: опыт работы с большой численностью сотрудников, сдачи отчетности, знание 1 С, внимательность."
-    },
-    {
-        "name": "Бухгалтер на первичную документацию (Интернет-магазин) удаленно",
-        "salary": {
-            "from": null,
-            "to": 40000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/104953764?host=hh.ru",
-        "description": "Опыт работы от 3 лет. Знание 1С, так же приветствуется другой опыт с базами данных. Желателен опыт работы по..."
-    },
-    {
-        "name": "Бухгалтер по реализации (Специалист по обработке документов)",
-        "salary": {
-            "from": null,
-            "to": 120000,
-            "currency": "RUR",
-            "gross": true
-        },
-        "url": "https://api.hh.ru/vacancies/105043068?host=hh.ru",
-        "description": "Опыт работы с товаросопроводительными документами. Умение работать с большим объемом информации. Уверенный пользователь ПК: знание 1С, программ MS Office. "
-    },
-    {
-        "name": "Главный бухгалтер",
-        "salary": {
-            "from": 4500,
-            "to": null,
-            "currency": "BYR",
-            "gross": true
-        },
-        "url": "https://api.hh.ru/vacancies/105000712?host=hh.ru",
-        "description": "Знание трудового законодательства. Наличие опыта руководства группой <highlighttext>бухгалтеров</highlighttext>. Наличие опыта работы в должности главного <highlighttext>бухгалтера</highlighttext> в коммерческой компании не менее..."
-    },
-    {
-        "name": "Бухгалтер",
-        "salary": {
-            "from": 300000,
+            "from": 500000,
             "to": 500000,
             "currency": "KZT",
             "gross": true
         },
-        "url": "https://api.hh.ru/vacancies/105043241?host=hh.ru",
-        "description": "Владение нормативной базой. Уверенное владение ПК, знание офисных программ. Знание деловой этики. Своевременное выполнение задач."
+        "url": "https://api.hh.ru/vacancies/104942823?host=hh.ru",
+        "description": "Безаварийный опыт вождения. Знание дорог города / области. Знание ПДД. Исполнительность, аккуратность."
     },
     {
-        "name": "Бухгалтер-экономист",
+        "name": "Водитель-оператор по обслуживанию кофейных аппаратов",
+        "salary": {
+            "from": 100000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/76730946?host=hh.ru",
+        "description": "Ответственное отношение к работе. Наличие прав категории B. Высокая работоспособность. Не конфликтность. Желание работать на результат. Исполнительность. Чистоплотность и опрятность."
+    },
+    {
+        "name": "Водитель-курьер на автомобиле компании",
+        "salary": {
+            "from": 110000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/76787300?host=hh.ru",
+        "description": "Будет плюсом, если у вас есть опыт работы с людьми и работы разъездного характера от полугода."
+    },
+    {
+        "name": "Водитель-международник СЕ",
         "salary": "По найденной позиции зарплата не указана",
-        "url": "https://api.hh.ru/vacancies/89784484?host=hh.ru",
-        "description": "ПК продвинутый пользователь. Знание программ <highlighttext>Бухгалтерия</highlighttext>, 1С 8.3, знание Excel работа с таблицами, Банк-Клиент."
+        "url": "https://api.hh.ru/vacancies/105063107?host=hh.ru",
+        "description": "Опыт работы по категории С/СЕ. Наличие соответствующих разрешительных документов. Ответственность, дисциплинированность. Готовность работать и зарабатывать."
     },
     {
-        "name": "Бухгалтер",
+        "name": "Водитель-курьер",
         "salary": {
-            "from": 130000,
-            "to": 130000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/105028745?host=hh.ru",
-        "description": "Наличие высшего профессионального образования. Опыт работы в данной сфере от 2-х лет."
-    },
-    {
-        "name": "Бухгалтер на первичную документацию в интернет-магазин",
-        "salary": {
-            "from": 50000,
-            "to": 55000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/105102632?host=hh.ru",
-        "description": "Умение работать с 1С <highlighttext>Бухгалтерия</highlighttext> 3.0, опыт от 3 лет. Умение работать с 1С Управление торговлей 10..."
-    },
-    {
-        "name": "Бухгалтер по расчету заработной платы",
-        "salary": {
-            "from": null,
-            "to": 130000,
-            "currency": "RUR",
-            "gross": true
-        },
-        "url": "https://api.hh.ru/vacancies/100328388?host=hh.ru",
-        "description": "Высшее профессиональное образование (профильное). Опыт работы на аналогичной должности от 1 года. Опыт работы с суммированным учетом рабочего времени. "
-    },
-    {
-        "name": "Главный бухгалтер",
-        "salary": {
-            "from": 90000,
-            "to": 110000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/103585115?host=hh.ru",
-        "description": "Высшее профильное образование. Аккуратность, нацеленность на результат, доброжелательность. Умение работать быстро, многозадачность. Готовность к самообучению."
-    },
-    {
-        "name": "Бухгалтер на первичную документацию",
-        "salary": {
-            "from": 250000,
-            "to": 250000,
-            "currency": "KZT",
-            "gross": true
-        },
-        "url": "https://api.hh.ru/vacancies/104951584?host=hh.ru",
-        "description": "Внимательность. Исполнительность. Коммуникабельность. Ответственность."
-    },
-    {
-        "name": "Бухгалтер по заработной плате",
-        "salary": {
-            "from": 450000,
-            "to": 650000,
-            "currency": "KZT",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/104945114?host=hh.ru",
-        "description": "Знание форм и методов бухгалтерского учета в организации. Высшее (или послевузовское) образование по соответствующему направлению. Стаж работы по специальности не..."
-    },
-    {
-        "name": "Бухгалтер по расчету заработной платы",
-        "salary": {
-            "from": 80000,
+            "from": 110000,
             "to": null,
             "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/100595768?host=hh.ru",
-        "description": "Обязателен опыт работы на аналогичной должности. Уверенный пользователь ПК (знание Word, Excel), базы ЗУП 1С 8.3. "
-    },
-    {
-        "name": "Бухгалтер",
-        "salary": {
-            "from": 130000,
-            "to": 130000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/105028747?host=hh.ru",
-        "description": "Наличие высшего профессионального образования. Опыт работы в данной сфере от 2-х лет."
-    },
-    {
-        "name": "Бухгалтер",
-        "salary": {
-            "from": 2500,
-            "to": null,
-            "currency": "BYR",
             "gross": true
         },
-        "url": "https://api.hh.ru/vacancies/105105927?host=hh.ru",
-        "description": "Высшее образование. Опыт работы в <highlighttext>бухгалтерии</highlighttext> от 3 лет. Опыт работы в транспортной компании. Внимательность, коммуникабельность, усидчивость, умение работать в..."
+        "url": "https://api.hh.ru/vacancies/69378169?host=hh.ru",
+        "description": "Будет плюсом, если у вас есть опыт работы с людьми и работы разъездного характера от полугода."
     },
     {
-        "name": "Помощник бухгалтера (пекарня)",
-        "salary": {
-            "from": 250000,
-            "to": 300000,
-            "currency": "KZT",
-            "gross": true
-        },
-        "url": "https://api.hh.ru/vacancies/103694302?host=hh.ru",
-        "description": "Можно без опыта работы и диплома, сами научим. Требования: Аккуратность, внимательность, пунктуальность, быстрая обучаемость."
-    },
-    {
-        "name": "Бухгалтер",
+        "name": "Курьер - водитель на автомобиле компании",
         "salary": {
             "from": 350000,
-            "to": null,
+            "to": 500000,
             "currency": "KZT",
             "gross": false
         },
-        "url": "https://api.hh.ru/vacancies/104797515?host=hh.ru",
-        "description": "Опыт работы <highlighttext>бухгалтером</highlighttext> в одном лице от 3-х лет. Знание, навыки применения налогового законодательства, правил бухгалтерского учета."
+        "url": "https://api.hh.ru/vacancies/98646790?host=hh.ru",
+        "description": "Опыт работы на данной позиции не менее 1 года. Знание города. Наличие смартфона (IOS/Android). Клиентоориентированность. Внимательность. Ответственность. Исполнительность."
     },
     {
-        "name": "Бухгалтер отдела бухгалтерского учета по национальному проекту управления бухгалтерского учета и эко",
-        "salary": "По найденной позиции зарплата не указана",
-        "url": "https://api.hh.ru/vacancies/104828745?host=hh.ru",
-        "description": "Высшее профессиональное образование (бухгалтерский учет, аудит, экономика, финансы). Стаж работы по специальности (без учета времени обучения в ВУЗе) в областях..."
-    },
-    {
-        "name": "Бухгалтер филиала (ведущий специалист по документообороту)",
-        "salary": {
-            "from": 170000,
-            "to": 175000,
-            "currency": "RUR",
-            "gross": true
-        },
-        "url": "https://api.hh.ru/vacancies/104281739?host=hh.ru",
-        "description": "Знание теории БУ. Знание правил отражения первичных документов для БУ и НУ. Опыт ведения кадрового учета. Знание порядка и срока..."
-    },
-    {
-        "name": "Главный бухгалтер",
-        "salary": {
-            "from": 300000,
-            "to": null,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/104853100?host=hh.ru",
-        "description": "Работа в программах: Зарплата и управление персоналом. Редакция 3.1. Работа в программе <highlighttext>Бухгалтерия</highlighttext> предприятия 3.0 (1С: Предприятие..."
-    },
-    {
-        "name": "Бухгалтер-калькулятор (удаленно любой город)",
-        "salary": {
-            "from": 40000,
-            "to": null,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/104822659?host=hh.ru",
-        "description": "Опыт работы <highlighttext>бухгалтером</highlighttext>-калькулятором в общепите ОБЯЗАТЕЛЕН! Личностные качества: внимательность‚ профессиональная грамотность‚ ответственность. Опыт работы в общественном питании. "
-    },
-    {
-        "name": "Главный бухгалтер",
-        "salary": "По найденной позиции зарплата не указана",
-        "url": "https://api.hh.ru/vacancies/104069213?host=hh.ru",
-        "description": "Высшее профессиональное образование. Опыт работы в должности главного <highlighttext>бухгалтера</highlighttext> не менее 5 лет. Опыт прохождения камеральных и выездных проверок, возмещения..."
-    },
-    {
-        "name": "Главный бухгалтер",
-        "salary": {
-            "from": 270000,
-            "to": null,
-            "currency": "RUR",
-            "gross": true
-        },
-        "url": "https://api.hh.ru/vacancies/104884493?host=hh.ru",
-        "description": "Высшее профессиональное (экономическое) образование и опыт на позиции главного <highlighttext>бухгалтера</highlighttext> в компании не менее 5 лет. Опыт построения системы бухгалтерского..."
-    },
-    {
-        "name": "Бухгалтер",
-        "salary": {
-            "from": 500000,
-            "to": null,
-            "currency": "KZT",
-            "gross": true
-        },
-        "url": "https://api.hh.ru/vacancies/105037407?host=hh.ru",
-        "description": "Высшее экономическое образование. Наличие сертификата профессионального <highlighttext>бухгалтера</highlighttext> (желательно). Знание налогового законодательства. Опыт работы в транспортно-экспедиторской компании, производстве, в крупных..."
-    },
-    {
-        "name": "Главный бухгалтер (оптово-розничная Компания)",
-        "salary": {
-            "from": 20000000,
-            "to": null,
-            "currency": "UZS",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/104876648?host=hh.ru",
-        "description": "Высшее финансовое или экономическое образование, регулярное повышение квалификации. Опыт работы главным <highlighttext>бухгалтером</highlighttext> более 5 лет, опыт ведения кадрового делопроизводства. "
-    },
-    {
-        "name": "Главный бухгалтер",
-        "salary": {
-            "from": 100000,
-            "to": null,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/105051712?host=hh.ru",
-        "description": "...желанием и стремлением зарабатывать - Мы ждём Вас! Опыт работы главным <highlighttext>бухгалтером</highlighttext> от 3 лет, опыт работы в отрасли медицины приветствуется."
-    },
-    {
-        "name": "Бухгалтер",
-        "salary": {
-            "from": 80000,
-            "to": 80000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/105041859?host=hh.ru",
-        "description": "Уверенный пользователь: 1С Комплексная автоматизация (версия 2:0), MS Office, Excel, Контур Экстерн, Консультант Плюс. Релевантный опыт работы. "
-    },
-    {
-        "name": "Бухгалтер на первичную документацию",
+        "name": "Персональный водитель руководителя",
         "salary": {
             "from": null,
-            "to": 350000,
-            "currency": "KZT",
+            "to": 150000,
+            "currency": "RUR",
             "gross": true
         },
-        "url": "https://api.hh.ru/vacancies/104944250?host=hh.ru",
-        "description": "Средне-специальное/ Высшее профильное образование. Отличное знание программ 1С. Внимательность, ответственность, исполнительность, быстрый ум, системность, высокий уровень самоорганизации, позитивный..."
+        "url": "https://api.hh.ru/vacancies/105118234?host=hh.ru",
+        "description": "в процессе исполнения должностных обязанностей проявлять спокойствие, терпеливость и стрессоустойчивость, соблюдать конфиденциальность и правила этикета в отношениях с работодателем. - "
     },
     {
-        "name": "Заместитель главного бухгалтера",
+        "name": "Водитель-курьер на корпоративном автомобиле",
         "salary": {
-            "from": 250000,
+            "from": 110000,
             "to": null,
             "currency": "RUR",
-            "gross": false
+            "gross": true
         },
-        "url": "https://api.hh.ru/vacancies/104742081?host=hh.ru",
-        "description": "Высшее (профильное). Уверенный пользователь ПК, 1С Бух 8.3, ЭДО Диадок, Excel. Опыт работы в производственной компании от 5..."
+        "url": "https://api.hh.ru/vacancies/72944108?host=hh.ru",
+        "description": "Будет плюсом, если у вас есть опыт работы с людьми и работы разъездного характера от полугода."
     },
     {
-        "name": "Главный бухгалтер",
-        "salary": "По найденной позиции зарплата не указана",
-        "url": "https://api.hh.ru/vacancies/104763139?host=hh.ru",
-        "description": "...преимущество), общий стаж в <highlighttext>бухгалтерии</highlighttext> не менее 8 лет. Знание и опыт работы на всех участках <highlighttext>бухгалтерии</highlighttext>, готовность к самостоятельной..."
-    },
-    {
-        "name": "Бухгалтер на первичную документацию",
+        "name": "Личный водитель",
         "salary": {
-            "from": 50000,
-            "to": 55000,
+            "from": 150000,
+            "to": 170000,
             "currency": "RUR",
             "gross": false
         },
-        "url": "https://api.hh.ru/vacancies/105071082?host=hh.ru",
-        "description": "Предпочтительно опыт работы в производственной компании. Знание участка материальный стол и производство. Знание 1С УНФ будет преимуществом. "
+        "url": "https://api.hh.ru/vacancies/104976853?host=hh.ru",
+        "description": "Знание гаджетов: планшет, навигатор. Опыт работы персональным / семейным <highlighttext>водителем</highlighttext> длительное время, рекомендации - обязательно. В резюме указывайте опыт работы с детьми."
     },
     {
-        "name": "Бухгалтер на первичную документацию",
+        "name": "Личный помощник в семью (водитель)",
+        "salary": {
+            "from": 2000,
+            "to": null,
+            "currency": "BYR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104962585?host=hh.ru",
+        "description": "Опыт работы личным <highlighttext>водителем</highlighttext> на автомобилях премиум-класса. Опрятный внешний вид. Стаж вождения от 3-х лет. Всегда быть на..."
+    },
+    {
+        "name": "Персональный водитель руководителя",
         "salary": {
             "from": null,
-            "to": 80000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/104882433?host=hh.ru",
-        "description": "Работа с XL.WORD.ИНТЕРНЕТ. Работа в режим многозадачности. Со знанием бухгалтерского анализа . Внимательного, не конфликтного, легко обучаемого, умеющего работать в команде."
-    },
-    {
-        "name": "Бухгалтер-кассир",
-        "salary": {
-            "from": 50000,
-            "to": 60000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/105107599?host=hh.ru",
-        "description": "Готовность к ежемесячным командировкам ( продолжительность не более 4 дней). Высшее или среднее бухгалтерское образование. Опыт работы не менее 5 лет. "
-    },
-    {
-        "name": "Бухгалтер на первичную документацию",
-        "salary": {
-            "from": 50000,
-            "to": null,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/105051584?host=hh.ru",
-        "description": "Профильное образование. Знание основ бухгалтерского и налогового учетов. Знание 1С, Excel, Word. Ответственность, коммуникабельность."
-    },
-    {
-        "name": "Заместитель главного бухгалтера",
-        "salary": {
-            "from": 500000,
-            "to": 600000,
-            "currency": "KZT",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/105021580?host=hh.ru",
-        "description": "Высшее профессиональное (экономическое) образование. Стаж бухгалтерско-финансовой работы, на руководящих должностях не менее 2 лет. Знание казахского и русского языков."
-    },
-    {
-        "name": "Главный бухгалтер в юридическую фирму",
-        "salary": {
-            "from": null,
-            "to": 300000,
-            "currency": "RUR",
-            "gross": true
-        },
-        "url": "https://api.hh.ru/vacancies/104856738?host=hh.ru",
-        "description": "<highlighttext>бухгалтера</highlighttext> будет преимуществом). – общий стаж работы от 10 лет (главным <highlighttext>бухгалтером</highlighttext> / заместителем главного <highlighttext>бухгалтера</highlighttext> – от 5 лет). – глубокая экспертиза в..."
-    },
-    {
-        "name": "Главный бухгалтер в единственном лице, IT-компания ООО на УСН (6%)",
-        "salary": "По найденной позиции зарплата не указана",
-        "url": "https://api.hh.ru/vacancies/105057263?host=hh.ru",
-        "description": "Высшее профессиональное (экономическое) образование. Стаж бухгалтерской работы от 3-х лет. Опыт сдачи отчетности в полном объеме (ФСС, ПФР, 2..."
-    },
-    {
-        "name": "Бухгалтер на первичную документацию",
-        "salary": {
-            "from": 55000,
-            "to": 60000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/105116453?host=hh.ru",
-        "description": "Умение работать в 1С 8.3."
-    },
-    {
-        "name": "Помощник бухгалтера",
-        "salary": "По найденной позиции зарплата не указана",
-        "url": "https://api.hh.ru/vacancies/103663773?host=hh.ru",
-        "description": "Знание <highlighttext>бухгалтерии</highlighttext> и учета. Знание налогового, трудового Кодекса РУз. Обязательное знание русского языка. Знания основы <highlighttext>бухгалтерии</highlighttext> и учета. "
-    },
-    {
-        "name": "Бухгалтер на первичную документацию",
-        "salary": {
-            "from": 80000,
-            "to": null,
-            "currency": "RUR",
-            "gross": true
-        },
-        "url": "https://api.hh.ru/vacancies/104910131?host=hh.ru",
-        "description": "Опыт работы в коммерческих организациях. Образование высшее,средне-специальное профильное. Знание программы 1С 8.3, СБИС. Диадок."
-    },
-    {
-        "name": "Главный бухгалтер",
-        "salary": {
-            "from": 200000,
-            "to": null,
-            "currency": "RUR",
-            "gross": true
-        },
-        "url": "https://api.hh.ru/vacancies/104918683?host=hh.ru",
-        "description": "Опыт работы главным <highlighttext>бухгалтером</highlighttext>/зам главного <highlighttext>бухгалтера</highlighttext> от пяти лет. Практический навык работы в 1С <highlighttext>Бухгалтерия</highlighttext> предприятия КОРП 8..."
-    },
-    {
-        "name": "Помощник бухгалтера",
-        "salary": {
-            "from": 300000,
-            "to": 350000,
-            "currency": "KZT",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/104881270?host=hh.ru",
-        "description": "Знание программы 1С Фитнес и 1С <highlighttext>Бухгалтерия</highlighttext> 8.3. Опыт работы от 2 лет. Знание первичной бухгалтерской документации. "
-    },
-    {
-        "name": "Бухгалтер на первичную документацию",
-        "salary": {
-            "from": 120000,
             "to": 120000,
             "currency": "RUR",
-            "gross": true
+            "gross": false
         },
-        "url": "https://api.hh.ru/vacancies/104878072?host=hh.ru",
-        "description": "Высшее образование. Опыт аналогичной работы от года. Хорошее знание 1С: <highlighttext>Бухгалтерия</highlighttext> 8.3, Excel."
+        "url": "https://api.hh.ru/vacancies/105078785?host=hh.ru",
+        "description": "Опыт работы персональным <highlighttext>водителем</highlighttext> от 5-ти лет. Наличие рекомендаций от предыдущих работодателей. Опыт вождения автомобилей представительского класса. "
     },
     {
-        "name": "Бухгалтер",
+        "name": "Водитель категории Е на автомобиле компании",
         "salary": {
-            "from": 300000,
-            "to": 300000,
-            "currency": "KZT",
-            "gross": true
-        },
-        "url": "https://api.hh.ru/vacancies/105044355?host=hh.ru",
-        "description": "Знание 1С <highlighttext>Бухгалтерия</highlighttext>. Знание ФНО, СОНО, ИЭСФ."
-    },
-    {
-        "name": "Ведущий бухгалтер",
-        "salary": {
-            "from": 150000,
+            "from": 190000,
             "to": null,
             "currency": "RUR",
             "gross": false
         },
-        "url": "https://api.hh.ru/vacancies/105024512?host=hh.ru",
-        "description": "Опыт работы <highlighttext>бухгалтером</highlighttext> или казначеем от 3 лет. Опыт ведения учета ВЭД (импорт\\экспорт) - обязательно. Опыт работы в различных банк..."
+        "url": "https://api.hh.ru/vacancies/87175768?host=hh.ru",
+        "description": "Водительские права категории \"СЕ\". Опыт работы в междугородних перевозках от 1,5 лет. Соблюдение ПДД, аккуратность вождения."
     },
     {
-        "name": "Бухгалтер-калькулятор",
+        "name": "Личный/семейный водитель",
         "salary": {
-            "from": 80000,
-            "to": 100000,
+            "from": 120000,
+            "to": 150000,
             "currency": "RUR",
             "gross": false
         },
-        "url": "https://api.hh.ru/vacancies/104925852?host=hh.ru",
-        "description": "Опыт работы от 3-х лет <highlighttext>бухгалтером</highlighttext>-калькулятором в пищевом производстве. Знание участка Банк, Касса, СБИС. StoreHouse, RK, Меркурий, Частный..."
+        "url": "https://api.hh.ru/vacancies/105054917?host=hh.ru",
+        "description": "Опыт работы <highlighttext>водителем</highlighttext> от 5 лет. Наличие водительского удостоверения категории B. Знание города и пригородов. Пунктуальность, ответственность и аккуратность. "
     },
     {
-        "name": "Главный бухгалтер",
+        "name": "Персональный водитель",
         "salary": {
-            "from": 220000,
-            "to": null,
-            "currency": "RUR",
-            "gross": true
-        },
-        "url": "https://api.hh.ru/vacancies/104977780?host=hh.ru",
-        "description": "Высшее образование в области <highlighttext>бухгалтерии</highlighttext> / финансах / экономике. Опыт работы в <highlighttext>бухгалтерии</highlighttext> от 6 лет и более, в аналогичной должности (или..."
-    },
-    {
-        "name": "Главный бухгалтер",
-        "salary": {
-            "from": 250000,
-            "to": 250000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/105044021?host=hh.ru",
-        "description": "Опыт камеральных и выездных налоговых проверок. Умение оценивать налоговые риски, грамотно оптимизировать систему налогообложения. Опыт работы главным <highlighttext>бухгалтером</highlighttext> от 10..."
-    },
-    {
-        "name": "Бухгалтер первичной документации",
-        "salary": {
-            "from": 50000,
-            "to": 80000,
-            "currency": "RUR",
-            "gross": true
-        },
-        "url": "https://api.hh.ru/vacancies/105088387?host=hh.ru",
-        "description": "Пунктуальность, знание 1С. Ответственность."
-    },
-    {
-        "name": "Бухгалтер",
-        "salary": {
-            "from": 500000,
-            "to": null,
-            "currency": "KZT",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/105100044?host=hh.ru",
-        "description": "Опыт работы на позиции <highlighttext>бухгалтера</highlighttext> не менее 3 лет. Глубокие знания программ Торговля 1С 8.3, 1С <highlighttext>Бухгалтерия</highlighttext>..."
-    },
-    {
-        "name": "Главный бухгалтер",
-        "salary": {
-            "from": 250000,
-            "to": null,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/104777304?host=hh.ru",
-        "description": "Обязателен опыт работы с ВЭД (недружественные страны). Опыт работы в главного <highlighttext>бухгалтера</highlighttext> опт и розница (ООО, ИП). Опыт работы с..."
-    },
-    {
-        "name": "Бухгалтер на первичную документацию",
-        "salary": {
-            "from": 80000,
-            "to": null,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/104858236?host=hh.ru",
-        "description": "Высшее или среднее образование по соответствующей специальности. — Работа в 1С БУХ, отличное знание 1С:УНФ."
-    },
-    {
-        "name": "Заместитель главного бухгалтера",
-        "salary": {
-            "from": 80000,
-            "to": null,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/105068708?host=hh.ru",
-        "description": "Знание налогового законодательства РФ и правил ведения бухгалтерского учета. Опыт работы в 1С <highlighttext>Бухгалтерия</highlighttext> 8.3; ЗУП; знание Альфа..."
-    },
-    {
-        "name": "Бухгалтер",
-        "salary": {
-            "from": 5000000,
-            "to": null,
-            "currency": "UZS",
-            "gross": true
-        },
-        "url": "https://api.hh.ru/vacancies/103753210?host=hh.ru",
-        "description": "...Office (MS Excel, MS Word, Outlook). Свободное владение узбекским и русским языками. Опыт работы в 1С <highlighttext>Бухгалтерия</highlighttext> 8,3."
-    },
-    {
-        "name": "Бухгалтер",
-        "salary": {
-            "from": 50000,
-            "to": 70000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/104929754?host=hh.ru",
-        "description": "Опыт работы. Знание и умение работать в программе 1С. Знание офисных программ MS Office (Word, Excel). Умение быстро и..."
-    },
-    {
-        "name": "Главный бухгалтер в единственном лице",
-        "salary": {
-            "from": 500000,
-            "to": 600000,
-            "currency": "KZT",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/105057989?host=hh.ru",
-        "description": "Высшее образование (учет и аудит, экономика). Опыт работы на должности главного <highlighttext>бухгалтера</highlighttext> не менее 5-ти лет. Продвинутый пользователь Ехсеl. "
-    },
-    {
-        "name": "Ищем бухгалтера на аутсорсинге в Гриль-парк «Академус»",
-        "salary": {
-            "from": 20000,
-            "to": 20000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/104959667?host=hh.ru",
-        "description": null
-    },
-    {
-        "name": "Бухгалтер",
-        "salary": {
-            "from": 1100,
-            "to": 1300,
-            "currency": "BYR",
-            "gross": true
-        },
-        "url": "https://api.hh.ru/vacancies/104982758?host=hh.ru",
-        "description": "Требования: Опыт работы от 1 года Личные качества: порядочность, ответственность, стрессоустойчивость Опытный пользователь ПК Знание программы 1С ."
-    },
-    {
-        "name": "Бухгалтер в единственном лице (удаленно)",
-        "salary": {
-            "from": 70000,
-            "to": 100000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/104990654?host=hh.ru",
-        "description": "Опыт работы <highlighttext>бухгалтером</highlighttext> от 2-ух лет в компании с оборотом от 100 млн в год, опыт в сфере IT..."
-    },
-    {
-        "name": "Помощник бухгалтера",
-        "salary": {
-            "from": null,
-            "to": 20000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/104103224?host=hh.ru",
-        "description": "Образование в области бухгалтерского учета, финансов или экономики (возможно обучение на последних курсах). - Опыт работы в <highlighttext>бухгалтерии</highlighttext> от 6 месяцев. - "
-    },
-    {
-        "name": "Главный бухгалтер",
-        "salary": {
-            "from": 200000,
-            "to": null,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/104991114?host=hh.ru",
-        "description": "Высшее экономическое образование. - Опыт работы на аналогичной должности не менее 2 лет (торговля желательно). - Владение законодательной базой бухгалтерского и налогового..."
-    },
-    {
-        "name": "Старший бухгалтер",
-        "salary": {
-            "from": 100000,
-            "to": null,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/103994885?host=hh.ru",
-        "description": "Неполное высшее, высшее образование. Знание полного цикла от первичных документов и учета до отчетности. Опытный пользователь 1С 8.3..."
-    },
-    {
-        "name": "Бухгалтер по расчету заработной платы",
-        "salary": {
-            "from": 30000,
-            "to": 50000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/104918355?host=hh.ru",
-        "description": "Знание программных продуктов 1С. Знание законодательства в рамках кадрового учета. Уверенный пользователь офисных программ."
-    },
-    {
-        "name": "Бухгалтер на первичную документацию удаленно",
-        "salary": {
-            "from": 20000,
-            "to": null,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/104962912?host=hh.ru",
-        "description": "Опыт работы в должности <highlighttext>бухгалтера</highlighttext> на первичную документацию от 3 лет. Знание программы 1С. Внимание к деталям и аналитический..."
-    },
-    {
-        "name": "Главный бухгалтер",
-        "salary": {
-            "from": 150000,
-            "to": 200000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/105036847?host=hh.ru",
-        "description": "Высшее образование в области бухгалтерского учета, финансов или экономики. Опыт работы главным <highlighttext>бухгалтером</highlighttext> от 5 лет. Отличное знание бухгалтерского и..."
-    },
-    {
-        "name": "Бухгалтер-калькулятор",
-        "salary": {
-            "from": 50000,
-            "to": null,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/104660563?host=hh.ru",
-        "description": "Опыт работы <highlighttext>бухгалтером</highlighttext>-калькулятором от 3-х лет. Опыт разбора инвентаризаций от 2-х лет. Опыт работы с iiko. "
-    },
-    {
-        "name": "Бухгалтер",
-        "salary": {
-            "from": 130000,
+            "from": 120000,
             "to": 130000,
             "currency": "RUR",
             "gross": false
         },
-        "url": "https://api.hh.ru/vacancies/105028744?host=hh.ru",
-        "description": "Наличие высшего профессионального образования. Опыт работы в данной сфере от 2-х лет."
+        "url": "https://api.hh.ru/vacancies/105057754?host=hh.ru",
+        "description": "Стаж вождения не менее 10-лет, опыт работы персональным <highlighttext>водителем</highlighttext> не менее 5-и лет. Опыт управления автомобилями бизнес и..."
     },
     {
-        "name": "Ведущий бухгалтер",
+        "name": "Личный водитель",
+        "salary": {
+            "from": 100000,
+            "to": 130000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105119746?host=hh.ru",
+        "description": "Высокая ответственность. - Спокойная, безопасная манера вождения. - Знание ПДД. - Вежливость, пунктуальность."
+    },
+    {
+        "name": "Водитель семейный",
+        "salary": {
+            "from": 140000,
+            "to": 140000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105125161?host=hh.ru",
+        "description": "Водительский стаж от 10 лет, опыт работы в семье от 3 лет, опыт управления автомобилями представительского класса, стрессоустойчивость, наличие рекомендаций..."
+    },
+    {
+        "name": "Водитель в семью",
+        "salary": {
+            "from": 400000,
+            "to": 450000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104052015?host=hh.ru",
+        "description": "Личное авто (добираться до работы; выезжать на работу, когда авто работодателя занято). Ищем <highlighttext>водителя</highlighttext> до 40 лет, имеюшего семью. "
+    },
+    {
+        "name": "Водитель на Форд Транзит работодателя",
+        "salary": {
+            "from": 165000,
+            "to": 290000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/93708185?host=hh.ru",
+        "description": "Опыт работы на гузорвом транспорте от 1 года. Права категории В и выше. Опрятный внешний вид. Работоспособность и активность. "
+    },
+    {
+        "name": "Водитель дизельного погрузчика",
+        "salary": {
+            "from": 70000,
+            "to": 115000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/84422298?host=hh.ru",
+        "description": "Опыт работы на дизельном погрузчике. Удостоверение на право вождения погрузчика. Навыки управления погрузчиком внутри помещения. Навыки работы с навесным оборудованием..."
+    },
+    {
+        "name": "Представитель/Водитель-курьер по доставке банковских карт Альфа Банк",
+        "salary": {
+            "from": 100000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/103118287?host=hh.ru",
+        "description": "Рассматриваем кандидатов без опыта! (Готовы всему обучить). Готовность к разъездному характеру работы. Принтер (наличие дома или возможность подключения к wi..."
+    },
+    {
+        "name": "Водитель персональный",
+        "salary": {
+            "from": 329000,
+            "to": 329000,
+            "currency": "KZT",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/104830406?host=hh.ru",
+        "description": "Ответственный. Пунктуальный. Своевременное и качественное осуществление возложенных на него должностных обязанностей. Отличные знания ПДД и города."
+    },
+    {
+        "name": "Персональный водитель",
+        "salary": "По найденной позиции зарплата не указана",
+        "url": "https://api.hh.ru/vacancies/105098153?host=hh.ru",
+        "description": "Хорошая ориентация в Москве. Вод. удостоверение стаж от 10 лет. Хорошая спортивная подготовка. Опыт работы на автомобилях представительского класса. "
+    },
+    {
+        "name": "Водитель персональный",
+        "salary": "По найденной позиции зарплата не указана",
+        "url": "https://api.hh.ru/vacancies/105103178?host=hh.ru",
+        "description": "Опыт работы персональным <highlighttext>водителем</highlighttext> от 3-х лет. Соблюдение ПДД. Пунктуальность, вежливость, аккуратность, соблюдение субординации."
+    },
+    {
+        "name": "Водитель автомобиля (сфера похоронных услуг)",
+        "salary": "По найденной позиции зарплата не указана",
+        "url": "https://api.hh.ru/vacancies/95123603?host=hh.ru",
+        "description": "Опыт работы <highlighttext>водителем</highlighttext> от 3-х лет. Среднее общее/среднее специальное/среднее профессиональное/высшее оконченное образование. Водительское удостоверение категории B. "
+    },
+    {
+        "name": "Персональный водитель VIP руководителя",
+        "salary": {
+            "from": 110000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105098867?host=hh.ru",
+        "description": "Опыт работы <highlighttext>водителем</highlighttext> С ПЕРВЫМИ ЛИЦАМИ КОМПАНИИ от 3-х лет. Стаж вождения от 10 лет, права категории В. "
+    },
+    {
+        "name": "Водитель-экспедитор",
+        "salary": {
+            "from": 80000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/91365491?host=hh.ru",
+        "description": "Водительское удостоверение категории В,С. Наличие ДОПОГа - разрешение на перевозку опасных грузов (Помогаем с обучением на ДОПОГ). Ответственность, добросовестность."
+    },
+    {
+        "name": "Семейный водитель",
+        "salary": {
+            "from": 140000,
+            "to": 140000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104768628?host=hh.ru",
+        "description": "Опыт работы семейным/ персональным <highlighttext>водителем</highlighttext>. -Рекомендации от прошлых работодателей."
+    },
+    {
+        "name": "Персональный/семейный водитель (метро Фрунзенская)",
+        "salary": {
+            "from": 200000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104891837?host=hh.ru",
+        "description": "Отклики без фото, подробного опыта работы не рассматриваются. Подтвержденный опыт работы персональным <highlighttext>водителем</highlighttext> в Московских семьях более 5 лет. "
+    },
+    {
+        "name": "Личный водитель/Персональный водитель",
+        "salary": {
+            "from": 4500000,
+            "to": 5000000,
+            "currency": "UZS",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105023627?host=hh.ru",
+        "description": "Официальный стаж от 6 лет. Опыт работы в семье или личным <highlighttext>водителем</highlighttext> Обязателен. Обязательно знание русского языка. Опыт вождение иномарок."
+    },
+    {
+        "name": "Семейный водитель (Рублево-Успенское шоссе)",
+        "salary": {
+            "from": 150000,
+            "to": 150000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/104998782?host=hh.ru",
+        "description": "Требования: ‼️Готовность к полиграфу‼️. * только с опытом работы в ВИП семьях. * готовность к графику 2/2 или 3/3 и..."
+    },
+    {
+        "name": "Водитель-экспедитор",
         "salary": {
             "from": null,
-            "to": 160000,
-            "currency": "RUR",
-            "gross": true
-        },
-        "url": "https://api.hh.ru/vacancies/103499864?host=hh.ru",
-        "description": "Требования: Высшее профильное образование (экономика, бухгалтерский учет), опыт работы <highlighttext>бухгалтером</highlighttext> в области бухгалтерско-финансовой работы от 5 лет, знание законодательства..."
-    },
-    {
-        "name": "Главный бухгалтер",
-        "salary": {
-            "from": 120000,
-            "to": null,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/104882878?host=hh.ru",
-        "description": "Опыт работы не менее 5 ти лет. Знание программы 1с (<highlighttext>бухгалтерия</highlighttext> и зарплата). Внимательность, ответственность, аккуратность, стрессоустойчивость, умение работать..."
-    },
-    {
-        "name": "Помощник бухгалтера/офис менеджер",
-        "salary": {
-            "from": 55000,
-            "to": null,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/105069626?host=hh.ru",
-        "description": "Уверенный пользователь ПК, знание 1С, MS Office, ЭДО приветствуется. Умение работать с большим объемом документации. Внимательность. Ответственность."
-    },
-    {
-        "name": "Бухгалтер-кассир",
-        "salary": {
-            "from": 40000,
-            "to": null,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/104882237?host=hh.ru",
-        "description": "Опыт работы не менее 5 лет кассиром. Уверенный пользователь 1С. Знание принципов инкассации."
-    },
-    {
-        "name": "Бухгалтер-оператор 1С",
-        "salary": {
-            "from": 300000,
-            "to": null,
-            "currency": "KZT",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/104942740?host=hh.ru",
-        "description": "Обеспечение соблюдения правил и сдачи приходно-расходных документов, составление установленной отчетности. Обеспечение взаимосвязи между <highlighttext>бухгалтерией</highlighttext> и складом. Уверенное владение компьютером..."
-    },
-    {
-        "name": "Главный бухгалтер",
-        "salary": {
-            "from": 150000,
-            "to": null,
-            "currency": "RUR",
-            "gross": true
-        },
-        "url": "https://api.hh.ru/vacancies/104999022?host=hh.ru",
-        "description": "Знание 1с комплексная автоматизация, ЗУП. Знание принципов бюджетирования, БДДС и БДР. Опыт организации и структурирование различных участков учета."
-    },
-    {
-        "name": "Бухгалтер",
-        "salary": {
-            "from": 2100,
-            "to": null,
-            "currency": "BYR",
-            "gross": true
-        },
-        "url": "https://api.hh.ru/vacancies/105035765?host=hh.ru",
-        "description": "Высшее образование. Знание 1С, MS Excel. Скрупулёзность, внимательность, ответственность. Опыт работы от 3 лет (желательно в производственных компаниях)."
-    },
-    {
-        "name": "Бухгалтер",
-        "salary": {
-            "from": 70000,
-            "to": 70000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/105022654?host=hh.ru",
-        "description": "Знание программы 1С. Опыт работы <highlighttext>бухгалтером</highlighttext> не менее одного года! Уверенный пользователь пк. Уверенный пользователь: MS Office (Exсel, Word, )."
-    },
-    {
-        "name": "Заместитель главного бухгалтера",
-        "salary": {
-            "from": 250000,
-            "to": 250000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/102750993?host=hh.ru",
-        "description": "Опыт работы от 3-х лет на позиции заместителя главного <highlighttext>бухгалтера</highlighttext>/главного <highlighttext>бухгалтера</highlighttext>. Образование: высшее. Опыт работы в производственной компании . "
-    },
-    {
-        "name": "Помощник бухгалтера",
-        "salary": {
-            "from": 150000,
-            "to": 200000,
-            "currency": "KZT",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/103406881?host=hh.ru",
-        "description": "Знание компьютерной грамотности. Исполнительность и ответственность. Знание бух учета приветствуется."
-    },
-    {
-        "name": "Бухгалтер по заработной плате",
-        "salary": {
-            "from": 100000,
-            "to": null,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/104899781?host=hh.ru",
-        "description": "Высшее профильное образование. Опыт работы в аналогичной должности от 3х лет."
-    },
-    {
-        "name": "Бухгалтер на первичную документацию / Руководитель операторов 1С",
-        "salary": {
-            "from": 100000,
-            "to": null,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/104415525?host=hh.ru",
-        "description": "Опыт работы старшим оператором 1с, руководителем клиентского отдела от 3-х лет. Умение работать в режиме многозадачности. Системность. "
-    },
-    {
-        "name": "Ведущий бухгалтер",
-        "salary": {
-            "from": 85000,
-            "to": 120000,
-            "currency": "RUR",
-            "gross": true
-        },
-        "url": "https://api.hh.ru/vacancies/104912360?host=hh.ru",
-        "description": "Образование: высшее профессиональное (экономическое). Стаж работы, связанный с ведением бухгалтерского учета, составлением бухгалтерской (финансовой) отчетности не менее пяти лет. "
-    },
-    {
-        "name": "Бухгалтер по учету тмц",
-        "salary": {
-            "from": 420000,
-            "to": 420000,
-            "currency": "KZT",
-            "gross": true
-        },
-        "url": "https://api.hh.ru/vacancies/104835875?host=hh.ru",
-        "description": "Высшее образование. Опыт работы в крупных производственных компаниях от 1 года до 3 лет."
-    },
-    {
-        "name": "Бухгалтер",
-        "salary": {
-            "from": 70000,
             "to": 90000,
             "currency": "RUR",
             "gross": false
         },
-        "url": "https://api.hh.ru/vacancies/104965131?host=hh.ru",
-        "description": "Высшее экономическое образование (бухучет, экономика, финансы). Уверенные знания в области бухгалтерского учета. Опыт работы в <highlighttext>бухгалтерии</highlighttext> от 3-х лет."
+        "url": "https://api.hh.ru/vacancies/76750287?host=hh.ru",
+        "description": "Опыт работы от 1 года. Водительские права категории B,C."
     },
     {
-        "name": "Бухгалтер на первичную документацию",
-        "salary": "По найденной позиции зарплата не указана",
-        "url": "https://api.hh.ru/vacancies/103526638?host=hh.ru",
-        "description": "Ответственное отношение к работе, стрессоустойчивость, исполнительность, внимательность. Рассматриваем активных кандидатов с минимальным опытом работы, готовых к обучению в направлении <highlighttext>Бухгалтерии</highlighttext>."
-    },
-    {
-        "name": "Бухгалтер",
+        "name": "Персональный водитель (метро Тверская)",
         "salary": {
-            "from": 90000,
-            "to": null,
+            "from": 120000,
+            "to": 120000,
             "currency": "RUR",
-            "gross": true
+            "gross": false
         },
-        "url": "https://api.hh.ru/vacancies/104208769?host=hh.ru",
-        "description": "Ответственность, внимательность. Умение работать с большим объемом информации. Уверенное владение пакетом MS Office (Word, Excel), 1С <highlighttext>Бухгалтерия</highlighttext> 8.3."
+        "url": "https://api.hh.ru/vacancies/105066782?host=hh.ru",
+        "description": "Требования к кандидату: опыт работы персональным <highlighttext>водителем</highlighttext> в Московских семьях."
     },
     {
-        "name": "Главный бухгалтер",
+        "name": "Водитель-экспедитор (кат. С)",
+        "salary": {
+            "from": 140000,
+            "to": 150000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/91255584?host=hh.ru",
+        "description": "водительское удостоверение категории С. - опыт работы на грузовых автомобилях от 3 лет. - водительскую мед. справку (или готовность оформить). - "
+    },
+    {
+        "name": "Водитель-экспедитор категория В,С",
+        "salary": {
+            "from": 78300,
+            "to": 130500,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/91596206?host=hh.ru",
+        "description": "Навык работы с товарно-транспортной документацией, знание правил сдачи-приемки. Наличие карты тахогрофа или готовность ее оформить. Знание города и..."
+    },
+    {
+        "name": "Водитель автобуса г.Москва",
+        "salary": {
+            "from": null,
+            "to": 200000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/45136714?host=hh.ru",
+        "description": "Водительское удостоверение категории Д. Стаж работы на пассажирском транспорте от 1 года. Обязателен опыт работы на автобусе большой или особо..."
+    },
+    {
+        "name": "Водитель персональный",
         "salary": {
             "from": 150000,
             "to": 150000,
             "currency": "RUR",
             "gross": false
         },
-        "url": "https://api.hh.ru/vacancies/105016634?host=hh.ru",
-        "description": "Высшее профессиональное (экономическое) образование. Стаж работы главным <highlighttext>бухгалтером</highlighttext> не менее 5 лет (работа в микрофинансовых организациях будет Вашим преимуществом). "
+        "url": "https://api.hh.ru/vacancies/105122060?host=hh.ru",
+        "description": "Релевантный опыт работы от 3х лет."
     },
     {
-        "name": "Бухгалтер Удаленно",
+        "name": "Водитель в Москву",
         "salary": {
-            "from": 50000,
-            "to": null,
+            "from": 150000,
+            "to": 180000,
             "currency": "RUR",
             "gross": false
         },
-        "url": "https://api.hh.ru/vacancies/104909611?host=hh.ru",
-        "description": "Желательно иметь Высшее образование. Опыт работы <highlighttext>бухгалтером</highlighttext> от 1 года. Опытный пользователь Microsoft Office, 1С. Активность. Эффективность в условиях..."
+        "url": "https://api.hh.ru/vacancies/104712576?host=hh.ru",
+        "description": "Опыт вождения. Обучение езды на бронированных автомобилях. Проверенные рекомендации. Знание Москвы."
     },
     {
-        "name": "Главный бухгалтер / Заместитель главного бухгалтера",
+        "name": "Водитель на служебный автомобиль",
         "salary": {
-            "from": 104000,
+            "from": 100000,
             "to": null,
             "currency": "RUR",
             "gross": true
         },
-        "url": "https://api.hh.ru/vacancies/105053302?host=hh.ru",
-        "description": "Опыт работы в должности главного <highlighttext>бухгалтера</highlighttext> от пяти лет, заместителя главного <highlighttext>бухгалтера</highlighttext> от 3 лет. Высшее профильное образование. "
+        "url": "https://api.hh.ru/vacancies/104916258?host=hh.ru",
+        "description": "Первичные навыки мелкого ремонта автомобиля (желательно). Подтвержденный опыт работы офисным/персональным <highlighttext>водителем</highlighttext> от 3 лет. Умение пользоваться навигационной системой и..."
     },
     {
-        "name": "Бухгалтер",
-        "salary": {
-            "from": null,
-            "to": 150000,
-            "currency": "RUR",
-            "gross": true
-        },
-        "url": "https://api.hh.ru/vacancies/104950946?host=hh.ru",
-        "description": "Высшее экономическое образование. Уверенные знание программы «1С <highlighttext>Бухгалтерия</highlighttext> 8.3». Знания законодательства РФ по бухучету учету и налогообложению. "
-    },
-    {
-        "name": "Главный бухгалтер",
-        "salary": {
-            "from": 200000,
-            "to": null,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/104985268?host=hh.ru",
-        "description": "Опыт работы в строительной организации в аналогичной должности от 5 лет. -Высшее профильное образование. -Знание действующего бухгалтерского и налогового законодательства..."
-    },
-    {
-        "name": "Бухгалтер в кофейню",
-        "salary": {
-            "from": 40000,
-            "to": 80000,
-            "currency": "KGS",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/104777503?host=hh.ru",
-        "description": "Высшее образование (в сфере экономики, финансов). Опыт работы <highlighttext>бухгалтером</highlighttext> не менее 3-х лет. Опыт работы в общепите (желательно). "
-    },
-    {
-        "name": "Бухгалтер",
-        "salary": {
-            "from": 2300,
-            "to": null,
-            "currency": "BYR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/104983397?host=hh.ru",
-        "description": "Кандидата с опытом работы <highlighttext>бухгалтером</highlighttext>/заместителем главного <highlighttext>бухгалтера</highlighttext>. С высшим бухгалтерским или экономическим образованием."
-    },
-    {
-        "name": "Главный бухгалтер",
-        "salary": "По найденной позиции зарплата не указана",
-        "url": "https://api.hh.ru/vacancies/105073861?host=hh.ru",
-        "description": "Опыт работы на всех участках главным <highlighttext>бухгалтером</highlighttext>. Знание бухгалтерского, гражданского, налогового, трудового законодательства. Понимание теории и практики РСБУ и налогового..."
-    },
-    {
-        "name": "Бухгалтер на первичную документацию",
-        "salary": {
-            "from": 51000,
-            "to": 51000,
-            "currency": "RUR",
-            "gross": true
-        },
-        "url": "https://api.hh.ru/vacancies/105103240?host=hh.ru",
-        "description": "Высшее образование. Опыт работы от 1 до 3 лет. Внимательность, ответственность."
-    },
-    {
-        "name": "Администратор, бухгалтер",
-        "salary": {
-            "from": 250000,
-            "to": 400000,
-            "currency": "KZT",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/104904562?host=hh.ru",
-        "description": "Пунктуальность. Обладать навыками оптимизации и администрирования учебных процессов и взаимодействия с клиентами. Иметь аккуратный внешний вид."
-    },
-    {
-        "name": "Бухгалтер",
+        "name": "Водитель-экспедитор на Toyota Corolla",
         "salary": {
             "from": 45000,
             "to": null,
             "currency": "RUR",
             "gross": false
         },
-        "url": "https://api.hh.ru/vacancies/105100287?host=hh.ru",
-        "description": "Режим многозадачности. Опыт работы в строительстве, производстве приветствуется."
+        "url": "https://api.hh.ru/vacancies/105014316?host=hh.ru",
+        "description": "Водительское удостоверение категории В. Соблюдение ПДД."
     },
     {
-        "name": "Бухгалтер",
+        "name": "Водитель (Павелецкая)",
         "salary": {
-            "from": 60000,
-            "to": 80000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/104998583?host=hh.ru",
-        "description": "Знание и соблюдение налогового и бухгалтерского законодательства РФ. Требования: Знание ПК на уровне: уверенный пользователь (CRM/Excel). Аналогичный опыт работы..."
-    },
-    {
-        "name": "Бухгалтер",
-        "salary": {
-            "from": 90000,
-            "to": 100000,
-            "currency": "RUR",
-            "gross": true
-        },
-        "url": "https://api.hh.ru/vacancies/101520953?host=hh.ru",
-        "description": "Высшее экономическое образование. О/р по специальности от 3х лет. Опыт работы в транспортно-экспедиционных компаниях желателен. "
-    },
-    {
-        "name": "Заместитель главного бухгалтера",
-        "salary": {
-            "from": 70000,
-            "to": 80000,
-            "currency": "RUR",
-            "gross": true
-        },
-        "url": "https://api.hh.ru/vacancies/104984615?host=hh.ru",
-        "description": "Образование: высшее профильное. Опыт работы в аналогичной должности от 5 лет. Резюме только с актуальной фотографией. Личные качества: инициативность, порядочность..."
-    },
-    {
-        "name": "Бухгалтер",
-        "salary": {
-            "from": 75000,
-            "to": 100000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/105028474?host=hh.ru",
-        "description": null
-    },
-    {
-        "name": "Материальный бухгалтер",
-        "salary": {
-            "from": 300000,
-            "to": 320000,
-            "currency": "KZT",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/104872359?host=hh.ru",
-        "description": "2.1.1. Образование – высшее. 2.1.2. Специальность – экономика/ финансы/ бухгалтерский учет/ аудит. 2.1.3. Минимальный стаж работы..."
-    },
-    {
-        "name": "Бухгалтер",
-        "salary": {
-            "from": 90000,
-            "to": null,
-            "currency": "RUR",
-            "gross": true
-        },
-        "url": "https://api.hh.ru/vacancies/104902082?host=hh.ru",
-        "description": "Высшее экономическое образование. Стаж бухгалтерско-финансовой работы не менее 5 лет."
-    },
-    {
-        "name": "Бухгалтер",
-        "salary": {
-            "from": 40000,
-            "to": 45000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/104104258?host=hh.ru",
-        "description": "Уверенный пользователь MC Office, 1С ЗУП, 1С <highlighttext>Бухгалтерия</highlighttext>, СБИС. Ответственность, внимательность, неконфликтность, стрессоустойчивость. Умение работать в условиях многозадачности..."
-    },
-    {
-        "name": "Главный бухгалтер",
-        "salary": "По найденной позиции зарплата не указана",
-        "url": "https://api.hh.ru/vacancies/104904392?host=hh.ru",
-        "description": "Опыт работы главным <highlighttext>бухгалтером</highlighttext> не менее 3-х лет, опты управления сотрудниками. Знание всех участков бухгалтерского и налогового учета в..."
-    },
-    {
-        "name": "Бухгалтер по ВЭД",
-        "salary": {
-            "from": 130000,
+            "from": 150000,
             "to": 150000,
             "currency": "RUR",
             "gross": false
         },
-        "url": "https://api.hh.ru/vacancies/105057675?host=hh.ru",
-        "description": "Знание ВЭД, импортных, экспортных операций, валютных платежей. Опыт работы <highlighttext>бухгалтером</highlighttext> не менее 3-х лет (учет реализации, валютный контроль, банк..."
+        "url": "https://api.hh.ru/vacancies/104987117?host=hh.ru",
+        "description": "Опыт работы в семьях. Наличие рекомендации."
     },
     {
-        "name": "Бухгалтер (Товарные операции)",
+        "name": "Водитель семейный",
         "salary": {
-            "from": 1280,
-            "to": null,
-            "currency": "BYR",
-            "gross": true
-        },
-        "url": "https://api.hh.ru/vacancies/48297525?host=hh.ru",
-        "description": "Профильное образование. Опыт работы от 1 года, также рассмотрим кандидатов с минимальным опытом. Знание 1С8. Коммуникабельность, усидчивость, обучаемость."
-    },
-    {
-        "name": "Бухгалтер",
-        "salary": {
-            "from": 50000,
-            "to": null,
-            "currency": "RUR",
-            "gross": true
-        },
-        "url": "https://api.hh.ru/vacancies/104979487?host=hh.ru",
-        "description": "Уверенный пользователь ПК, знание программы 1С: Предприятие."
-    },
-    {
-        "name": "Помощник бухгалтера",
-        "salary": {
-            "from": 4000000,
-            "to": 6000000,
-            "currency": "UZS",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/105025758?host=hh.ru",
-        "description": "Опыт работы свыше 3 лет. Знание узбекского и русскаго языков."
-    },
-    {
-        "name": "Бухгалтер",
-        "salary": {
-            "from": 130000,
-            "to": 130000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/105028746?host=hh.ru",
-        "description": "Наличие высшего профессионального образования. Опыт работы в данной сфере от 2-х лет."
-    },
-    {
-        "name": "Помощник бухгалтера/ бухгалтер по реализации",
-        "salary": {
-            "from": 250000,
-            "to": null,
-            "currency": "KZT",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/105052253?host=hh.ru",
-        "description": "Среднее специальное/ высшее образование (направления: Бухучет, экономика, финансы). Опыт на аналогичной должности будет преимуществом. Навыки работы в программах: MS WORD..."
-    },
-    {
-        "name": "Бухгалтер",
-        "salary": {
-            "from": 60000,
-            "to": null,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/105072778?host=hh.ru",
-        "description": "УДАЛЁНHO и AУТCОРCИНГ HЕ РАССМАТРИВАЕМ ВООБЩЕ! 1. Опыт работы <highlighttext>бухгалтером</highlighttext>, уверенные знания как строится правильный учет. 2. Больше нужны знания..."
-    },
-    {
-        "name": "Менеджер со знанием 1С бухгалтерия",
-        "salary": {
-            "from": 300000,
-            "to": 350000,
-            "currency": "KZT",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/104845743?host=hh.ru",
-        "description": "Ответственность, коммуникабельность,внимательность. Опыт работы в 1С обязателен. Грамотная устная и письменная речь. Обучаемость и стремление работать на результат. "
-    },
-    {
-        "name": "Бухгалтер (с функцией гл. бухгалтера)",
-        "salary": {
-            "from": 80000,
-            "to": null,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/104951849?host=hh.ru",
-        "description": "Опыт работы главным <highlighttext>бухгалтером</highlighttext> от 3-х лет. Знание ФСБУ аренда, Контур-Экстерн, 1С (<highlighttext>Бухгалтерия</highlighttext>, ЗУП). Преимуществом для кандидата..."
-    },
-    {
-        "name": "Бухгалтер материальной группы",
-        "salary": {
-            "from": 80000,
-            "to": 80000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/104965861?host=hh.ru",
-        "description": "Опыт работы от 3-х лет. Высшее профильное образование. Опыт работы в строительстве будет преимуществом. Знание налогового законодательства, правил ведения..."
-    },
-    {
-        "name": "Помощник главного бухгалтера",
-        "salary": "По найденной позиции зарплата не указана",
-        "url": "https://api.hh.ru/vacancies/104710037?host=hh.ru",
-        "description": "Образование в области бухгалтерского учета, финансов или экономики. Опыт работы в <highlighttext>бухгалтерии</highlighttext> от 1 года (желательно). Знание бухгалтерского и налогового..."
-    },
-    {
-        "name": "Заместитель главного бухгалтера",
-        "salary": {
-            "from": 2500,
-            "to": 4000,
-            "currency": "BYR",
-            "gross": true
-        },
-        "url": "https://api.hh.ru/vacancies/104758529?host=hh.ru",
-        "description": "Высшее (специализированное) образование. Опыт работы. Знание бухгалтерского, налогового и трудового законодательства. Приветствуется знание ВЭД. Общая система налогообложения."
-    },
-    {
-        "name": "Бухгалтер по реализации",
-        "salary": {
-            "from": 80000,
-            "to": 80000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/105074273?host=hh.ru",
-        "description": "В связи с расширением требуется <highlighttext>бухгалтер</highlighttext> по реализации товаров, со знанием кадрового учета ( или желанием научиться) в штате 30 человек. "
-    },
-    {
-        "name": "Главный бухгалтер-Финансист",
-        "salary": "По найденной позиции зарплата не указана",
-        "url": "https://api.hh.ru/vacancies/104983633?host=hh.ru",
-        "description": "Высшее образование в области бухгалтерского учета, финансов или экономики. Опыт работы на аналогичной должности от 3 лет. Знание налогового законодательства..."
-    },
-    {
-        "name": "Бухгалтер",
-        "salary": {
-            "from": 120000,
-            "to": null,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/105099221?host=hh.ru",
-        "description": "не боитесь не стандартных задач. -Бухгалтерскими."
-    },
-    {
-        "name": "Бухгалтер по расчету заработной платы",
-        "salary": {
-            "from": 130000,
-            "to": 150000,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/104888195?host=hh.ru",
-        "description": "Опытный пользователь ПК: 1C <highlighttext>бухгалтерия</highlighttext>, ЗУП , ERP – как преимущество. Опыт работы в производственных компаниях, в компаниях с гособоронзаказом – будет..."
-    },
-    {
-        "name": "Бухгалтер",
-        "salary": {
-            "from": 1500,
-            "to": null,
-            "currency": "BYR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/104676443?host=hh.ru",
-        "description": "Ответственность."
-    },
-    {
-        "name": "Бухгалтер-кассир",
-        "salary": {
-            "from": 80000,
-            "to": null,
-            "currency": "RUR",
-            "gross": true
-        },
-        "url": "https://api.hh.ru/vacancies/104893033?host=hh.ru",
-        "description": "Образование высшее или среднее по специальности бухучет. Опыт от 3-х лет. Знание 1С ERP, 1С УПП. Обучаемость."
-    },
-    {
-        "name": "Бухгалтер на первичку в филиал г. Караганда",
-        "salary": {
-            "from": 250000,
-            "to": 250000,
-            "currency": "KZT",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/104898133?host=hh.ru",
-        "description": "Знание 1С <highlighttext>бухгалтерии</highlighttext> 8,3,8,2. Знание участка импорт/экспорт (ЕАЭС, прочий импорт) желательно. Аккуратность и внимательность. Организованность. "
-    },
-    {
-        "name": "Бухгалтер",
-        "salary": {
-            "from": 50000,
-            "to": null,
-            "currency": "RUR",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/105043874?host=hh.ru",
-        "description": "опыт работы на позиции <highlighttext>бухгалтера</highlighttext> от 1 года. - отличные знания 1С <highlighttext>Бухгалтерия</highlighttext>. - знание MS Office, информационно-правовых систем. - "
-    },
-    {
-        "name": "Бухгалтер в единственном числе / Главный бухгалтер",
-        "salary": {
-            "from": 600000,
-            "to": null,
-            "currency": "KZT",
-            "gross": false
-        },
-        "url": "https://api.hh.ru/vacancies/105100677?host=hh.ru",
-        "description": "Опыт работы: Не менее 5 лет <highlighttext>бухгалтером</highlighttext>, <highlighttext>бухгалтером</highlighttext> в единственном лице, главным <highlighttext>бухгалтером</highlighttext>. Хорошее знание учета и налогообложения в разных..."
-    },
-    {
-        "name": "Бухгалтер",
-        "salary": {
-            "from": 145000,
+            "from": 150000,
             "to": 160000,
             "currency": "RUR",
             "gross": false
         },
-        "url": "https://api.hh.ru/vacancies/104658902?host=hh.ru",
-        "description": "Опыт работы <highlighttext>бухгалтером</highlighttext> на всех участках. Понимание теории и практики РСБУ и налогового законодательства, отслеживание всех изменений в налоговом и..."
+        "url": "https://api.hh.ru/vacancies/104722595?host=hh.ru",
+        "description": "30 -40 лет. - ⁠Опрятный, деловой стиль. - Опыт работы персональным/семейным <highlighttext>водителем</highlighttext>. - Рекомендации от прошлых работодателей."
     },
     {
-        "name": "Бухгалтер по учету ТМЦ",
+        "name": "Водитель персональный",
         "salary": {
-            "from": 86000,
-            "to": 86000,
+            "from": 120000,
+            "to": 120000,
             "currency": "RUR",
             "gross": false
         },
-        "url": "https://api.hh.ru/vacancies/104974731?host=hh.ru",
-        "description": "Опыт работы от 1-го года на аналогичном участке. Знание 1 С 8.3. Внимательность, исполнительность, пунктуальность, ответственность, умение работать..."
+        "url": "https://api.hh.ru/vacancies/104957923?host=hh.ru",
+        "description": "Знание города без навигатора."
     },
     {
-        "name": "Главный бухгалтер",
+        "name": "Водитель",
+        "salary": "По найденной позиции зарплата не указана",
+        "url": "https://api.hh.ru/vacancies/105112824?host=hh.ru",
+        "description": "Опыт работы <highlighttext>водителем</highlighttext> с категорией D не менее 3-x лет. Отличное знание города. Наличие водительских прав категории BCDE. "
+    },
+    {
+        "name": "Водитель",
+        "salary": {
+            "from": 95000,
+            "to": 133000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/105065544?host=hh.ru",
+        "description": "Права категории В. Профессиональные навыки вождения от 3 лет. Опыт работы <highlighttext>водителем</highlighttext> офиса от 2 лет в Москве и Московской..."
+    },
+    {
+        "name": "Водитель",
+        "salary": {
+            "from": null,
+            "to": 600000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105009480?host=hh.ru",
+        "description": "Желание работать и контактировать с людьми."
+    },
+    {
+        "name": "Водитель в офис (с функцией АХЧ)на автомобиль Ситроен Space Tourer 2021",
+        "salary": {
+            "from": 80000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105089327?host=hh.ru",
+        "description": "Водительский стаж более 10 лет. Навыки работы с инструментом. Организаторские способности. Личные качества : опрятность , аккуратность, вежливость, порядочность и исполнительность."
+    },
+    {
+        "name": "Личный водитель руководителя",
+        "salary": {
+            "from": 100000,
+            "to": 100000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105059794?host=hh.ru",
+        "description": "Водительские права категории B. -Грамотная речь, пунктуальность, дипломатичность, деликатность, соблюдение конфиденциальности. -Стаж вождения от 6 лет."
+    },
+    {
+        "name": "Личный водитель и авто-няня",
+        "salary": {
+            "from": 5000000,
+            "to": null,
+            "currency": "UZS",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/104673484?host=hh.ru",
+        "description": "Опыт работы с детьми или в качестве авто-няни приветствуется. Ответственность, пунктуальность и внимательность. Доброжелательность и умение находить общий язык..."
+    },
+    {
+        "name": "Водитель",
+        "salary": "По найденной позиции зарплата не указана",
+        "url": "https://api.hh.ru/vacancies/94045638?host=hh.ru",
+        "description": "Аккуратность. Дисциплина. Водительское удостоверение категории \"С\", стаж вождения от 5 лет."
+    },
+    {
+        "name": "Водитель персональный",
+        "salary": {
+            "from": 150000,
+            "to": 160000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104888232?host=hh.ru",
+        "description": "Автомобиль - майбах. - Относится к авто как к своему. - ⁠Интеллигентный. - Интеллектуально развит, высшее образование обязательно. - Опрятный и прилично одет. - ⁠Порядочность. - Субординация. - "
+    },
+    {
+        "name": "Персональный водитель руководителя",
+        "salary": {
+            "from": 120000,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/104800347?host=hh.ru",
+        "description": "Стаж вождения от 5 лет. Опыт работы персональным <highlighttext>водителем</highlighttext> от 3 лет. Опрятный внешний вид. Желательно наличие рекомендаций от предыдущих..."
+    },
+    {
+        "name": "Персональный водитель генерального директора",
+        "salary": {
+            "from": null,
+            "to": 130000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/101415012?host=hh.ru",
+        "description": "ОБЯЗАТЕЛЬНО! Наличие личного автомобиля. Знание дорог г. Москвы и Московской области, выбор оптимального маршрута движения, в зависимости от дорожной ситуации. "
+    },
+    {
+        "name": "Водитель СРОЧНО!",
+        "salary": {
+            "from": null,
+            "to": 190000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104772775?host=hh.ru",
+        "description": "Давайте знакомиться! У тебя стаж вождения не менее 3 лет по категории B. Обязанности: Ответственное отношение к работе."
+    },
+    {
+        "name": "Личный водитель / Помощник руководителя",
+        "salary": {
+            "from": 115000,
+            "to": 115000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/105106181?host=hh.ru",
+        "description": "Опыт управления автомобилем бизнес класса. Уверенная манера вождения. Тактичное и вежливое поведение. Ответственность, порядочность, пунктуальность, чистоплотность. Опыт работы Личным <highlighttext>водителем</highlighttext>."
+    },
+    {
+        "name": "Водитель-экспедитор",
+        "salary": {
+            "from": null,
+            "to": 90000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/81689426?host=hh.ru",
+        "description": null
+    },
+    {
+        "name": "Персональный водитель руководителя",
+        "salary": {
+            "from": 70000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/105113995?host=hh.ru",
+        "description": "Опыт работы на аналогичной должности на автомобилях премиум-класса. Отличные навыки вождения и соблюдение ПДД. Хорошее знание города и географии..."
+    },
+    {
+        "name": "Водитель-экспедитор",
+        "salary": {
+            "from": 2000,
+            "to": 2500,
+            "currency": "BYR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104944552?host=hh.ru",
+        "description": "Автомобиль категории В рефрижератор. Ответственность. Обязательность."
+    },
+    {
+        "name": "Офисный водитель",
+        "salary": {
+            "from": null,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104984143?host=hh.ru",
+        "description": "Опыт работы на аналогичной должности от 1-3 лет. Умение заранее планировать свой маршрут. Плюсом будет знание Москвы и МО. "
+    },
+    {
+        "name": "Водитель персональный/семейный",
+        "salary": {
+            "from": 100000,
+            "to": 150000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/105102363?host=hh.ru",
+        "description": "Опыт работы в семьях. Опыт работы семейным <highlighttext>водителем</highlighttext>. Опыт работы персональным <highlighttext>водителем</highlighttext>."
+    },
+    {
+        "name": "Персональный водитель генерального директора",
+        "salary": {
+            "from": 100000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/102217340?host=hh.ru",
+        "description": "Стаж вождения от 5-ти лет (в том числе опыт работы персональным <highlighttext>водителем</highlighttext> от 3-х лет). Водительские права категории..."
+    },
+    {
+        "name": "Личный водитель",
+        "salary": {
+            "from": 48000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105060040?host=hh.ru",
+        "description": "Ездить пo объектам, (Hива Шeвpoлe). — Стаж вождения нe мeнeе 3х лeт."
+    },
+    {
+        "name": "Помощник директора (Персональный водитель)",
+        "salary": "По найденной позиции зарплата не указана",
+        "url": "https://api.hh.ru/vacancies/103516427?host=hh.ru",
+        "description": "Отличное знание города. Презентабельный внешний вид. Соблюдение правил этикета. Опыт работы персональным <highlighttext>водителем</highlighttext> будет вашим преимуществом. Стрессоустойчивость, ответственность, навыки планирования."
+    },
+    {
+        "name": "Персональный водитель генерального директора",
+        "salary": "По найденной позиции зарплата не указана",
+        "url": "https://api.hh.ru/vacancies/104921951?host=hh.ru",
+        "description": "Наличие водительского удостоверения категории \"В\", стаж вождения не менее 10 лет, в том числе на автомобилях премиум-класса не менее..."
+    },
+    {
+        "name": "Водитель персональный",
+        "salary": "По найденной позиции зарплата не указана",
+        "url": "https://api.hh.ru/vacancies/104981822?host=hh.ru",
+        "description": "Опыт вождения от 6 лет, опыт персональным <highlighttext>водителем</highlighttext> по Москве от 3 лет. Опыт управления автомобилями представительского класса! "
+    },
+    {
+        "name": "Водитель категории B на автомобиле компании",
+        "salary": {
+            "from": 80000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/105048927?host=hh.ru",
+        "description": "стаж работы 3 года. - пунктуальность, ответственность, чистоплотность. - бережное отношение к автомобилю."
+    },
+    {
+        "name": "Водитель на иномарку СРОЧНО!",
+        "salary": {
+            "from": 120000,
+            "to": 150000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104775420?host=hh.ru",
+        "description": "ВУ категории \"В\". Водительский стаж от 3-х лет. По всем вопросам - звоните или пишите!"
+    },
+    {
+        "name": "Персональный семейный водитель к частному лицу",
+        "salary": {
+            "from": 100000,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104992315?host=hh.ru",
+        "description": "Опыт работы персональным/семейным <highlighttext>водителем</highlighttext> - от 6 лет. Водительское удостоверение категории В. Опыт вождения автомобилей представительских классов. Презентабельный внешний вид. "
+    },
+    {
+        "name": "Водитель-экспедитор",
+        "salary": {
+            "from": 75000,
+            "to": 95000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/77140243?host=hh.ru",
+        "description": "Наличие военного билета (для военнообязанных). Желателен опыт работы <highlighttext>водителем</highlighttext>-экспедитором или аналогичный ( доставка товаров). Содержание авто в чистом виде, знание..."
+    },
+    {
+        "name": "Персональный водитель",
+        "salary": {
+            "from": 260000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/103262644?host=hh.ru",
+        "description": "Водительское удостоверение категории B. Минимум 6 лет профессионального стажа вождения. Обязательно знание Москвы. Возможность перемещаться без навигатора. Дополнительная подготовка по..."
+    },
+    {
+        "name": "Водитель категории B на автомобиле компании",
+        "salary": {
+            "from": 75000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/105107616?host=hh.ru",
+        "description": "стаж работы 3 года. - пунктуальность, ответственность, чистоплотность. - бережное отношение к автомобилю."
+    },
+    {
+        "name": "Водитель машины сопровождения",
+        "salary": {
+            "from": 150000,
+            "to": 150000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105072504?host=hh.ru",
+        "description": "Опыт работы <highlighttext>водителем</highlighttext> от 3 лет. Наличие УЧО 6 разряда. Физически вынослив. Опрятный внешний вид. Наличие травматического оружия."
+    },
+    {
+        "name": "Водитель-курьер на личном автомобиле (ТЦ на Вернадского)",
+        "salary": {
+            "from": 110000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/102661046?host=hh.ru",
+        "description": "Ответственно относитесь к работе. Хотите освоить навыки перспективной профессии. Имеете опыт работы – отлично! Без опыта – обучим! Быстро ориентируются в маршрутах. "
+    },
+    {
+        "name": "Водитель для руководителя с личным автомобилем",
+        "salary": {
+            "from": 800000,
+            "to": null,
+            "currency": "KZT",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105003324?host=hh.ru",
+        "description": "Отличный опыт вождения и знание города. Авто должно быть всегда в исправном состоянии и чистое. Презентабельный."
+    },
+    {
+        "name": "Персональный водитель первого лица и его семьи",
+        "salary": {
+            "from": null,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104981370?host=hh.ru",
+        "description": "Пункутальность. Ответсвенное отношение к работе. Целеустремленность. Сообразительность. Увлечение машинами и всем, что с ними связанно (тюнинг, ремонты и т.д.). "
+    },
+    {
+        "name": "Водитель категории В (Соболь)",
+        "salary": {
+            "from": 90000,
+            "to": 100000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105027153?host=hh.ru",
+        "description": "Образование не ниже среднего общего. Опыт работы <highlighttext>водителем</highlighttext>, подтвержденный трудовой книжкой не менее 1,5 лет (обязательно). Знание узлов и..."
+    },
+    {
+        "name": "Водитель категории В (Соболь)",
+        "salary": {
+            "from": 90000,
+            "to": 100000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105027147?host=hh.ru",
+        "description": "Образование не ниже среднего общего. Опыт работы <highlighttext>водителем</highlighttext>, подтвержденный трудовой книжкой не менее 1,5 лет (обязательно). Знание узлов и..."
+    },
+    {
+        "name": "Личный водитель (кат. В) на а/м организации",
+        "salary": {
+            "from": 55000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104836916?host=hh.ru",
+        "description": "Наличие водительских прав категории \"В\". Поддержание чистоты кузова и салона. Курение строго вне салона автомобиля. Ответственность, исполнительность, внимательность, аккуратность."
+    },
+    {
+        "name": "Водитель-курьер на автомобиле компании",
+        "salary": {
+            "from": 110000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/69427570?host=hh.ru",
+        "description": "Будет плюсом, если у вас есть опыт работы с людьми и работы разъездного характера от полугода."
+    },
+    {
+        "name": "Водитель персональный",
+        "salary": {
+            "from": 95000,
+            "to": 100000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105073711?host=hh.ru",
+        "description": "С опытом работы <highlighttext>водителем</highlighttext>, пунктуальный, ответственный. Автомобиль забирать и ставить на паркинг , машина не в свободном пользование."
+    },
+    {
+        "name": "Персональный водитель",
+        "salary": "По найденной позиции зарплата не указана",
+        "url": "https://api.hh.ru/vacancies/105076262?host=hh.ru",
+        "description": "Водительское удостоверение категории \"В\". Обязательный подтвержденный опыт работы персональным <highlighttext>водителем</highlighttext> топ-менеджмента от 7 лет. Отличное знание города, умение ориентироваться..."
+    },
+    {
+        "name": "Водитель служебного автомобиля (офисный)",
+        "salary": "По найденной позиции зарплата не указана",
+        "url": "https://api.hh.ru/vacancies/105100293?host=hh.ru",
+        "description": "Приветствуется опыт работы персональным / офисным / семейным <highlighttext>водителем</highlighttext>. Пунктуальность и обязательность, подача автомобиля точно в назначенное время. Стаж вождения автомобиля категории..."
+    },
+    {
+        "name": "Персональный водитель",
+        "salary": {
+            "from": 70000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105014752?host=hh.ru",
+        "description": "Стаж вождения от 5 лет. Опыт работы персональным <highlighttext>водителем</highlighttext> на автомобилях представительского класса. Опыт работы в семье. Ответственность, пунктуальность, вежливость. "
+    },
+    {
+        "name": "Водитель персональный",
+        "salary": {
+            "from": 100000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105000709?host=hh.ru",
+        "description": "Подтвержденный опыт работы персональным/личным <highlighttext>водителем</highlighttext> от 5 лет по трудовой книжке либо наличие договора, рекомендательных писем. -Наличие водительской справки..."
+    },
+    {
+        "name": "Водитель",
+        "salary": "По найденной позиции зарплата не указана",
+        "url": "https://api.hh.ru/vacancies/105054147?host=hh.ru",
+        "description": "Опыт работы <highlighttext>водителем</highlighttext> с категорией D не менее 3-x лет. Отличное знание города (без помощи карт). Наличие категорий B..."
+    },
+    {
+        "name": "Водитель офисный",
+        "salary": {
+            "from": 50000,
+            "to": 55000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105064022?host=hh.ru",
+        "description": "Подтверждённый водительский стаж по трудовой книжке от 3-х лет. Наличие водительского удостоверения категории В,С. Представительный внешний вид, ответственность..."
+    },
+    {
+        "name": "Водитель-курьер на личном автомобиле (ТЦ МетроМаркет)",
+        "salary": {
+            "from": 110000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/96608110?host=hh.ru",
+        "description": "Ответственно относитесь к работе. Хотите освоить навыки перспективной профессии. Имеете опыт работы – отлично! Без опыта – обучим! Быстро ориентируются в маршрутах. "
+    },
+    {
+        "name": "Персональный водитель",
+        "salary": "По найденной позиции зарплата не указана",
+        "url": "https://api.hh.ru/vacancies/104875830?host=hh.ru",
+        "description": "Отличное знание Москвы и Московской области; правил дорожного движения. Опыт работы персональным <highlighttext>водителем</highlighttext>. Водительский стаж не менее 5-ти лет..."
+    },
+    {
+        "name": "Водитель",
+        "salary": "По найденной позиции зарплата не указана",
+        "url": "https://api.hh.ru/vacancies/105122264?host=hh.ru",
+        "description": null
+    },
+    {
+        "name": "Персональный водитель руководителя",
+        "salary": {
+            "from": null,
+            "to": 150000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104907583?host=hh.ru",
+        "description": "Активная жизненная позиция. Пунктуальность, честность, порядочность, ответственность. Опыт экстремального вождения. Опыт управления автомобилями бизнес и премиум-класса. Наличие прав категории..."
+    },
+    {
+        "name": "Личный водитель в семью",
+        "salary": {
+            "from": 100000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105099502?host=hh.ru",
+        "description": "Строго соблюдать ПДД и правила дорожного движения. Требования: Опыт работы персональным <highlighttext>водителем</highlighttext>, в том числе семейным обязателен. Наличие рекомендаций от..."
+    },
+    {
+        "name": "Водитель персональный",
+        "salary": {
+            "from": 60000,
+            "to": 80000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104815845?host=hh.ru",
+        "description": "Опыт в данной должности от 5 лет. Опрятный внешний вид. Корректный в общении."
+    },
+    {
+        "name": "Водитель на автомобиль компании (категория В)",
+        "salary": {
+            "from": 120000,
+            "to": 186000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/103547863?host=hh.ru",
+        "description": "Опыт работы не требуется. - Стаж вождения 1,5 по В/У. - Умение ориентироваться на местности, выбирая лучший маршрут."
+    },
+    {
+        "name": "Личный водитель руководителя",
+        "salary": {
+            "from": 105000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105027073?host=hh.ru",
+        "description": "Опыт работы не менее 3 лет водительского стажа (опыт работы личным <highlighttext>водителем</highlighttext> приветствуется). Соблюдение этики и конфиденциальности. Пунктуальность‚ внимательность‚ исполнительность..."
+    },
+    {
+        "name": "Водитель / телохранитель.",
+        "salary": {
+            "from": 350000,
+            "to": null,
+            "currency": "KZT",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105100900?host=hh.ru",
+        "description": "Ездить будете на автомобиле руководителя (представительский класс). Нужен трудолюбивый, пунктуальный, ответственный с водительским стажем не менее 10 лет. - "
+    },
+    {
+        "name": "Водитель",
+        "salary": {
+            "from": 40000,
+            "to": null,
+            "currency": "KGS",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104874022?host=hh.ru",
+        "description": "Категория прав В, С. Знание правил дорожного движения, навыки безопасного вождения. Презентабельный внешний вид. Хорошее знание города. Знание устройства автомобиля..."
+    },
+    {
+        "name": "Водитель-экспедитор категории В на автомобиле компании (Гродно)",
+        "salary": {
+            "from": 2100,
+            "to": null,
+            "currency": "BYR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104537050?host=hh.ru",
+        "description": "Опыт работы на микроавтобусе 1,5- 2 тонны. Права категории В. Внимательность, порядочность, пунктуальность."
+    },
+    {
+        "name": "Водитель служебного автомобиля",
+        "salary": {
+            "from": 65000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105100636?host=hh.ru",
+        "description": "Образование - среднее профессиональное. Опыт работы <highlighttext>водителем</highlighttext> и безаварийной езды. Знание технического устройства автомобиля. Умение работать в команде, в режиме многозадачности..."
+    },
+    {
+        "name": "Водитель легкового автотранспорта",
+        "salary": {
+            "from": 4000000,
+            "to": null,
+            "currency": "UZS",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104894863?host=hh.ru",
+        "description": "...любых погодных условиях. Права категории В. Хорошее знание города. С опытом работы персонального <highlighttext>водителя</highlighttext> для руководителя. Умение оформлять путевые документы."
+    },
+    {
+        "name": "Водитель персональный",
+        "salary": {
+            "from": 75000,
+            "to": 80000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105117714?host=hh.ru",
+        "description": "Соблюдение субординации, пунктуальность, вежливость, корректность. - Опыт работы личным <highlighttext>водителем</highlighttext> на автомобилях представительского класса не менее 5-и лет. - "
+    },
+    {
+        "name": "Водитель автомобиля",
+        "salary": {
+            "from": 75000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104976426?host=hh.ru",
+        "description": "Водительское удостоверение категорий \"В\", \"С\". Удостоверение тракториста категорий \"В\", \"С\", \"D\" (желательно). Знание устройства автомобиля."
+    },
+    {
+        "name": "Водитель погрузчика",
+        "salary": {
+            "from": 106000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/92452284?host=hh.ru",
+        "description": "Образование не ниже среднего. - <highlighttext>Водитель</highlighttext> погрузчика категории В с допуском к электрооборудованию. - Умения работы с ТСД и навыки в эксплуатации..."
+    },
+    {
+        "name": "Водитель автомобиля легкового (категория B)",
+        "salary": {
+            "from": 80000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/103474302?host=hh.ru",
+        "description": "Опыт аналогичной работы от 3 лет . Приветствуется наличие обучении зимние вождение, пожарная и электробезопасность, оказание первой мед. помощи и.т..."
+    },
+    {
+        "name": "Личный водитель (для ребенка)",
+        "salary": {
+            "from": 150000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/103720994?host=hh.ru",
+        "description": "Опыт работы персональным <highlighttext>водителем</highlighttext> для детей - от 3 лет. Комфортное аккуратное вождение. Вежливость, пунктуальность. Стрессоустойчивость."
+    },
+    {
+        "name": "Корпоративный водитель",
+        "salary": {
+            "from": 85000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104982588?host=hh.ru",
+        "description": "ОПЫТ РАБОТЫ ЛИЧНЫМ <highlighttext>ВОДИТЕЛЕМ</highlighttext> или <highlighttext>ВОДИТЕЛЕМ</highlighttext> ОФИСА ОТ 3 ЛЕТ обязательно! Стаж вождения не менее 5 лет. Спокойный стиль вождения. "
+    },
+    {
+        "name": "Водитель спецавтомобиля",
+        "salary": {
+            "from": 80000,
+            "to": 80000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/104794149?host=hh.ru",
+        "description": "Среднее основное общее образование. Категории водительского удостоверения С и Д., Д и Е."
+    },
+    {
+        "name": "Семейный водитель",
+        "salary": {
+            "from": 350000,
+            "to": null,
+            "currency": "KZT",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104085380?host=hh.ru",
+        "description": "Водительское удостоверение категории B. Личный автомобиль."
+    },
+    {
+        "name": "Водитель персональный",
+        "salary": {
+            "from": 50000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104952316?host=hh.ru",
+        "description": "Опыт работы от 3-х лет. Аккуратный стиль вождения. Пунктуальность, ответственность, добросовестность, стрессоустойчивость, исполнительность. Водительское удостоверение категории В."
+    },
+    {
+        "name": "Водитель",
+        "salary": {
+            "from": 50000,
+            "to": 75000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105060856?host=hh.ru",
+        "description": "Водительские права категории В."
+    },
+    {
+        "name": "Водитель автомобиля (категории С)",
+        "salary": {
+            "from": 150000,
+            "to": 200000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/93985157?host=hh.ru",
+        "description": "Ты <highlighttext>водитель</highlighttext> с правами категории “С”? Приветствуется опыт работы в должностях:"
+    },
+    {
+        "name": "Офисный водитель",
+        "salary": {
+            "from": 60000,
+            "to": 70000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/105030620?host=hh.ru",
+        "description": "Наличие водительских прав нужной категории для конкретного транспортного средства (легкового транспорта). Опыт вождения транспортного средства (от 3 лет и более). "
+    },
+    {
+        "name": "Персональный/личный водитель руководителя",
+        "salary": "По найденной позиции зарплата не указана",
+        "url": "https://api.hh.ru/vacancies/104911987?host=hh.ru",
+        "description": "Умение соблюдать конфиденциальность. Высокий уровень стрессоустойчивости, ответственности, пунктуальности, интеллигентность и порядочность. Опыт работы личным (персональным) <highlighttext>водителем</highlighttext> на автомобилях премиум класса."
+    },
+    {
+        "name": "Личный/семейный водитель",
+        "salary": {
+            "from": 120000,
+            "to": 150000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104929207?host=hh.ru",
+        "description": "Соблюдение норм этики и конфиденциальности. Опыт работы на премиальном автомобиле (автомобиль предоставляется). Опрятный внешний вид. Знание Москвы и МО. "
+    },
+    {
+        "name": "Водитель категории B",
+        "salary": {
+            "from": 60000,
+            "to": 80000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105045846?host=hh.ru",
+        "description": "Знание устройства автомобиля. Внимательность, ответственность. Знание правил ТО и ремонта автотранспорта. Готовность к работе по гибкому графику."
+    },
+    {
+        "name": "Водитель-курьер на автомобиль компании (Новый Арбат)",
+        "salary": {
+            "from": 80000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/88840886?host=hh.ru",
+        "description": "Знание дорог Москвы и правил дорожного движения. Умение быстро ориентироваться на местности. Стаж вождения от 3-х лет обязателен. "
+    },
+    {
+        "name": "Водитель в Бизнес-Центр",
+        "salary": {
+            "from": null,
+            "to": 90000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105029315?host=hh.ru",
+        "description": "Опыт вождения от 2-х лет. Навык работы с людьми. Соблюдение правил ПДД. Коммуникабельность, ответственность, опрятный внешний вид (Обязательно)."
+    },
+    {
+        "name": "Личный водитель",
+        "salary": {
+            "from": 140000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/103901770?host=hh.ru",
+        "description": "2. Здоровый образ жизни."
+    },
+    {
+        "name": "Водитель персональный",
+        "salary": "По найденной позиции зарплата не указана",
+        "url": "https://api.hh.ru/vacancies/105024535?host=hh.ru",
+        "description": "Образование- не ниже среднего специального. Опыт <highlighttext>водителем</highlighttext> не менее 3 лет, с подтвержденным стажем по ТК. Опыт в сопровождении первых..."
+    },
+    {
+        "name": "Водитель-курьер",
+        "salary": {
+            "from": 2100,
+            "to": 5000,
+            "currency": "BYR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/91177186?host=hh.ru",
+        "description": "Права категории В со стажем вождения не менее 3-х лет или стаж 1 год в службе доставки. "
+    },
+    {
+        "name": "Персональный водитель",
+        "salary": {
+            "from": 130000,
+            "to": 150000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/99590199?host=hh.ru",
+        "description": "Опыт работы персональным/семейным <highlighttext>водителем</highlighttext> от 3 лет. Опыт уверенного вождения автомобилей представительского класса. Соблюдение конфиденциальности и дресс-кода, дисциплинированность..."
+    },
+    {
+        "name": "Личный водитель",
+        "salary": {
+            "from": 80000,
+            "to": 100000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104790951?host=hh.ru",
+        "description": "Курсы экстремального вождения будут плюсом. Готовность работать в ненормированном графике (в т.ч в выходные). Хорошие знания г. Екатеринбурга. "
+    },
+    {
+        "name": "Водитель легкового автомобиля",
+        "salary": {
+            "from": 75000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/105108570?host=hh.ru",
+        "description": "К стажу работы: подтвержденный стаж работы по специальности не менее 3 (трех) лет . К стажу управления автомобилем: не менее 10..."
+    },
+    {
+        "name": "Водитель",
+        "salary": {
+            "from": 103000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/95616627?host=hh.ru",
+        "description": null
+    },
+    {
+        "name": "Персональный водитель",
+        "salary": {
+            "from": 100000,
+            "to": 100000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105025558?host=hh.ru",
+        "description": "Опыт работы персональным <highlighttext>водителем</highlighttext> от 3-х лет. Представительный вид, ответственность, пунктуальность."
+    },
+    {
+        "name": "Личный водитель",
+        "salary": {
+            "from": 80000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105121056?host=hh.ru",
+        "description": "...дорог СПб и пригорода. Стаж вождения по СПб и пригороду не менее 10 лет. Опыт работы <highlighttext>водителем</highlighttext> руководителя, семейным <highlighttext>водителем</highlighttext>."
+    },
+    {
+        "name": "Водитель персональный",
+        "salary": {
+            "from": 85000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104973050?host=hh.ru",
+        "description": null
+    },
+    {
+        "name": "Водитель персональный (семейный)",
+        "salary": {
+            "from": null,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105034895?host=hh.ru",
+        "description": "Опыт работы персональным <highlighttext>водителем</highlighttext> на автомобиле бизнес-класса и люкс от 3-х лет. Наличие водительского удостоверения категории В (приветствуется..."
+    },
+    {
+        "name": "Семейный водитель",
+        "salary": {
+            "from": 130000,
+            "to": 150000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105125938?host=hh.ru",
+        "description": "Наличие опыта работы в семье. Рекомендации с предыдущих мест работы. Опыт вождения автомобилей представительского класса. Релевантный опыт работы."
+    },
+    {
+        "name": "Водитель-экспедитор (Категория В)",
+        "salary": {
+            "from": 2200,
+            "to": 3500,
+            "currency": "BYR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104232455?host=hh.ru",
+        "description": "Наличие прав категории В, опыт работы не менее 3х лет. Наличие санитарной книжки. Базовые знания устройства автомобиля. "
+    },
+    {
+        "name": "Персональный/семейный водитель",
+        "salary": {
+            "from": 90000,
+            "to": 110000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105053957?host=hh.ru",
+        "description": "Спокойная, комфортная и уверенная манера вождения. ​​​​​- Опыт работы в аналогичной должности и вождения автомобилей представительского класса от 5 лет, обязательно..."
+    },
+    {
+        "name": "Тракторист-Водитель погрузчика",
+        "salary": {
+            "from": 90000,
+            "to": 104000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/94737972?host=hh.ru",
+        "description": "Опыт работы и наличие прав В, С обязательно."
+    },
+    {
+        "name": "Семейный водитель",
+        "salary": {
+            "from": 100000,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105075905?host=hh.ru",
+        "description": "Опыт работы, знание Москвы. Коммуникабельность."
+    },
+    {
+        "name": "Личный водитель",
+        "salary": {
+            "from": 120000,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104741929?host=hh.ru",
+        "description": "Опыт работы личным <highlighttext>водителем</highlighttext> обязателен (желательно с детьми). Стаж вождения от 10 лет(без опыта не рассматриваем), честность, аккуратное вождение..."
+    },
+    {
+        "name": "Водитель - Помощник руководителя",
+        "salary": {
+            "from": null,
+            "to": 150000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105029033?host=hh.ru",
+        "description": "Большим преимуществом будут знания в области автомеханики. Опыт работы личным/семейным <highlighttext>водителем</highlighttext> от 5 лет на автомобилях представительского класса. "
+    },
+    {
+        "name": "Водитель-курьер на автомобиле компании",
+        "salary": {
+            "from": 110000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/72784489?host=hh.ru",
+        "description": "Будет плюсом, если у вас есть опыт работы с людьми и работы разъездного характера от полугода."
+    },
+    {
+        "name": "Водитель руководителя",
+        "salary": {
+            "from": 100000,
+            "to": 100000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104665907?host=hh.ru",
+        "description": "Требования: Опыт работы не менее 3-х лет на должности персонального/офисного <highlighttext>водителя</highlighttext>. Водительское удостоверение категории B. Аккуратный стиль вождения. "
+    },
+    {
+        "name": "Курьер-водитель",
+        "salary": {
+            "from": 110000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/78369001?host=hh.ru",
+        "description": "Будет плюсом, если у вас есть опыт работы с людьми и работы разъездного характера от полугода."
+    },
+    {
+        "name": "Помощник по хозяйству с функциями водителя (Павловская Слобода)",
+        "salary": {
+            "from": 130000,
+            "to": 150000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104726133?host=hh.ru",
+        "description": "Требование: Опыт работы в аналогичной сфере."
+    },
+    {
+        "name": "Персональный личный водитель для руководителя",
+        "salary": {
+            "from": 80000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104943677?host=hh.ru",
+        "description": "Только с опытом работы персональным/семейным <highlighttext>водителем</highlighttext>. Хорошее отношение к детям. Стаж вождения не менее 10 лет. Наличие лично автомобиля. "
+    },
+    {
+        "name": "Личный водитель руководителя",
+        "salary": {
+            "from": 120000,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104861203?host=hh.ru",
+        "description": "Спокойный и уверенный стиль вождения с соблюдением правил дорожного движения. Опыт работы личным <highlighttext>водителем</highlighttext> и опыт работы на автомобилях премиум..."
+    },
+    {
+        "name": "Водитель офисный",
+        "salary": {
+            "from": 90000,
+            "to": 100000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/104915497?host=hh.ru",
+        "description": "Опыт работы от 5 лет (<highlighttext>водитель</highlighttext>-экспедитор, офисный <highlighttext>водитель</highlighttext>). Наличие прав с указанием категории, стажа вождения: наличие удостоверения кат. «"
+    },
+    {
+        "name": "Личный водитель в семью",
+        "salary": {
+            "from": 120000,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104741930?host=hh.ru",
+        "description": "Опыт работы личным <highlighttext>водителем</highlighttext> обязателен (желательно с детьми). Стаж вождения от 10 лет(без опыта не рассматриваем), честность, аккуратное вождение..."
+    },
+    {
+        "name": "Водитель-экспедитор (В кат)",
+        "salary": {
+            "from": 87000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/91801581?host=hh.ru",
+        "description": "Права кат. В, кат С- будет являться преимуществом. Ответственность. Соблюдение ПДД."
+    },
+    {
+        "name": "Водитель-экспедитор на Исузу 3т (категории С)",
+        "salary": {
+            "from": 80000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/87693800?host=hh.ru",
+        "description": "Водительские права категории В,С образца РФ. Знание города. Пунктуальность, опрятность. Медкнижка (приветствуется)."
+    },
+    {
+        "name": "Семейный Водитель (на служебный автомобиль)",
+        "salary": {
+            "from": 70000,
+            "to": 85000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/104793633?host=hh.ru",
+        "description": "Опыт работы <highlighttext>водителем</highlighttext>. Надежный и чистоплотный, пунктуальный."
+    },
+    {
+        "name": "Личный водитель Генерального директора",
+        "salary": {
+            "from": null,
+            "to": 156000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/103977576?host=hh.ru",
+        "description": "Водительское удостоверение категории В. Опыт вождения премиальных автомобилей от 3 лет. Отличное знание Москвы и Московской области. Умение ориентироваться в..."
+    },
+    {
+        "name": "Водитель категории В",
+        "salary": {
+            "from": 190000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/100504659?host=hh.ru",
+        "description": "Опыт работы на доставке товаров и изделий приветствуется. Высокая самоорганизация, дисциплинированность. Категория прав В."
+    },
+    {
+        "name": "Водитель для руководителя",
         "salary": {
             "from": 250000,
-            "to": 250000,
+            "to": 300000,
+            "currency": "KZT",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/104982103?host=hh.ru",
+        "description": "Личное авто. Опыт работы. Стрессоустойчивость. Умение работать в коллективе. Готовность к ненормированному графику."
+    },
+    {
+        "name": "Персональный водитель (Сколково)",
+        "salary": {
+            "from": 180000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/103594334?host=hh.ru",
+        "description": "Подтвержденный опыт работы персональным <highlighttext>водителем</highlighttext> более 5 лет. Желательно наличие личного авто для передвижения к месту стоянки авто руководителя. "
+    },
+    {
+        "name": "Личный водитель (ВАХТА)",
+        "salary": {
+            "from": 100000,
+            "to": 115000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/105043801?host=hh.ru",
+        "description": "Отличное знание Москвы. Опыт работы <highlighttext>водителем</highlighttext> не менее 3-х лет. Стрессоустойчивость, спокойные навыки вождения."
+    },
+    {
+        "name": "Водитель",
+        "salary": {
+            "from": 100000,
+            "to": null,
             "currency": "RUR",
             "gross": false
         },
-        "url": "https://api.hh.ru/vacancies/105037889?host=hh.ru",
-        "description": "Опыт работы в должности Заместителя главного <highlighttext>бухгалтера</highlighttext> от 2 лет. - Опыт работы в должности <highlighttext>бухгалтера</highlighttext> от 5 лет. - "
+        "url": "https://api.hh.ru/vacancies/104960964?host=hh.ru",
+        "description": "Водительские права категории В,С. Стаж вождения от 8 лет, опыт вождения габаритных автомобилей (ГАЗЕЛЬ). Отличное ориентация по Москве и..."
     },
     {
-        "name": "Бухгалтер",
+        "name": "Персональный водитель руководителя",
+        "salary": {
+            "from": 85000,
+            "to": 92000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/105114618?host=hh.ru",
+        "description": null
+    },
+    {
+        "name": "Водитель на автомобиль компании (категория В)",
+        "salary": {
+            "from": 146000,
+            "to": 210000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/103276348?host=hh.ru",
+        "description": "Опыт работы не требуется. - Стаж вождения 1,5 по В/У. - Умение ориентироваться на местности, выбирая лучший маршрут."
+    },
+    {
+        "name": "Водитель автомобиля категории В для первого лица",
+        "salary": {
+            "from": 105000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104798240?host=hh.ru",
+        "description": "Опыт работы персональным <highlighttext>водителем</highlighttext> от 3-х лет. Сохранение конфиденциальности. Отличное знание ПДД. Отличное знание города."
+    },
+    {
+        "name": "Персональный водитель руководителя",
         "salary": "По найденной позиции зарплата не указана",
-        "url": "https://api.hh.ru/vacancies/105001486?host=hh.ru",
-        "description": "Английский (средний уровень). Опыт работы 1-3 года. Профильное образование. Аналитический склад ума. Знание 1С 8, уверенный пользователь ПК. "
+        "url": "https://api.hh.ru/vacancies/104910474?host=hh.ru",
+        "description": "В\" и водительский стаж не менее 3 лет. Желателен опыт работы персональным <highlighttext>водителем</highlighttext> от 3-х лет (рекомендации от предыдущих..."
     },
     {
-        "name": "Бухгалтер в одном лице",
+        "name": "Водитель персональный",
+        "salary": {
+            "from": 1000,
+            "to": 2500,
+            "currency": "BYR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104694303?host=hh.ru",
+        "description": "Права категории «В». Стаж вождения от 3 лет. Медицинская справка. Образование среднее специальное или высшее. Высокая культура вождения. "
+    },
+    {
+        "name": "Водитель легкового автомобиля (Лексус)",
+        "salary": {
+            "from": 55000,
+            "to": 60000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105036645?host=hh.ru",
+        "description": "Профессиональное вождение автомобиля и наличие действующих прав категории В. Общий стаж вождения не менее 5 лет. Знание автомобильных дорог Крыма. "
+    },
+    {
+        "name": "Водитель",
+        "salary": {
+            "from": 90000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104823198?host=hh.ru",
+        "description": "Опыт работы в должности <highlighttext>водителя</highlighttext> не менее 5 лет. Отличное знание Москвы. Надежность, ответственность, аккуратность, дисциплинированность, вежливость, пунктуальность. "
+    },
+    {
+        "name": "Водитель офисный",
+        "salary": "По найденной позиции зарплата не указана",
+        "url": "https://api.hh.ru/vacancies/104855762?host=hh.ru",
+        "description": "Практический стаж вождения на автомобиле категории В более 3-х лет. - Отличное знание города Москва. - Соблюдение ПДД. - Аккуратность и бережное..."
+    },
+    {
+        "name": "Водитель категории В",
+        "salary": {
+            "from": 105000,
+            "to": 110000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104989742?host=hh.ru",
+        "description": "Требования: Опыт работы <highlighttext>водителем</highlighttext> не менее 2-х лет. Опыт работы <highlighttext>водителем</highlighttext> не менее 2-х лет. В/У категории..."
+    },
+    {
+        "name": "Личный водитель",
+        "salary": {
+            "from": 100000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104811335?host=hh.ru",
+        "description": "...ПДД и города. Опрятный внешний вид. Вежливость, тактичность, пунктуальность, стрессоустойчивость, ответственность, исполнительность. Опыт работы на позиции личный <highlighttext>водитель</highlighttext>, семейный <highlighttext>водитель</highlighttext>."
+    },
+    {
+        "name": "Водитель аэродромной техники",
+        "salary": "По найденной позиции зарплата не указана",
+        "url": "https://api.hh.ru/vacancies/100814215?host=hh.ru",
+        "description": "Оконченное средне-специальное и\\или высшее образование. Водительское удостоверение категории B, C. Базовые практические знания технического обслуживания автотранспорта. "
+    },
+    {
+        "name": "Водитель с собственным автотранспортом (с объемом двигателя до 2 - 2,5 литров)",
         "salary": {
             "from": 250000,
             "to": 350000,
             "currency": "KZT",
             "gross": false
         },
-        "url": "https://api.hh.ru/vacancies/105059996?host=hh.ru",
-        "description": "Высшее образование в области бухгалтерского учета. Знание Программ 1С версия 8.3; Excel; КН; СОНО; Egov. Опыт работы от..."
+        "url": "https://api.hh.ru/vacancies/103377766?host=hh.ru",
+        "description": "Отличное знание ПДД и города."
+    },
+    {
+        "name": "Личный водитель",
+        "salary": {
+            "from": 70000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104871318?host=hh.ru",
+        "description": "Опыт работы семейным/личным <highlighttext>водителем</highlighttext>. - Стаж вождения не менее 6 лет. - Умение находить общий язык с детьми. - Ответственность, пунктуальность. - "
+    },
+    {
+        "name": "Водитель",
+        "salary": {
+            "from": 1800,
+            "to": null,
+            "currency": "BYR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/105036972?host=hh.ru",
+        "description": "Водительское удостоверение категории В,( Е – приветствуется). Стаж вождения от 2 лет. Энергичность, ответственность и желание работать."
+    },
+    {
+        "name": "Водитель легкового автомобиля",
+        "salary": "По найденной позиции зарплата не указана",
+        "url": "https://api.hh.ru/vacancies/105058075?host=hh.ru",
+        "description": "Опыт работы личным <highlighttext>водителем</highlighttext>. Адрес проживания Чиланзарский район С, 7, 9, или 10 квартал. Водительское удостоверение категории В и водительский..."
+    },
+    {
+        "name": "Водитель автомобиля в медицинский центр",
+        "salary": "По найденной позиции зарплата не указана",
+        "url": "https://api.hh.ru/vacancies/105120704?host=hh.ru",
+        "description": "Наличие водительского удостоверения кат. В. Водительский стаж не менее 3 лет. Спокойный и уверенный стиль вождения. Знание города."
+    },
+    {
+        "name": "Водитель-курьер на личном автомобиле (Партнер)",
+        "salary": {
+            "from": null,
+            "to": 70000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/91881723?host=hh.ru",
+        "description": "Автомобиль. Вежливость, клиентоориентированность. Умение ориентироваться в городе. Возможность оформления статуса самозанятого как партнера нашей компании."
+    },
+    {
+        "name": "Водитель-экспедитор",
+        "salary": {
+            "from": 3000,
+            "to": 4500,
+            "currency": "BYR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/104828087?host=hh.ru",
+        "description": "Категории С,СЕ. Опыт работы. Честность и порядочность. Коммуникабельность. Вежливость. Чистоплотность. Внимательность."
+    },
+    {
+        "name": "Водитель на автомобиль компании, СРОЧНО ( Категория B )",
+        "salary": {
+            "from": 146000,
+            "to": 210000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/103276346?host=hh.ru",
+        "description": "Опыт работы не требуется. - Стаж вождения 1,5 по В/У. - Умение ориентироваться на местности, выбирая лучший маршрут."
+    },
+    {
+        "name": "Водитель компании ( категория B )",
+        "salary": {
+            "from": 146000,
+            "to": 210000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/103473386?host=hh.ru",
+        "description": "Опыт работы не требуется. - Стаж вождения 1,5 по В/У. - Умение ориентироваться на местности, выбирая лучший маршрут."
+    },
+    {
+        "name": "Водитель-курьер на личном автомобиле",
+        "salary": {
+            "from": 65000,
+            "to": 131900,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/103555643?host=hh.ru",
+        "description": "Требуется категория В. Опыт работы необязателен. Подходит любой автомобиль."
+    },
+    {
+        "name": "Водитель-экспедитор (метро Волгоградский проспект)",
+        "salary": {
+            "from": null,
+            "to": 150000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/91886290?host=hh.ru",
+        "description": "Хотите стабильно и много зарабатывать. Доброжелательный и отзывчивый. Внимательный и организованный. Желаете делать больше для общего результата. Водительское удостоверение кат. "
+    },
+    {
+        "name": "Водитель частной компании (категория B)",
+        "salary": {
+            "from": 146000,
+            "to": 210000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/103407176?host=hh.ru",
+        "description": "Опыт работы не требуется. - Стаж вождения 1,5 по В/У. - Умение ориентироваться на местности, выбирая лучший маршрут."
+    },
+    {
+        "name": "Водитель на легковую автомашину",
+        "salary": {
+            "from": 250000,
+            "to": 250000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105113487?host=hh.ru",
+        "description": "Опыт работы вождения а/машины , знание города и Алматинской области. Навыки безаварийного вождения а/машины. Наличие водительского удостоверения, кат. "
+    },
+    {
+        "name": "Водитель",
+        "salary": "По найденной позиции зарплата не указана",
+        "url": "https://api.hh.ru/vacancies/105119068?host=hh.ru",
+        "description": "Готовность к командировкам. Готовность к сверхурочным работам, к работам в выходные дни. Водительское удостоверение категории «В». Стаж вождения от 6..."
+    },
+    {
+        "name": "Офисный водитель",
+        "salary": {
+            "from": 70000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104813091?host=hh.ru",
+        "description": "Навыки устранения незначительных поломок автомобиля. Опыт управления легковым транспортом от 5 лет. Опрятный внешний вид. Готовность к командировкам по России."
+    },
+    {
+        "name": "Водитель-курьер на личном автомобиле",
+        "salary": {
+            "from": 65000,
+            "to": 131900,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/103555646?host=hh.ru",
+        "description": "Требуется категория В. Опыт работы необязателен. Подходит любой автомобиль."
+    },
+    {
+        "name": "Водитель легкового автомобиля",
+        "salary": {
+            "from": 200000,
+            "to": 250000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105047821?host=hh.ru",
+        "description": "Наличие личного автомобиля."
+    },
+    {
+        "name": "Личный водитель",
+        "salary": {
+            "from": 40000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/104978256?host=hh.ru",
+        "description": "Стаж работы более 6 лет. Сдержанность, аккуратность , порядочность. Социализированность."
+    },
+    {
+        "name": "Личный водитель",
+        "salary": {
+            "from": 3000,
+            "to": 3500,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105082996?host=hh.ru",
+        "description": null
+    },
+    {
+        "name": "Личный водитель",
+        "salary": {
+            "from": 80000,
+            "to": 130000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/105120038?host=hh.ru",
+        "description": "Водительский стаж,аккуратное вождение. Вежливость,аккуратность,дисциплина."
+    },
+    {
+        "name": "Водитель вилочного погрузчика (дизельного)",
+        "salary": {
+            "from": 100000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104878452?host=hh.ru",
+        "description": "Удостоверение тракториста- машиниста с открытой категорией «В» с отметкой «<highlighttext>водитель</highlighttext> погрузчика». - Опыт работы в должности <highlighttext>водителя</highlighttext> дизельного погрузчика от 3..."
+    },
+    {
+        "name": "Водитель персональный",
+        "salary": {
+            "from": 40000,
+            "to": 40000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105039460?host=hh.ru",
+        "description": "Профессиональное управление автомобилем. Личные качества: исполнительность, порядочность, пунктуальность, стрессоустойчивость, аккуратность и чистоплотность."
+    },
+    {
+        "name": "Курьер-водитель",
+        "salary": {
+            "from": 3000,
+            "to": null,
+            "currency": "BYR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104812725?host=hh.ru",
+        "description": "Наличие собственного легкового автомобиля. Быть быстрым, гибким, умным и сообразительным."
+    },
+    {
+        "name": "Водитель категории В межгород",
+        "salary": {
+            "from": 65000,
+            "to": 100000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104969701?host=hh.ru",
+        "description": "Работа есть всегда - главное желание. Требование: - Права категории В. - Опыт работы от 2-х лет. ДОПОГ будет преимуществом (но не..."
+    },
+    {
+        "name": "Водитель-курьер на личном автомобиле",
+        "salary": {
+            "from": 65000,
+            "to": 131900,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/103549481?host=hh.ru",
+        "description": "Требуется категория В. Опыт работы необязателен. Подходит любой автомобиль."
+    },
+    {
+        "name": "Водитель автомобиля персональный",
+        "salary": "По найденной позиции зарплата не указана",
+        "url": "https://api.hh.ru/vacancies/105037936?host=hh.ru",
+        "description": "Наличие водительских прав категории \"B\". Стаж вождения от 3-х лет. Знание устройства автомобиля, знание города и области. "
+    },
+    {
+        "name": "Водитель категории С в г.Челябинск",
+        "salary": {
+            "from": 70000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/91354905?host=hh.ru",
+        "description": "Водительское удостоверение кат. «С». Знание материально-технической базы автомобиля, опыт самостоятельного несложного ремонта автомобиля. Опыт вождения грузового автомобиля от одного..."
+    },
+    {
+        "name": "Водитель-экспедитор",
+        "salary": {
+            "from": 90000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104777615?host=hh.ru",
+        "description": "Категория прав B. Ответственность. Исполнительность. Внимательность. Дружелюбие. Бережное отношение к автомобилю. Желание работать. Рассматриваем возможность работать на своем автотранспорте."
+    },
+    {
+        "name": "Водитель на газель межгород категория В",
+        "salary": {
+            "from": 80000,
+            "to": 100000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/103450271?host=hh.ru",
+        "description": "Знание технической части автомобиля (газель). - Умение составлять маршрут загрузок и выгрузок. - Умение правильно и равномерно расположить груза. Опыт работы обязателен. "
+    },
+    {
+        "name": "Водитель-курьер на личном автомобиле",
+        "salary": {
+            "from": 77000,
+            "to": 132500,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/103287508?host=hh.ru",
+        "description": "Требуется категория В. Опыт работы необязателен. Подходит любой автомобиль."
+    },
+    {
+        "name": "Личный персональный водитель",
+        "salary": {
+            "from": 60000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/105054084?host=hh.ru",
+        "description": "Опыт работы от 1-го года в семье. Знать хорошо город Краснодар. Навык безопасного вождения. Ответственный. Честный. Пунктуальный. Открытый. "
     }
 ]
