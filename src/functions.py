@@ -14,8 +14,6 @@ def get_greeting():
         return "Доброй ночи!"
 
 
-
-
 if __name__ == "__main__":
     h = get_greeting()
     print(h)

@@ -1,6 +1,7 @@
 import json
 # import os
 from abc import ABC, abstractmethod
+
 from src.vacancies import Vacancy
 
 
@@ -33,7 +34,7 @@ class JSONSaver(AbstractFile):
         """Сохранение вакансий в файл"""
 
         try:
-            with open(self.filepath, 'r', encoding='utf-8') as f:
+            with open(self.filepath, "r", encoding="utf-8") as f:
                 vacancies_data = json.load(f)
                 return [Vacancy(**data) for data in vacancies_data]
         except FileNotFoundError:
@@ -42,11 +43,15 @@ class JSONSaver(AbstractFile):
     def add_vacancy(self, new_vacancy):
         """Добавление вакансий в файл"""
         try:
-            with open(self.filepath, 'w', encoding='utf-8') as file:
-                json.dump([vacancy.__dict__ for vacancy in new_vacancy], file, ensure_ascii=False, indent=4)
+            with open(self.filepath, "w", encoding="utf-8") as file:
+                json.dump(
+                    [vacancy.__dict__ for vacancy in new_vacancy],
+                    file,
+                    ensure_ascii=False,
+                    indent=4,
+                )
         except FileNotFoundError:
             return []
 
     def delete_vacancy(self):
         pass
-

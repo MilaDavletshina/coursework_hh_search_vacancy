@@ -1,7 +1,7 @@
+from src.functions import get_greeting
 from src.hh_api import HH
 from src.vacancies import Vacancy
 from src.workfile import JSONSaver
-from src.functions import get_greeting
 
 
 def main():
@@ -17,8 +17,14 @@ def main():
     api = HH(keyword)
     vacancies_data = api.get_vacancies()
     new_vacancy = [
-            Vacancy(data["name"], data.get("salary"), data["url"], data.get("snippet", {}).get("requirement", ""))
-            for data in vacancies_data]
+        Vacancy(
+            data["name"],
+            data.get("salary"),
+            data["url"],
+            data.get("snippet", {}).get("requirement", ""),
+        )
+        for data in vacancies_data
+    ]
     result.add_vacancy(new_vacancy)
     print()
     print(f"Итого найдено {len(new_vacancy)} вакансий.")
@@ -38,7 +44,9 @@ def main():
     keyword = input("Введите ключевое слово: ")
     new_vacancy = result.save_vacancy()
 
-    filtered_vacancies = [i for i in new_vacancy if i.description and keyword in i.description]
+    filtered_vacancies = [
+        i for i in new_vacancy if i.description and keyword in i.description
+    ]
     for i in filtered_vacancies:
         print(i.name, i.salary, i.url, i.description)
     print()
