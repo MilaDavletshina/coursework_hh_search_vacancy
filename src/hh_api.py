@@ -1,9 +1,5 @@
 import requests
-import json
-import os
 from abc import ABC, abstractmethod
-
-#выводит все вакансии с найденным запросом
 
 
 class Parser(ABC):
@@ -39,33 +35,7 @@ class HH(Parser):
         return self.vacancies
 
 
-
-# Выводит первую позицию с найденным запросом
-
-#
-# class Parser(ABC):
-#     """Абстрактный класс для работы с API"""
-#
-#     @abstractmethod
-#     def get_vacancies(self, keyword):
-#         """Получение вакансии по ключевому слову"""
-#         pass
-
-
-# class HH(Parser):
-#     """Класс для работы с HeadHunter. Класс HeadHunter является родительским от класса Parser"""
-#     BASE_URL = "https://api.hh.ru/vacancies"
-#
-#
-#     def get_vacancies(self, keyword):
-#         """Получение вакансии по ключевому слову"""
-#         response = requests.get(self.BASE_URL, params={'text': keyword})
-#         if response.status_code == 200:
-#             return response.json().get('items', [])
-#         return []
-
-
 # if __name__ == "__main__":
-#     api = HH()
-#     res = api.get_vacancies("слесарь")
+#     api = HH("слесарь")
+#     res = api.get_vacancies()
 #     print(res)

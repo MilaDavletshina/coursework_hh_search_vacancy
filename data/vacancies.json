@@ -1,0 +1,2117 @@
+[
+    {
+        "name": "Бухгалтер на первичную документацию",
+        "salary": {
+            "from": 80000,
+            "to": 100000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/103998396?host=hh.ru",
+        "description": "Высшее или среднее профильное образование. Опыт работы на аналогичной должности не менее 3-х лет (удаленный формат работы). "
+    },
+    {
+        "name": "Бухгалтер г. Новосибирск",
+        "salary": {
+            "from": 60000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/100609657?host=hh.ru",
+        "description": "Высшее образование (экономика, финансы, бухучет). Опыт работы в должности <highlighttext>бухгалтера</highlighttext> (производство, общепит, розничная торговля) от 3-х лет. "
+    },
+    {
+        "name": "Бухгалтер по реализации",
+        "salary": {
+            "from": 300000,
+            "to": 400000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/101350343?host=hh.ru",
+        "description": "Требования к опыту: Среднее или высшее профессиональное (экономическое) образование; стаж работы в должности <highlighttext>бухгалтера</highlighttext> по реализации не менее 1 года..."
+    },
+    {
+        "name": "Главный бухгалтер",
+        "salary": {
+            "from": 700000,
+            "to": 700000,
+            "currency": "KZT",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/104971063?host=hh.ru",
+        "description": "С опытом в строительстве Обязателен! Знание ЭСФ, СНТ. Знание участка импорта из третьих стран, таможенного союза, налогообложение."
+    },
+    {
+        "name": "Бухгалтер",
+        "salary": {
+            "from": 350000,
+            "to": null,
+            "currency": "KZT",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104446053?host=hh.ru",
+        "description": "Опыт работы обязателен от 3 лет( в строительной организации будет преимуществом)."
+    },
+    {
+        "name": "Ведущий бухгалтер",
+        "salary": {
+            "from": 170000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105075414?host=hh.ru",
+        "description": "Опыт достоверного закрытия ежемесячного отчетного периода в бухгалтерских учетных системах. Опыт работы с первичной документацией. Оформление реализаций. Контроль дебиторской и..."
+    },
+    {
+        "name": "Бухгалтер",
+        "salary": {
+            "from": 80000,
+            "to": 80000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104422461?host=hh.ru",
+        "description": "Свободное владение знаниями в области бухгалтерского учета и налогообложения + УСН. Умение работать в узко-ориентированных бухгалтерских программах."
+    },
+    {
+        "name": "Бухгалтер на удаленке",
+        "salary": {
+            "from": 200000,
+            "to": 300000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104950665?host=hh.ru",
+        "description": "Уверенное владение компьютером, знание бухгалтерских программ 1С:<highlighttext>Бухгалтерия</highlighttext>, а также MS Office, в особенности Excel. Высокая степень внимательности и..."
+    },
+    {
+        "name": "Бухгалтер",
+        "salary": {
+            "from": 2500,
+            "to": null,
+            "currency": "BYR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105038894?host=hh.ru",
+        "description": "Опыт работы в программе 1С:8 <highlighttext>Бухгалтерия</highlighttext>. Уверенный пользователь Exсel, Word."
+    },
+    {
+        "name": "Помощник бухгалтера на первичную документацию",
+        "salary": {
+            "from": 50000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104099937?host=hh.ru",
+        "description": "Высшее или средне-специальное образование. Коммуникативные навыки, ответственность, исполнительность. Ответственность за результат, порядочность. Внимательное отношение к бухгалтерскому учету в целом..."
+    },
+    {
+        "name": "Бухгалтер (удаленно)",
+        "salary": {
+            "from": 350000,
+            "to": null,
+            "currency": "KZT",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105120223?host=hh.ru",
+        "description": "высшее образование. опыт от 5 лет. опыт в сфере услуг. грамотная устная и письменная речь. Сертификат Профбух."
+    },
+    {
+        "name": "Бухгалтер",
+        "salary": {
+            "from": 65000,
+            "to": 65000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/105092705?host=hh.ru",
+        "description": "Опыт работы в должности специалиста соответствующего профиля от 3 лет. Пользователь ПК. Знание 1С:8,3 (1С УПП). "
+    },
+    {
+        "name": "Бухгалтер (частичная занятость)",
+        "salary": "По найденной позиции зарплата не указана",
+        "url": "https://api.hh.ru/vacancies/103306269?host=hh.ru",
+        "description": "Опыт работы от 5-ти лет. Опыт работы <highlighttext>бухгалтером</highlighttext> в единственном лице. Высшее профильное образование. Знание законодательства в сфере налогов..."
+    },
+    {
+        "name": "Главный бухгалтер (государственный университет)",
+        "salary": {
+            "from": 400000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/104954662?host=hh.ru",
+        "description": "Высшее профильное образование. Опыт работы главным <highlighttext>бухгалтером</highlighttext> от 5 лет в крупных организациях с оборотом от 3 млрд.руб. "
+    },
+    {
+        "name": "Бухгалтер на первичную документацию",
+        "salary": {
+            "from": 70000,
+            "to": 70000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105056619?host=hh.ru",
+        "description": "Опыт работы в Word, Outlook, Excel (работа с таблицами на начальном уровне). Желателен опыт работы <highlighttext>бухгалтером</highlighttext> в ТЭК."
+    },
+    {
+        "name": "Бухгалтер (упор на материальный стол)",
+        "salary": {
+            "from": 400000,
+            "to": null,
+            "currency": "KZT",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104885306?host=hh.ru",
+        "description": "Умение работать с первичной документацией по движению ТМЦ (упор на материальный учет). Средне-специальное или высшее образование. Опыт работы <highlighttext>бухгалтером</highlighttext>..."
+    },
+    {
+        "name": "Офис менеджер / Бухгалтер на первичную документацию",
+        "salary": {
+            "from": 55000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105091975?host=hh.ru",
+        "description": "Средне-специальное/высшее образование. Уверенный пользователь 1С 8.3, Word, Excel. Умение работать в режиме многозадачности. И т.д."
+    },
+    {
+        "name": "Бухгалтер",
+        "salary": {
+            "from": 66000,
+            "to": 66000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105052994?host=hh.ru",
+        "description": "Законодательные акты, постановления, распоряжения, приказы, руководящие, методические и нормативные материалы по организации бухгалтерского учета имущества, обязательств и хозяйственных операций и..."
+    },
+    {
+        "name": "Бухгалтер-кассир",
+        "salary": {
+            "from": 500000,
+            "to": null,
+            "currency": "KZT",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/105094781?host=hh.ru",
+        "description": "Опвт работы не менее трех лет, предпочтительно в авиакомпании и турбизнесе. 1С, знание SAP. Высшее образование. Ответственность."
+    },
+    {
+        "name": "Заместитель главного бухгалтера",
+        "salary": {
+            "from": 250000,
+            "to": 250000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105057310?host=hh.ru",
+        "description": "Опыт работы от 3-х лет на позиции заместителя главного <highlighttext>бухгалтера</highlighttext>/главного <highlighttext>бухгалтера</highlighttext>. Образование: высшее. Опыт работы в производственной компании . "
+    },
+    {
+        "name": "Бухгалтер на первичную документацию",
+        "salary": {
+            "from": 55000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105058892?host=hh.ru",
+        "description": "Порядочность. Обучаемость."
+    },
+    {
+        "name": "Главный бухгалтер",
+        "salary": {
+            "from": 300000,
+            "to": 350000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/104975780?host=hh.ru",
+        "description": "Стаж работы в должности главного <highlighttext>бухгалтера</highlighttext> не менее 3х лет. Оборот на последнем месте работы от 2 млрд.. "
+    },
+    {
+        "name": "Главный бухгалтер",
+        "salary": {
+            "from": 15000000,
+            "to": null,
+            "currency": "UZS",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105061586?host=hh.ru",
+        "description": null
+    },
+    {
+        "name": "Бухгалтер",
+        "salary": {
+            "from": 500000,
+            "to": 2000000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104143378?host=hh.ru",
+        "description": "У тебя есть опыт и время? У нас есть клиенты. Опыт работы <highlighttext>бухгалтером</highlighttext> от 2 лет. Наличие ПК интернета."
+    },
+    {
+        "name": "Заместитель главного бухгалтера ТСЖ, УК",
+        "salary": {
+            "from": 100000,
+            "to": 100000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/103120661?host=hh.ru",
+        "description": "Высшее образование (экономика или бухгалтерский учет). Опыт работы в должности <highlighttext>бухгалтера</highlighttext> от 3 –х лет, обязателен опыт работы в УК..."
+    },
+    {
+        "name": "Бухгалтер по расчету заработной платы",
+        "salary": {
+            "from": null,
+            "to": 180000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/104213287?host=hh.ru",
+        "description": "Высшее образование (Бухгалтерский учет/Финансы/Экономика). Опыт работы на участке заработной платы в компании с численностью от 100 человек. "
+    },
+    {
+        "name": "Бухгалтер",
+        "salary": {
+            "from": 7000000,
+            "to": 10000000,
+            "currency": "UZS",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104944701?host=hh.ru",
+        "description": "опыт работы не менее 3 лет в должности <highlighttext>бухгалтера</highlighttext>. - знание русского языка в совершенстве. - знание 1С <highlighttext>бухгалтерии</highlighttext>. - "
+    },
+    {
+        "name": "Бухгалтер / Делопроизводитель",
+        "salary": "По найденной позиции зарплата не указана",
+        "url": "https://api.hh.ru/vacancies/102907380?host=hh.ru",
+        "description": "Исполнительность, пунктуальность, быстрая обучаемость. Уверенный пользователь ПК (MS Word, MS Excel, Power Point). Аналогичный опыт работы от года. "
+    },
+    {
+        "name": "Бухгалтер по расчету заработной платы (автобизнес)",
+        "salary": {
+            "from": 160000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/105071620?host=hh.ru",
+        "description": "Высшее образование. Опыт работы по специальности от 6-х лет. Знание бухгалтерского и налогового законодательства. Опыт прохождения камеральных и выездных..."
+    },
+    {
+        "name": "Помощник главного бухгалтера",
+        "salary": {
+            "from": 70000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104052410?host=hh.ru",
+        "description": "...работы на основных участках (учет МПЗ, расчеты с контрагентами, учет кассовых операций, учет ОС). Умение работать в 1С <highlighttext>Бухгалтерия</highlighttext>."
+    },
+    {
+        "name": "Бухгалтер по производству",
+        "salary": {
+            "from": 1700,
+            "to": 1800,
+            "currency": "BYR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104371374?host=hh.ru",
+        "description": "Опыт работы (желательно в производстве, в деревообработке). Скрупулезность, внимательность, умение работать с цифрами. Работа в 1С 8.3 (Мисофт)."
+    },
+    {
+        "name": "Помощник главного бухгалтера - ассистент",
+        "salary": {
+            "from": 150000,
+            "to": 200000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104519504?host=hh.ru",
+        "description": "Бухгалтерское образование желательно. Опыт работы приветствуется, но можно без опыта. Знание MS Word, MS Excel. Наличие ноутбука или ПК, хорошего..."
+    },
+    {
+        "name": "Бухгалтер",
+        "salary": {
+            "from": 400000,
+            "to": 400000,
+            "currency": "KZT",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/104839891?host=hh.ru",
+        "description": "Образование высшее полное. Опыт работы <highlighttext>бухгалтером</highlighttext> не менее 5-6 лет . Умение работать в программе 1 С <highlighttext>Бухгалтерия</highlighttext> (желательно 8..."
+    },
+    {
+        "name": "Главный бухгалтер",
+        "salary": {
+            "from": null,
+            "to": 300000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104986875?host=hh.ru",
+        "description": "Опыт работы Главным <highlighttext>бухгалтером</highlighttext> от 3-х лет. Высшее профильное образование. Знание программы 1С 8.3, word, excel. "
+    },
+    {
+        "name": "Главный бухгалтер (казначейство)",
+        "salary": {
+            "from": 220000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/102704697?host=hh.ru",
+        "description": "высшее экономическое образование. * опыт работы главным <highlighttext>бухгалтером</highlighttext> или заместителем главного <highlighttext>бухгалтера</highlighttext> не менее 5 лет. * знание законодательства о бухгалтерском учёте..."
+    },
+    {
+        "name": "Заместитель главного бухгалтера",
+        "salary": {
+            "from": 250000,
+            "to": 250000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105057312?host=hh.ru",
+        "description": "Опыт работы от 3-х лет на позиции заместителя главного <highlighttext>бухгалтера</highlighttext>/главного <highlighttext>бухгалтера</highlighttext>. Образование: высшее. Опыт работы в производственной компании . "
+    },
+    {
+        "name": "Главный бухгалтер",
+        "salary": {
+            "from": 2000,
+            "to": 2000,
+            "currency": "USD",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/105080448?host=hh.ru",
+        "description": "Опыт работы от 3 лет в должности главного <highlighttext>бухгалтера</highlighttext> (зам. главного <highlighttext>бухгалтера</highlighttext>). Опыт работы с импортом / экспортом товаров и услуг. "
+    },
+    {
+        "name": "Главный бухгалтер",
+        "salary": {
+            "from": 250000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105041828?host=hh.ru",
+        "description": "Высшее образование (финансовое/экономическое). -Опыт работы в должности Главного <highlighttext>бухгалтера</highlighttext> с релевантным функционалом от 5 лет. -Опыт работы в сфере..."
+    },
+    {
+        "name": "Главный бухгалтер",
+        "salary": {
+            "from": 800000,
+            "to": 1000000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105100387?host=hh.ru",
+        "description": "Опыт работы в АО или крупной ТОО (производство). Наличие Сертификата \"Профессиональный <highlighttext>бухгалтер</highlighttext>\". Предпочтительно : опыт прохождения аудита BIG4. "
+    },
+    {
+        "name": "Бухгалтер по банковским операциям",
+        "salary": {
+            "from": 350000,
+            "to": 400000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/100690021?host=hh.ru",
+        "description": "Высшее образование (бухгалтерский учет и аудит, финансы, экономика). -Стаж работы по соответствующей специальности не менее 3 года. -Опыт работы в..."
+    },
+    {
+        "name": "Заместитель главного бухгалтера",
+        "salary": {
+            "from": 15000000,
+            "to": null,
+            "currency": "UZS",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105054154?host=hh.ru",
+        "description": "Сферы деятельности: - хорошее знание excel является преимуществом. - хорошее знание налогового законодательства, при этом знать пределы своей компетенции и задавать вопросы..."
+    },
+    {
+        "name": "Бухгалтер по первичной документации (расчеты с поставщиками)",
+        "salary": {
+            "from": 120000,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/104932856?host=hh.ru",
+        "description": "Высокая организованность, ответственность, аналитические способности. Уверенный пользователь 1С <highlighttext>Бухгалтерия</highlighttext> 8.3, MS Office (Excel, Word), Консультант Плюс. "
+    },
+    {
+        "name": "Бухгалтер",
+        "salary": {
+            "from": 1500,
+            "to": null,
+            "currency": "BYR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105052629?host=hh.ru",
+        "description": "Требования: Ответственность, опыт работы."
+    },
+    {
+        "name": "Бухгалтер",
+        "salary": {
+            "from": 70000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105072552?host=hh.ru",
+        "description": "Опыт работы: от 3 лет. Среднее профессиональное или высшее образование. Знание всех участков бухгалтерского учета. Знание налогового, гражданского и трудового..."
+    },
+    {
+        "name": "Бухгалтер-калькулятор",
+        "salary": {
+            "from": 30000,
+            "to": 50000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105075386?host=hh.ru",
+        "description": "Опыт работы от общепите от 3 лет."
+    },
+    {
+        "name": "Главный бухгалтер",
+        "salary": {
+            "from": 130000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105099960?host=hh.ru",
+        "description": "Знание всех участков бухгалтерского, налогового учета и трудового законодательства РФ. Знание программ: 1С: <highlighttext>Бухгалтерия</highlighttext> 8.3, Альфа-Авто, ЗУП..."
+    },
+    {
+        "name": "Бухгалтер",
+        "salary": {
+            "from": 75000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/103733684?host=hh.ru",
+        "description": "4. Обязательно навыки работы в 1с управление торговлей (торговля и склад)."
+    },
+    {
+        "name": "Главный бухгалтер",
+        "salary": {
+            "from": 200000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105074220?host=hh.ru",
+        "description": "Высшее экономическое образование. Свободное владение: 1С: 8.3 <highlighttext>Бухгалтерия</highlighttext>. Опыт работы от 3 до 6 лет. Знание бух.бучета и..."
+    },
+    {
+        "name": "Бухгалтер",
+        "salary": {
+            "from": 2300,
+            "to": null,
+            "currency": "BYR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105001627?host=hh.ru",
+        "description": "Опыт работы от 1 года. Знание 1С7, 8 <highlighttext>Бухгалтерия</highlighttext>. Ответственность, внимательность к деталям, дружелюбие."
+    },
+    {
+        "name": "Главный бухгалтер",
+        "salary": "По найденной позиции зарплата не указана",
+        "url": "https://api.hh.ru/vacancies/105023132?host=hh.ru",
+        "description": "Высшее профессиональное (экономическое) образование и стаж работы не менее 5 лет. Главный <highlighttext>бухгалтер</highlighttext> должен знать: Законодательство о бухучете, о налогах..."
+    },
+    {
+        "name": "Бухгалтер",
+        "salary": {
+            "from": 300000,
+            "to": 300000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105020602?host=hh.ru",
+        "description": "Высшее, средне-специальное образование. Знание программы 1С: версия 8.3."
+    },
+    {
+        "name": "Бухгалтер-казначей на участок банк-клиент",
+        "salary": {
+            "from": null,
+            "to": 200000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105126119?host=hh.ru",
+        "description": "Опыт работы не менее 3 лет непосредственно на участке Банк-клиент. * Опыт работы не менее 1 года в банках желателен..."
+    },
+    {
+        "name": "Операционист-бухгалтер",
+        "salary": {
+            "from": 40000,
+            "to": 70000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/104967142?host=hh.ru",
+        "description": "Опыт работы от года. Ответственность и аккуратность."
+    },
+    {
+        "name": "Главный бухгалтер группы компаний",
+        "salary": "По найденной позиции зарплата не указана",
+        "url": "https://api.hh.ru/vacancies/105037471?host=hh.ru",
+        "description": "Опыт работы в должности главного <highlighttext>бухгалтера</highlighttext> не менее 5 лет. Знание специфики учета торгово-производственной компании с ВЭД. "
+    },
+    {
+        "name": "Помощник главного бухгалтера",
+        "salary": {
+            "from": 250000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/101255927?host=hh.ru",
+        "description": "Высшее финансовое или экономическое образование (желательно наличие сертификатов и доп.курсов по специальности). Знание бухгалтерского учета, налогового учета, управленческого учета, финансового..."
+    },
+    {
+        "name": "Бухгалтер",
+        "salary": {
+            "from": 69000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/105066816?host=hh.ru",
+        "description": "Опыт работы <highlighttext>бухгалтером</highlighttext> приветствуется. Опытный пользователь 1С от 3 лет. Образование Высшее ( экономическое, бухгалтерское/финансовое)."
+    },
+    {
+        "name": "Помощник главного бухгалтера",
+        "salary": {
+            "from": 70000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/103779160?host=hh.ru",
+        "description": "Высшее образование. Опыт работы в 1С 8.3. Знание Microsoft Office (опытный пользователь Word, Excel). Личные качества: аккуратность, внимательность..."
+    },
+    {
+        "name": "Бухгалтер на первичную документацию",
+        "salary": {
+            "from": 250000,
+            "to": 300000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104743513?host=hh.ru",
+        "description": null
+    },
+    {
+        "name": "Бухгалтер-кассир",
+        "salary": {
+            "from": 75000,
+            "to": 81250,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/105091188?host=hh.ru",
+        "description": "Опыт работы: от 1 года. Навыки работы с программами 1С:8.3 <highlighttext>бухгалтерия</highlighttext> и 1 с УТ, опыт работы..."
+    },
+    {
+        "name": "Главный бухгалтер",
+        "salary": {
+            "from": 600000,
+            "to": null,
+            "currency": "KZT",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/104959223?host=hh.ru",
+        "description": "Опыт работы на производстве обязателен."
+    },
+    {
+        "name": "Бухгалтер по учету тмц",
+        "salary": {
+            "from": 150000,
+            "to": 150000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/105045887?host=hh.ru",
+        "description": "Высшее бухгалтерское или экономическое. Опыт работы в 1С: <highlighttext>Бухгалтерия</highlighttext> и КАУП, на участке учета движения ТМЦ от закупки до..."
+    },
+    {
+        "name": "Главный бухгалтер",
+        "salary": {
+            "from": 2500,
+            "to": null,
+            "currency": "USD",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/105028038?host=hh.ru",
+        "description": "Высшее профессиональное образование (экономическое, финансовое). Опыт работы главным <highlighttext>бухгалтером</highlighttext> не менее 5-ти лет. Знание национальных и международных стандартов. "
+    },
+    {
+        "name": "Бухгалтер",
+        "salary": {
+            "from": 100000,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105104965?host=hh.ru",
+        "description": "Опыт работы в <highlighttext>бухгалтерии</highlighttext> с аналогичными обязанностями от 3 лет. Опыт работы с 1С 8.3 <highlighttext>Бухгалтерия</highlighttext>, СКБ-Контур..."
+    },
+    {
+        "name": "Главный бухгалтер",
+        "salary": {
+            "from": 250000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104963687?host=hh.ru",
+        "description": "Высшее экономическое образование, стаж работы в строительстве, от 3-х лет в должности главного <highlighttext>бухгалтера</highlighttext>, ОСНО. Знание всех участков бухгалтерского..."
+    },
+    {
+        "name": "Бухгалтер на первичную документацию",
+        "salary": {
+            "from": 50000,
+            "to": 75000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104986572?host=hh.ru",
+        "description": "Требуемый опыт работы: не менее 1 года, опыт работы в строительстве будет вашим преимуществом. Образование высшее или среднее профессиональное. "
+    },
+    {
+        "name": "Бухгалтер",
+        "salary": {
+            "from": null,
+            "to": 402500,
+            "currency": "KZT",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/104984671?host=hh.ru",
+        "description": "Образование: Высшее по профилю (желательно), средне-специальное по профилю. Знание программ: 1С 8.3 (желательно ERP), ИС ЭСФ. "
+    },
+    {
+        "name": "Помощник бухгалтера",
+        "salary": {
+            "from": 3000000,
+            "to": 4000000,
+            "currency": "UZS",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/103722452?host=hh.ru",
+        "description": "Вы уверенный пользователь Word,Excel. - Вы внимательны к деталям и усидчивы. - Рассмотрим кандидатов без опыта работы."
+    },
+    {
+        "name": "Бухгалтер-кассир",
+        "salary": "По найденной позиции зарплата не указана",
+        "url": "https://api.hh.ru/vacancies/103069201?host=hh.ru",
+        "description": "Опыт работы в программе 1С 8.3 УТ, <highlighttext>бухгалтерия</highlighttext>, Exсel. Опыт работы с кассой и эквайрингом обязателен!. "
+    },
+    {
+        "name": "Помощник главного бухгалтера",
+        "salary": {
+            "from": 2000000,
+            "to": null,
+            "currency": "UZS",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105024660?host=hh.ru",
+        "description": "Знания бухгалтерского и налогового учета. Знание трудового и налогового законодательства РУз. Уверенный пользователь 1С <highlighttext>Бухгалтерия</highlighttext> 8.3. "
+    },
+    {
+        "name": "Помощник главного бухгалтера",
+        "salary": {
+            "from": 2000000,
+            "to": 10000000,
+            "currency": "UZS",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104523116?host=hh.ru",
+        "description": "Опыт работы на ДОЛЖНОСТИ <highlighttext>БУХГАЛТЕРА</highlighttext> НЕ ТРЕБУЕТСЯ. Знание русского языка. Уверенный пользователь Пк (word, Excel (умение работать с таблицами)). "
+    },
+    {
+        "name": "Помощник бухгалтера",
+        "salary": {
+            "from": 6000000,
+            "to": 8000000,
+            "currency": "UZS",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/104360439?host=hh.ru",
+        "description": "Имеете опыт работы в <highlighttext>бухгалтерии</highlighttext> от 3-х лет. Имеете профильное образования, знаете основы бухгалтерского учета. Хорошо знаете программу 1..."
+    },
+    {
+        "name": "Бухгалтер по заработной плате",
+        "salary": {
+            "from": 180000,
+            "to": 180000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104944707?host=hh.ru",
+        "description": "Требования: опыт работы с большой численностью сотрудников, сдачи отчетности, знание 1 С, внимательность."
+    },
+    {
+        "name": "Бухгалтер на первичную документацию (Интернет-магазин) удаленно",
+        "salary": {
+            "from": null,
+            "to": 40000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104953764?host=hh.ru",
+        "description": "Опыт работы от 3 лет. Знание 1С, так же приветствуется другой опыт с базами данных. Желателен опыт работы по..."
+    },
+    {
+        "name": "Бухгалтер по реализации (Специалист по обработке документов)",
+        "salary": {
+            "from": null,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/105043068?host=hh.ru",
+        "description": "Опыт работы с товаросопроводительными документами. Умение работать с большим объемом информации. Уверенный пользователь ПК: знание 1С, программ MS Office. "
+    },
+    {
+        "name": "Главный бухгалтер",
+        "salary": {
+            "from": 4500,
+            "to": null,
+            "currency": "BYR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/105000712?host=hh.ru",
+        "description": "Знание трудового законодательства. Наличие опыта руководства группой <highlighttext>бухгалтеров</highlighttext>. Наличие опыта работы в должности главного <highlighttext>бухгалтера</highlighttext> в коммерческой компании не менее..."
+    },
+    {
+        "name": "Бухгалтер",
+        "salary": {
+            "from": 300000,
+            "to": 500000,
+            "currency": "KZT",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/105043241?host=hh.ru",
+        "description": "Владение нормативной базой. Уверенное владение ПК, знание офисных программ. Знание деловой этики. Своевременное выполнение задач."
+    },
+    {
+        "name": "Бухгалтер-экономист",
+        "salary": "По найденной позиции зарплата не указана",
+        "url": "https://api.hh.ru/vacancies/89784484?host=hh.ru",
+        "description": "ПК продвинутый пользователь. Знание программ <highlighttext>Бухгалтерия</highlighttext>, 1С 8.3, знание Excel работа с таблицами, Банк-Клиент."
+    },
+    {
+        "name": "Бухгалтер",
+        "salary": {
+            "from": 130000,
+            "to": 130000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105028745?host=hh.ru",
+        "description": "Наличие высшего профессионального образования. Опыт работы в данной сфере от 2-х лет."
+    },
+    {
+        "name": "Бухгалтер на первичную документацию в интернет-магазин",
+        "salary": {
+            "from": 50000,
+            "to": 55000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105102632?host=hh.ru",
+        "description": "Умение работать с 1С <highlighttext>Бухгалтерия</highlighttext> 3.0, опыт от 3 лет. Умение работать с 1С Управление торговлей 10..."
+    },
+    {
+        "name": "Бухгалтер по расчету заработной платы",
+        "salary": {
+            "from": null,
+            "to": 130000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/100328388?host=hh.ru",
+        "description": "Высшее профессиональное образование (профильное). Опыт работы на аналогичной должности от 1 года. Опыт работы с суммированным учетом рабочего времени. "
+    },
+    {
+        "name": "Главный бухгалтер",
+        "salary": {
+            "from": 90000,
+            "to": 110000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/103585115?host=hh.ru",
+        "description": "Высшее профильное образование. Аккуратность, нацеленность на результат, доброжелательность. Умение работать быстро, многозадачность. Готовность к самообучению."
+    },
+    {
+        "name": "Бухгалтер на первичную документацию",
+        "salary": {
+            "from": 250000,
+            "to": 250000,
+            "currency": "KZT",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/104951584?host=hh.ru",
+        "description": "Внимательность. Исполнительность. Коммуникабельность. Ответственность."
+    },
+    {
+        "name": "Бухгалтер по заработной плате",
+        "salary": {
+            "from": 450000,
+            "to": 650000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104945114?host=hh.ru",
+        "description": "Знание форм и методов бухгалтерского учета в организации. Высшее (или послевузовское) образование по соответствующему направлению. Стаж работы по специальности не..."
+    },
+    {
+        "name": "Бухгалтер по расчету заработной платы",
+        "salary": {
+            "from": 80000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/100595768?host=hh.ru",
+        "description": "Обязателен опыт работы на аналогичной должности. Уверенный пользователь ПК (знание Word, Excel), базы ЗУП 1С 8.3. "
+    },
+    {
+        "name": "Бухгалтер",
+        "salary": {
+            "from": 130000,
+            "to": 130000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105028747?host=hh.ru",
+        "description": "Наличие высшего профессионального образования. Опыт работы в данной сфере от 2-х лет."
+    },
+    {
+        "name": "Бухгалтер",
+        "salary": {
+            "from": 2500,
+            "to": null,
+            "currency": "BYR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/105105927?host=hh.ru",
+        "description": "Высшее образование. Опыт работы в <highlighttext>бухгалтерии</highlighttext> от 3 лет. Опыт работы в транспортной компании. Внимательность, коммуникабельность, усидчивость, умение работать в..."
+    },
+    {
+        "name": "Помощник бухгалтера (пекарня)",
+        "salary": {
+            "from": 250000,
+            "to": 300000,
+            "currency": "KZT",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/103694302?host=hh.ru",
+        "description": "Можно без опыта работы и диплома, сами научим. Требования: Аккуратность, внимательность, пунктуальность, быстрая обучаемость."
+    },
+    {
+        "name": "Бухгалтер",
+        "salary": {
+            "from": 350000,
+            "to": null,
+            "currency": "KZT",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104797515?host=hh.ru",
+        "description": "Опыт работы <highlighttext>бухгалтером</highlighttext> в одном лице от 3-х лет. Знание, навыки применения налогового законодательства, правил бухгалтерского учета."
+    },
+    {
+        "name": "Бухгалтер отдела бухгалтерского учета по национальному проекту управления бухгалтерского учета и эко",
+        "salary": "По найденной позиции зарплата не указана",
+        "url": "https://api.hh.ru/vacancies/104828745?host=hh.ru",
+        "description": "Высшее профессиональное образование (бухгалтерский учет, аудит, экономика, финансы). Стаж работы по специальности (без учета времени обучения в ВУЗе) в областях..."
+    },
+    {
+        "name": "Бухгалтер филиала (ведущий специалист по документообороту)",
+        "salary": {
+            "from": 170000,
+            "to": 175000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/104281739?host=hh.ru",
+        "description": "Знание теории БУ. Знание правил отражения первичных документов для БУ и НУ. Опыт ведения кадрового учета. Знание порядка и срока..."
+    },
+    {
+        "name": "Главный бухгалтер",
+        "salary": {
+            "from": 300000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104853100?host=hh.ru",
+        "description": "Работа в программах: Зарплата и управление персоналом. Редакция 3.1. Работа в программе <highlighttext>Бухгалтерия</highlighttext> предприятия 3.0 (1С: Предприятие..."
+    },
+    {
+        "name": "Бухгалтер-калькулятор (удаленно любой город)",
+        "salary": {
+            "from": 40000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104822659?host=hh.ru",
+        "description": "Опыт работы <highlighttext>бухгалтером</highlighttext>-калькулятором в общепите ОБЯЗАТЕЛЕН! Личностные качества: внимательность‚ профессиональная грамотность‚ ответственность. Опыт работы в общественном питании. "
+    },
+    {
+        "name": "Главный бухгалтер",
+        "salary": "По найденной позиции зарплата не указана",
+        "url": "https://api.hh.ru/vacancies/104069213?host=hh.ru",
+        "description": "Высшее профессиональное образование. Опыт работы в должности главного <highlighttext>бухгалтера</highlighttext> не менее 5 лет. Опыт прохождения камеральных и выездных проверок, возмещения..."
+    },
+    {
+        "name": "Главный бухгалтер",
+        "salary": {
+            "from": 270000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/104884493?host=hh.ru",
+        "description": "Высшее профессиональное (экономическое) образование и опыт на позиции главного <highlighttext>бухгалтера</highlighttext> в компании не менее 5 лет. Опыт построения системы бухгалтерского..."
+    },
+    {
+        "name": "Бухгалтер",
+        "salary": {
+            "from": 500000,
+            "to": null,
+            "currency": "KZT",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/105037407?host=hh.ru",
+        "description": "Высшее экономическое образование. Наличие сертификата профессионального <highlighttext>бухгалтера</highlighttext> (желательно). Знание налогового законодательства. Опыт работы в транспортно-экспедиторской компании, производстве, в крупных..."
+    },
+    {
+        "name": "Главный бухгалтер (оптово-розничная Компания)",
+        "salary": {
+            "from": 20000000,
+            "to": null,
+            "currency": "UZS",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104876648?host=hh.ru",
+        "description": "Высшее финансовое или экономическое образование, регулярное повышение квалификации. Опыт работы главным <highlighttext>бухгалтером</highlighttext> более 5 лет, опыт ведения кадрового делопроизводства. "
+    },
+    {
+        "name": "Главный бухгалтер",
+        "salary": {
+            "from": 100000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105051712?host=hh.ru",
+        "description": "...желанием и стремлением зарабатывать - Мы ждём Вас! Опыт работы главным <highlighttext>бухгалтером</highlighttext> от 3 лет, опыт работы в отрасли медицины приветствуется."
+    },
+    {
+        "name": "Бухгалтер",
+        "salary": {
+            "from": 80000,
+            "to": 80000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105041859?host=hh.ru",
+        "description": "Уверенный пользователь: 1С Комплексная автоматизация (версия 2:0), MS Office, Excel, Контур Экстерн, Консультант Плюс. Релевантный опыт работы. "
+    },
+    {
+        "name": "Бухгалтер на первичную документацию",
+        "salary": {
+            "from": null,
+            "to": 350000,
+            "currency": "KZT",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/104944250?host=hh.ru",
+        "description": "Средне-специальное/ Высшее профильное образование. Отличное знание программ 1С. Внимательность, ответственность, исполнительность, быстрый ум, системность, высокий уровень самоорганизации, позитивный..."
+    },
+    {
+        "name": "Заместитель главного бухгалтера",
+        "salary": {
+            "from": 250000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104742081?host=hh.ru",
+        "description": "Высшее (профильное). Уверенный пользователь ПК, 1С Бух 8.3, ЭДО Диадок, Excel. Опыт работы в производственной компании от 5..."
+    },
+    {
+        "name": "Главный бухгалтер",
+        "salary": "По найденной позиции зарплата не указана",
+        "url": "https://api.hh.ru/vacancies/104763139?host=hh.ru",
+        "description": "...преимущество), общий стаж в <highlighttext>бухгалтерии</highlighttext> не менее 8 лет. Знание и опыт работы на всех участках <highlighttext>бухгалтерии</highlighttext>, готовность к самостоятельной..."
+    },
+    {
+        "name": "Бухгалтер на первичную документацию",
+        "salary": {
+            "from": 50000,
+            "to": 55000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105071082?host=hh.ru",
+        "description": "Предпочтительно опыт работы в производственной компании. Знание участка материальный стол и производство. Знание 1С УНФ будет преимуществом. "
+    },
+    {
+        "name": "Бухгалтер на первичную документацию",
+        "salary": {
+            "from": null,
+            "to": 80000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104882433?host=hh.ru",
+        "description": "Работа с XL.WORD.ИНТЕРНЕТ. Работа в режим многозадачности. Со знанием бухгалтерского анализа . Внимательного, не конфликтного, легко обучаемого, умеющего работать в команде."
+    },
+    {
+        "name": "Бухгалтер-кассир",
+        "salary": {
+            "from": 50000,
+            "to": 60000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105107599?host=hh.ru",
+        "description": "Готовность к ежемесячным командировкам ( продолжительность не более 4 дней). Высшее или среднее бухгалтерское образование. Опыт работы не менее 5 лет. "
+    },
+    {
+        "name": "Бухгалтер на первичную документацию",
+        "salary": {
+            "from": 50000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105051584?host=hh.ru",
+        "description": "Профильное образование. Знание основ бухгалтерского и налогового учетов. Знание 1С, Excel, Word. Ответственность, коммуникабельность."
+    },
+    {
+        "name": "Заместитель главного бухгалтера",
+        "salary": {
+            "from": 500000,
+            "to": 600000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105021580?host=hh.ru",
+        "description": "Высшее профессиональное (экономическое) образование. Стаж бухгалтерско-финансовой работы, на руководящих должностях не менее 2 лет. Знание казахского и русского языков."
+    },
+    {
+        "name": "Главный бухгалтер в юридическую фирму",
+        "salary": {
+            "from": null,
+            "to": 300000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/104856738?host=hh.ru",
+        "description": "<highlighttext>бухгалтера</highlighttext> будет преимуществом). – общий стаж работы от 10 лет (главным <highlighttext>бухгалтером</highlighttext> / заместителем главного <highlighttext>бухгалтера</highlighttext> – от 5 лет). – глубокая экспертиза в..."
+    },
+    {
+        "name": "Главный бухгалтер в единственном лице, IT-компания ООО на УСН (6%)",
+        "salary": "По найденной позиции зарплата не указана",
+        "url": "https://api.hh.ru/vacancies/105057263?host=hh.ru",
+        "description": "Высшее профессиональное (экономическое) образование. Стаж бухгалтерской работы от 3-х лет. Опыт сдачи отчетности в полном объеме (ФСС, ПФР, 2..."
+    },
+    {
+        "name": "Бухгалтер на первичную документацию",
+        "salary": {
+            "from": 55000,
+            "to": 60000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105116453?host=hh.ru",
+        "description": "Умение работать в 1С 8.3."
+    },
+    {
+        "name": "Помощник бухгалтера",
+        "salary": "По найденной позиции зарплата не указана",
+        "url": "https://api.hh.ru/vacancies/103663773?host=hh.ru",
+        "description": "Знание <highlighttext>бухгалтерии</highlighttext> и учета. Знание налогового, трудового Кодекса РУз. Обязательное знание русского языка. Знания основы <highlighttext>бухгалтерии</highlighttext> и учета. "
+    },
+    {
+        "name": "Бухгалтер на первичную документацию",
+        "salary": {
+            "from": 80000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/104910131?host=hh.ru",
+        "description": "Опыт работы в коммерческих организациях. Образование высшее,средне-специальное профильное. Знание программы 1С 8.3, СБИС. Диадок."
+    },
+    {
+        "name": "Главный бухгалтер",
+        "salary": {
+            "from": 200000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/104918683?host=hh.ru",
+        "description": "Опыт работы главным <highlighttext>бухгалтером</highlighttext>/зам главного <highlighttext>бухгалтера</highlighttext> от пяти лет. Практический навык работы в 1С <highlighttext>Бухгалтерия</highlighttext> предприятия КОРП 8..."
+    },
+    {
+        "name": "Помощник бухгалтера",
+        "salary": {
+            "from": 300000,
+            "to": 350000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104881270?host=hh.ru",
+        "description": "Знание программы 1С Фитнес и 1С <highlighttext>Бухгалтерия</highlighttext> 8.3. Опыт работы от 2 лет. Знание первичной бухгалтерской документации. "
+    },
+    {
+        "name": "Бухгалтер на первичную документацию",
+        "salary": {
+            "from": 120000,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/104878072?host=hh.ru",
+        "description": "Высшее образование. Опыт аналогичной работы от года. Хорошее знание 1С: <highlighttext>Бухгалтерия</highlighttext> 8.3, Excel."
+    },
+    {
+        "name": "Бухгалтер",
+        "salary": {
+            "from": 300000,
+            "to": 300000,
+            "currency": "KZT",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/105044355?host=hh.ru",
+        "description": "Знание 1С <highlighttext>Бухгалтерия</highlighttext>. Знание ФНО, СОНО, ИЭСФ."
+    },
+    {
+        "name": "Ведущий бухгалтер",
+        "salary": {
+            "from": 150000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105024512?host=hh.ru",
+        "description": "Опыт работы <highlighttext>бухгалтером</highlighttext> или казначеем от 3 лет. Опыт ведения учета ВЭД (импорт\\экспорт) - обязательно. Опыт работы в различных банк..."
+    },
+    {
+        "name": "Бухгалтер-калькулятор",
+        "salary": {
+            "from": 80000,
+            "to": 100000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104925852?host=hh.ru",
+        "description": "Опыт работы от 3-х лет <highlighttext>бухгалтером</highlighttext>-калькулятором в пищевом производстве. Знание участка Банк, Касса, СБИС. StoreHouse, RK, Меркурий, Частный..."
+    },
+    {
+        "name": "Главный бухгалтер",
+        "salary": {
+            "from": 220000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/104977780?host=hh.ru",
+        "description": "Высшее образование в области <highlighttext>бухгалтерии</highlighttext> / финансах / экономике. Опыт работы в <highlighttext>бухгалтерии</highlighttext> от 6 лет и более, в аналогичной должности (или..."
+    },
+    {
+        "name": "Главный бухгалтер",
+        "salary": {
+            "from": 250000,
+            "to": 250000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105044021?host=hh.ru",
+        "description": "Опыт камеральных и выездных налоговых проверок. Умение оценивать налоговые риски, грамотно оптимизировать систему налогообложения. Опыт работы главным <highlighttext>бухгалтером</highlighttext> от 10..."
+    },
+    {
+        "name": "Бухгалтер первичной документации",
+        "salary": {
+            "from": 50000,
+            "to": 80000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/105088387?host=hh.ru",
+        "description": "Пунктуальность, знание 1С. Ответственность."
+    },
+    {
+        "name": "Бухгалтер",
+        "salary": {
+            "from": 500000,
+            "to": null,
+            "currency": "KZT",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105100044?host=hh.ru",
+        "description": "Опыт работы на позиции <highlighttext>бухгалтера</highlighttext> не менее 3 лет. Глубокие знания программ Торговля 1С 8.3, 1С <highlighttext>Бухгалтерия</highlighttext>..."
+    },
+    {
+        "name": "Главный бухгалтер",
+        "salary": {
+            "from": 250000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104777304?host=hh.ru",
+        "description": "Обязателен опыт работы с ВЭД (недружественные страны). Опыт работы в главного <highlighttext>бухгалтера</highlighttext> опт и розница (ООО, ИП). Опыт работы с..."
+    },
+    {
+        "name": "Бухгалтер на первичную документацию",
+        "salary": {
+            "from": 80000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104858236?host=hh.ru",
+        "description": "Высшее или среднее образование по соответствующей специальности. — Работа в 1С БУХ, отличное знание 1С:УНФ."
+    },
+    {
+        "name": "Заместитель главного бухгалтера",
+        "salary": {
+            "from": 80000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105068708?host=hh.ru",
+        "description": "Знание налогового законодательства РФ и правил ведения бухгалтерского учета. Опыт работы в 1С <highlighttext>Бухгалтерия</highlighttext> 8.3; ЗУП; знание Альфа..."
+    },
+    {
+        "name": "Бухгалтер",
+        "salary": {
+            "from": 5000000,
+            "to": null,
+            "currency": "UZS",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/103753210?host=hh.ru",
+        "description": "...Office (MS Excel, MS Word, Outlook). Свободное владение узбекским и русским языками. Опыт работы в 1С <highlighttext>Бухгалтерия</highlighttext> 8,3."
+    },
+    {
+        "name": "Бухгалтер",
+        "salary": {
+            "from": 50000,
+            "to": 70000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104929754?host=hh.ru",
+        "description": "Опыт работы. Знание и умение работать в программе 1С. Знание офисных программ MS Office (Word, Excel). Умение быстро и..."
+    },
+    {
+        "name": "Главный бухгалтер в единственном лице",
+        "salary": {
+            "from": 500000,
+            "to": 600000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105057989?host=hh.ru",
+        "description": "Высшее образование (учет и аудит, экономика). Опыт работы на должности главного <highlighttext>бухгалтера</highlighttext> не менее 5-ти лет. Продвинутый пользователь Ехсеl. "
+    },
+    {
+        "name": "Ищем бухгалтера на аутсорсинге в Гриль-парк «Академус»",
+        "salary": {
+            "from": 20000,
+            "to": 20000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104959667?host=hh.ru",
+        "description": null
+    },
+    {
+        "name": "Бухгалтер",
+        "salary": {
+            "from": 1100,
+            "to": 1300,
+            "currency": "BYR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/104982758?host=hh.ru",
+        "description": "Требования: Опыт работы от 1 года Личные качества: порядочность, ответственность, стрессоустойчивость Опытный пользователь ПК Знание программы 1С ."
+    },
+    {
+        "name": "Бухгалтер в единственном лице (удаленно)",
+        "salary": {
+            "from": 70000,
+            "to": 100000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104990654?host=hh.ru",
+        "description": "Опыт работы <highlighttext>бухгалтером</highlighttext> от 2-ух лет в компании с оборотом от 100 млн в год, опыт в сфере IT..."
+    },
+    {
+        "name": "Помощник бухгалтера",
+        "salary": {
+            "from": null,
+            "to": 20000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104103224?host=hh.ru",
+        "description": "Образование в области бухгалтерского учета, финансов или экономики (возможно обучение на последних курсах). - Опыт работы в <highlighttext>бухгалтерии</highlighttext> от 6 месяцев. - "
+    },
+    {
+        "name": "Главный бухгалтер",
+        "salary": {
+            "from": 200000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104991114?host=hh.ru",
+        "description": "Высшее экономическое образование. - Опыт работы на аналогичной должности не менее 2 лет (торговля желательно). - Владение законодательной базой бухгалтерского и налогового..."
+    },
+    {
+        "name": "Старший бухгалтер",
+        "salary": {
+            "from": 100000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/103994885?host=hh.ru",
+        "description": "Неполное высшее, высшее образование. Знание полного цикла от первичных документов и учета до отчетности. Опытный пользователь 1С 8.3..."
+    },
+    {
+        "name": "Бухгалтер по расчету заработной платы",
+        "salary": {
+            "from": 30000,
+            "to": 50000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104918355?host=hh.ru",
+        "description": "Знание программных продуктов 1С. Знание законодательства в рамках кадрового учета. Уверенный пользователь офисных программ."
+    },
+    {
+        "name": "Бухгалтер на первичную документацию удаленно",
+        "salary": {
+            "from": 20000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104962912?host=hh.ru",
+        "description": "Опыт работы в должности <highlighttext>бухгалтера</highlighttext> на первичную документацию от 3 лет. Знание программы 1С. Внимание к деталям и аналитический..."
+    },
+    {
+        "name": "Главный бухгалтер",
+        "salary": {
+            "from": 150000,
+            "to": 200000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105036847?host=hh.ru",
+        "description": "Высшее образование в области бухгалтерского учета, финансов или экономики. Опыт работы главным <highlighttext>бухгалтером</highlighttext> от 5 лет. Отличное знание бухгалтерского и..."
+    },
+    {
+        "name": "Бухгалтер-калькулятор",
+        "salary": {
+            "from": 50000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104660563?host=hh.ru",
+        "description": "Опыт работы <highlighttext>бухгалтером</highlighttext>-калькулятором от 3-х лет. Опыт разбора инвентаризаций от 2-х лет. Опыт работы с iiko. "
+    },
+    {
+        "name": "Бухгалтер",
+        "salary": {
+            "from": 130000,
+            "to": 130000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105028744?host=hh.ru",
+        "description": "Наличие высшего профессионального образования. Опыт работы в данной сфере от 2-х лет."
+    },
+    {
+        "name": "Ведущий бухгалтер",
+        "salary": {
+            "from": null,
+            "to": 160000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/103499864?host=hh.ru",
+        "description": "Требования: Высшее профильное образование (экономика, бухгалтерский учет), опыт работы <highlighttext>бухгалтером</highlighttext> в области бухгалтерско-финансовой работы от 5 лет, знание законодательства..."
+    },
+    {
+        "name": "Главный бухгалтер",
+        "salary": {
+            "from": 120000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104882878?host=hh.ru",
+        "description": "Опыт работы не менее 5 ти лет. Знание программы 1с (<highlighttext>бухгалтерия</highlighttext> и зарплата). Внимательность, ответственность, аккуратность, стрессоустойчивость, умение работать..."
+    },
+    {
+        "name": "Помощник бухгалтера/офис менеджер",
+        "salary": {
+            "from": 55000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105069626?host=hh.ru",
+        "description": "Уверенный пользователь ПК, знание 1С, MS Office, ЭДО приветствуется. Умение работать с большим объемом документации. Внимательность. Ответственность."
+    },
+    {
+        "name": "Бухгалтер-кассир",
+        "salary": {
+            "from": 40000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104882237?host=hh.ru",
+        "description": "Опыт работы не менее 5 лет кассиром. Уверенный пользователь 1С. Знание принципов инкассации."
+    },
+    {
+        "name": "Бухгалтер-оператор 1С",
+        "salary": {
+            "from": 300000,
+            "to": null,
+            "currency": "KZT",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104942740?host=hh.ru",
+        "description": "Обеспечение соблюдения правил и сдачи приходно-расходных документов, составление установленной отчетности. Обеспечение взаимосвязи между <highlighttext>бухгалтерией</highlighttext> и складом. Уверенное владение компьютером..."
+    },
+    {
+        "name": "Главный бухгалтер",
+        "salary": {
+            "from": 150000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/104999022?host=hh.ru",
+        "description": "Знание 1с комплексная автоматизация, ЗУП. Знание принципов бюджетирования, БДДС и БДР. Опыт организации и структурирование различных участков учета."
+    },
+    {
+        "name": "Бухгалтер",
+        "salary": {
+            "from": 2100,
+            "to": null,
+            "currency": "BYR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/105035765?host=hh.ru",
+        "description": "Высшее образование. Знание 1С, MS Excel. Скрупулёзность, внимательность, ответственность. Опыт работы от 3 лет (желательно в производственных компаниях)."
+    },
+    {
+        "name": "Бухгалтер",
+        "salary": {
+            "from": 70000,
+            "to": 70000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105022654?host=hh.ru",
+        "description": "Знание программы 1С. Опыт работы <highlighttext>бухгалтером</highlighttext> не менее одного года! Уверенный пользователь пк. Уверенный пользователь: MS Office (Exсel, Word, )."
+    },
+    {
+        "name": "Заместитель главного бухгалтера",
+        "salary": {
+            "from": 250000,
+            "to": 250000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/102750993?host=hh.ru",
+        "description": "Опыт работы от 3-х лет на позиции заместителя главного <highlighttext>бухгалтера</highlighttext>/главного <highlighttext>бухгалтера</highlighttext>. Образование: высшее. Опыт работы в производственной компании . "
+    },
+    {
+        "name": "Помощник бухгалтера",
+        "salary": {
+            "from": 150000,
+            "to": 200000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/103406881?host=hh.ru",
+        "description": "Знание компьютерной грамотности. Исполнительность и ответственность. Знание бух учета приветствуется."
+    },
+    {
+        "name": "Бухгалтер по заработной плате",
+        "salary": {
+            "from": 100000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104899781?host=hh.ru",
+        "description": "Высшее профильное образование. Опыт работы в аналогичной должности от 3х лет."
+    },
+    {
+        "name": "Бухгалтер на первичную документацию / Руководитель операторов 1С",
+        "salary": {
+            "from": 100000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104415525?host=hh.ru",
+        "description": "Опыт работы старшим оператором 1с, руководителем клиентского отдела от 3-х лет. Умение работать в режиме многозадачности. Системность. "
+    },
+    {
+        "name": "Ведущий бухгалтер",
+        "salary": {
+            "from": 85000,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/104912360?host=hh.ru",
+        "description": "Образование: высшее профессиональное (экономическое). Стаж работы, связанный с ведением бухгалтерского учета, составлением бухгалтерской (финансовой) отчетности не менее пяти лет. "
+    },
+    {
+        "name": "Бухгалтер по учету тмц",
+        "salary": {
+            "from": 420000,
+            "to": 420000,
+            "currency": "KZT",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/104835875?host=hh.ru",
+        "description": "Высшее образование. Опыт работы в крупных производственных компаниях от 1 года до 3 лет."
+    },
+    {
+        "name": "Бухгалтер",
+        "salary": {
+            "from": 70000,
+            "to": 90000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104965131?host=hh.ru",
+        "description": "Высшее экономическое образование (бухучет, экономика, финансы). Уверенные знания в области бухгалтерского учета. Опыт работы в <highlighttext>бухгалтерии</highlighttext> от 3-х лет."
+    },
+    {
+        "name": "Бухгалтер на первичную документацию",
+        "salary": "По найденной позиции зарплата не указана",
+        "url": "https://api.hh.ru/vacancies/103526638?host=hh.ru",
+        "description": "Ответственное отношение к работе, стрессоустойчивость, исполнительность, внимательность. Рассматриваем активных кандидатов с минимальным опытом работы, готовых к обучению в направлении <highlighttext>Бухгалтерии</highlighttext>."
+    },
+    {
+        "name": "Бухгалтер",
+        "salary": {
+            "from": 90000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/104208769?host=hh.ru",
+        "description": "Ответственность, внимательность. Умение работать с большим объемом информации. Уверенное владение пакетом MS Office (Word, Excel), 1С <highlighttext>Бухгалтерия</highlighttext> 8.3."
+    },
+    {
+        "name": "Главный бухгалтер",
+        "salary": {
+            "from": 150000,
+            "to": 150000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105016634?host=hh.ru",
+        "description": "Высшее профессиональное (экономическое) образование. Стаж работы главным <highlighttext>бухгалтером</highlighttext> не менее 5 лет (работа в микрофинансовых организациях будет Вашим преимуществом). "
+    },
+    {
+        "name": "Бухгалтер Удаленно",
+        "salary": {
+            "from": 50000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104909611?host=hh.ru",
+        "description": "Желательно иметь Высшее образование. Опыт работы <highlighttext>бухгалтером</highlighttext> от 1 года. Опытный пользователь Microsoft Office, 1С. Активность. Эффективность в условиях..."
+    },
+    {
+        "name": "Главный бухгалтер / Заместитель главного бухгалтера",
+        "salary": {
+            "from": 104000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/105053302?host=hh.ru",
+        "description": "Опыт работы в должности главного <highlighttext>бухгалтера</highlighttext> от пяти лет, заместителя главного <highlighttext>бухгалтера</highlighttext> от 3 лет. Высшее профильное образование. "
+    },
+    {
+        "name": "Бухгалтер",
+        "salary": {
+            "from": null,
+            "to": 150000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/104950946?host=hh.ru",
+        "description": "Высшее экономическое образование. Уверенные знание программы «1С <highlighttext>Бухгалтерия</highlighttext> 8.3». Знания законодательства РФ по бухучету учету и налогообложению. "
+    },
+    {
+        "name": "Главный бухгалтер",
+        "salary": {
+            "from": 200000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104985268?host=hh.ru",
+        "description": "Опыт работы в строительной организации в аналогичной должности от 5 лет. -Высшее профильное образование. -Знание действующего бухгалтерского и налогового законодательства..."
+    },
+    {
+        "name": "Бухгалтер в кофейню",
+        "salary": {
+            "from": 40000,
+            "to": 80000,
+            "currency": "KGS",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104777503?host=hh.ru",
+        "description": "Высшее образование (в сфере экономики, финансов). Опыт работы <highlighttext>бухгалтером</highlighttext> не менее 3-х лет. Опыт работы в общепите (желательно). "
+    },
+    {
+        "name": "Бухгалтер",
+        "salary": {
+            "from": 2300,
+            "to": null,
+            "currency": "BYR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104983397?host=hh.ru",
+        "description": "Кандидата с опытом работы <highlighttext>бухгалтером</highlighttext>/заместителем главного <highlighttext>бухгалтера</highlighttext>. С высшим бухгалтерским или экономическим образованием."
+    },
+    {
+        "name": "Главный бухгалтер",
+        "salary": "По найденной позиции зарплата не указана",
+        "url": "https://api.hh.ru/vacancies/105073861?host=hh.ru",
+        "description": "Опыт работы на всех участках главным <highlighttext>бухгалтером</highlighttext>. Знание бухгалтерского, гражданского, налогового, трудового законодательства. Понимание теории и практики РСБУ и налогового..."
+    },
+    {
+        "name": "Бухгалтер на первичную документацию",
+        "salary": {
+            "from": 51000,
+            "to": 51000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/105103240?host=hh.ru",
+        "description": "Высшее образование. Опыт работы от 1 до 3 лет. Внимательность, ответственность."
+    },
+    {
+        "name": "Администратор, бухгалтер",
+        "salary": {
+            "from": 250000,
+            "to": 400000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104904562?host=hh.ru",
+        "description": "Пунктуальность. Обладать навыками оптимизации и администрирования учебных процессов и взаимодействия с клиентами. Иметь аккуратный внешний вид."
+    },
+    {
+        "name": "Бухгалтер",
+        "salary": {
+            "from": 45000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105100287?host=hh.ru",
+        "description": "Режим многозадачности. Опыт работы в строительстве, производстве приветствуется."
+    },
+    {
+        "name": "Бухгалтер",
+        "salary": {
+            "from": 60000,
+            "to": 80000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104998583?host=hh.ru",
+        "description": "Знание и соблюдение налогового и бухгалтерского законодательства РФ. Требования: Знание ПК на уровне: уверенный пользователь (CRM/Excel). Аналогичный опыт работы..."
+    },
+    {
+        "name": "Бухгалтер",
+        "salary": {
+            "from": 90000,
+            "to": 100000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/101520953?host=hh.ru",
+        "description": "Высшее экономическое образование. О/р по специальности от 3х лет. Опыт работы в транспортно-экспедиционных компаниях желателен. "
+    },
+    {
+        "name": "Заместитель главного бухгалтера",
+        "salary": {
+            "from": 70000,
+            "to": 80000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/104984615?host=hh.ru",
+        "description": "Образование: высшее профильное. Опыт работы в аналогичной должности от 5 лет. Резюме только с актуальной фотографией. Личные качества: инициативность, порядочность..."
+    },
+    {
+        "name": "Бухгалтер",
+        "salary": {
+            "from": 75000,
+            "to": 100000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105028474?host=hh.ru",
+        "description": null
+    },
+    {
+        "name": "Материальный бухгалтер",
+        "salary": {
+            "from": 300000,
+            "to": 320000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104872359?host=hh.ru",
+        "description": "2.1.1. Образование – высшее. 2.1.2. Специальность – экономика/ финансы/ бухгалтерский учет/ аудит. 2.1.3. Минимальный стаж работы..."
+    },
+    {
+        "name": "Бухгалтер",
+        "salary": {
+            "from": 90000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/104902082?host=hh.ru",
+        "description": "Высшее экономическое образование. Стаж бухгалтерско-финансовой работы не менее 5 лет."
+    },
+    {
+        "name": "Бухгалтер",
+        "salary": {
+            "from": 40000,
+            "to": 45000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104104258?host=hh.ru",
+        "description": "Уверенный пользователь MC Office, 1С ЗУП, 1С <highlighttext>Бухгалтерия</highlighttext>, СБИС. Ответственность, внимательность, неконфликтность, стрессоустойчивость. Умение работать в условиях многозадачности..."
+    },
+    {
+        "name": "Главный бухгалтер",
+        "salary": "По найденной позиции зарплата не указана",
+        "url": "https://api.hh.ru/vacancies/104904392?host=hh.ru",
+        "description": "Опыт работы главным <highlighttext>бухгалтером</highlighttext> не менее 3-х лет, опты управления сотрудниками. Знание всех участков бухгалтерского и налогового учета в..."
+    },
+    {
+        "name": "Бухгалтер по ВЭД",
+        "salary": {
+            "from": 130000,
+            "to": 150000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105057675?host=hh.ru",
+        "description": "Знание ВЭД, импортных, экспортных операций, валютных платежей. Опыт работы <highlighttext>бухгалтером</highlighttext> не менее 3-х лет (учет реализации, валютный контроль, банк..."
+    },
+    {
+        "name": "Бухгалтер (Товарные операции)",
+        "salary": {
+            "from": 1280,
+            "to": null,
+            "currency": "BYR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/48297525?host=hh.ru",
+        "description": "Профильное образование. Опыт работы от 1 года, также рассмотрим кандидатов с минимальным опытом. Знание 1С8. Коммуникабельность, усидчивость, обучаемость."
+    },
+    {
+        "name": "Бухгалтер",
+        "salary": {
+            "from": 50000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/104979487?host=hh.ru",
+        "description": "Уверенный пользователь ПК, знание программы 1С: Предприятие."
+    },
+    {
+        "name": "Помощник бухгалтера",
+        "salary": {
+            "from": 4000000,
+            "to": 6000000,
+            "currency": "UZS",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105025758?host=hh.ru",
+        "description": "Опыт работы свыше 3 лет. Знание узбекского и русскаго языков."
+    },
+    {
+        "name": "Бухгалтер",
+        "salary": {
+            "from": 130000,
+            "to": 130000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105028746?host=hh.ru",
+        "description": "Наличие высшего профессионального образования. Опыт работы в данной сфере от 2-х лет."
+    },
+    {
+        "name": "Помощник бухгалтера/ бухгалтер по реализации",
+        "salary": {
+            "from": 250000,
+            "to": null,
+            "currency": "KZT",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105052253?host=hh.ru",
+        "description": "Среднее специальное/ высшее образование (направления: Бухучет, экономика, финансы). Опыт на аналогичной должности будет преимуществом. Навыки работы в программах: MS WORD..."
+    },
+    {
+        "name": "Бухгалтер",
+        "salary": {
+            "from": 60000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105072778?host=hh.ru",
+        "description": "УДАЛЁНHO и AУТCОРCИНГ HЕ РАССМАТРИВАЕМ ВООБЩЕ! 1. Опыт работы <highlighttext>бухгалтером</highlighttext>, уверенные знания как строится правильный учет. 2. Больше нужны знания..."
+    },
+    {
+        "name": "Менеджер со знанием 1С бухгалтерия",
+        "salary": {
+            "from": 300000,
+            "to": 350000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104845743?host=hh.ru",
+        "description": "Ответственность, коммуникабельность,внимательность. Опыт работы в 1С обязателен. Грамотная устная и письменная речь. Обучаемость и стремление работать на результат. "
+    },
+    {
+        "name": "Бухгалтер (с функцией гл. бухгалтера)",
+        "salary": {
+            "from": 80000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104951849?host=hh.ru",
+        "description": "Опыт работы главным <highlighttext>бухгалтером</highlighttext> от 3-х лет. Знание ФСБУ аренда, Контур-Экстерн, 1С (<highlighttext>Бухгалтерия</highlighttext>, ЗУП). Преимуществом для кандидата..."
+    },
+    {
+        "name": "Бухгалтер материальной группы",
+        "salary": {
+            "from": 80000,
+            "to": 80000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104965861?host=hh.ru",
+        "description": "Опыт работы от 3-х лет. Высшее профильное образование. Опыт работы в строительстве будет преимуществом. Знание налогового законодательства, правил ведения..."
+    },
+    {
+        "name": "Помощник главного бухгалтера",
+        "salary": "По найденной позиции зарплата не указана",
+        "url": "https://api.hh.ru/vacancies/104710037?host=hh.ru",
+        "description": "Образование в области бухгалтерского учета, финансов или экономики. Опыт работы в <highlighttext>бухгалтерии</highlighttext> от 1 года (желательно). Знание бухгалтерского и налогового..."
+    },
+    {
+        "name": "Заместитель главного бухгалтера",
+        "salary": {
+            "from": 2500,
+            "to": 4000,
+            "currency": "BYR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/104758529?host=hh.ru",
+        "description": "Высшее (специализированное) образование. Опыт работы. Знание бухгалтерского, налогового и трудового законодательства. Приветствуется знание ВЭД. Общая система налогообложения."
+    },
+    {
+        "name": "Бухгалтер по реализации",
+        "salary": {
+            "from": 80000,
+            "to": 80000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105074273?host=hh.ru",
+        "description": "В связи с расширением требуется <highlighttext>бухгалтер</highlighttext> по реализации товаров, со знанием кадрового учета ( или желанием научиться) в штате 30 человек. "
+    },
+    {
+        "name": "Главный бухгалтер-Финансист",
+        "salary": "По найденной позиции зарплата не указана",
+        "url": "https://api.hh.ru/vacancies/104983633?host=hh.ru",
+        "description": "Высшее образование в области бухгалтерского учета, финансов или экономики. Опыт работы на аналогичной должности от 3 лет. Знание налогового законодательства..."
+    },
+    {
+        "name": "Бухгалтер",
+        "salary": {
+            "from": 120000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105099221?host=hh.ru",
+        "description": "не боитесь не стандартных задач. -Бухгалтерскими."
+    },
+    {
+        "name": "Бухгалтер по расчету заработной платы",
+        "salary": {
+            "from": 130000,
+            "to": 150000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104888195?host=hh.ru",
+        "description": "Опытный пользователь ПК: 1C <highlighttext>бухгалтерия</highlighttext>, ЗУП , ERP – как преимущество. Опыт работы в производственных компаниях, в компаниях с гособоронзаказом – будет..."
+    },
+    {
+        "name": "Бухгалтер",
+        "salary": {
+            "from": 1500,
+            "to": null,
+            "currency": "BYR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104676443?host=hh.ru",
+        "description": "Ответственность."
+    },
+    {
+        "name": "Бухгалтер-кассир",
+        "salary": {
+            "from": 80000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "url": "https://api.hh.ru/vacancies/104893033?host=hh.ru",
+        "description": "Образование высшее или среднее по специальности бухучет. Опыт от 3-х лет. Знание 1С ERP, 1С УПП. Обучаемость."
+    },
+    {
+        "name": "Бухгалтер на первичку в филиал г. Караганда",
+        "salary": {
+            "from": 250000,
+            "to": 250000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104898133?host=hh.ru",
+        "description": "Знание 1С <highlighttext>бухгалтерии</highlighttext> 8,3,8,2. Знание участка импорт/экспорт (ЕАЭС, прочий импорт) желательно. Аккуратность и внимательность. Организованность. "
+    },
+    {
+        "name": "Бухгалтер",
+        "salary": {
+            "from": 50000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105043874?host=hh.ru",
+        "description": "опыт работы на позиции <highlighttext>бухгалтера</highlighttext> от 1 года. - отличные знания 1С <highlighttext>Бухгалтерия</highlighttext>. - знание MS Office, информационно-правовых систем. - "
+    },
+    {
+        "name": "Бухгалтер в единственном числе / Главный бухгалтер",
+        "salary": {
+            "from": 600000,
+            "to": null,
+            "currency": "KZT",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105100677?host=hh.ru",
+        "description": "Опыт работы: Не менее 5 лет <highlighttext>бухгалтером</highlighttext>, <highlighttext>бухгалтером</highlighttext> в единственном лице, главным <highlighttext>бухгалтером</highlighttext>. Хорошее знание учета и налогообложения в разных..."
+    },
+    {
+        "name": "Бухгалтер",
+        "salary": {
+            "from": 145000,
+            "to": 160000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104658902?host=hh.ru",
+        "description": "Опыт работы <highlighttext>бухгалтером</highlighttext> на всех участках. Понимание теории и практики РСБУ и налогового законодательства, отслеживание всех изменений в налоговом и..."
+    },
+    {
+        "name": "Бухгалтер по учету ТМЦ",
+        "salary": {
+            "from": 86000,
+            "to": 86000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/104974731?host=hh.ru",
+        "description": "Опыт работы от 1-го года на аналогичном участке. Знание 1 С 8.3. Внимательность, исполнительность, пунктуальность, ответственность, умение работать..."
+    },
+    {
+        "name": "Главный бухгалтер",
+        "salary": {
+            "from": 250000,
+            "to": 250000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105037889?host=hh.ru",
+        "description": "Опыт работы в должности Заместителя главного <highlighttext>бухгалтера</highlighttext> от 2 лет. - Опыт работы в должности <highlighttext>бухгалтера</highlighttext> от 5 лет. - "
+    },
+    {
+        "name": "Бухгалтер",
+        "salary": "По найденной позиции зарплата не указана",
+        "url": "https://api.hh.ru/vacancies/105001486?host=hh.ru",
+        "description": "Английский (средний уровень). Опыт работы 1-3 года. Профильное образование. Аналитический склад ума. Знание 1С 8, уверенный пользователь ПК. "
+    },
+    {
+        "name": "Бухгалтер в одном лице",
+        "salary": {
+            "from": 250000,
+            "to": 350000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "url": "https://api.hh.ru/vacancies/105059996?host=hh.ru",
+        "description": "Высшее образование в области бухгалтерского учета. Знание Программ 1С версия 8.3; Excel; КН; СОНО; Egov. Опыт работы от..."
+    }
+]

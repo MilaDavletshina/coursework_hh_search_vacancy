@@ -7,7 +7,7 @@ class Vacancy:
         self.description = description
 
     def __str__(self):
-        """Метод для отображения информации при  выводе информации"""
+        """Отображение при  выводе информации"""
         return (f"Вакансия: {self.name}\n"
                 f"Зарплата: {self.salary}\n"
                 f"Ссылка на вакансию: {self.url}\n"
@@ -16,18 +16,9 @@ class Vacancy:
 
     def __lt__(self, other):
         """Метод сравнения вакансий между собой по зарплате"""
-        return self.salary < other.salary
-
-
-    # def vacancies_to_dict(self) -> dict:
-    #     """ Метод возвращает данные по вакансии в виде словаря """
-    #
-    #     return {
-    #         "Вакансия": self.name,
-    #         "Зарплата": self.salary,
-    #         "Ссылка на вакансию": self.url,
-    #         "Занятость": self.employment,
-    #     }
+        salary_self = self.salary if isinstance(self.salary, (int, float)) else 0
+        salary_other = other.salary if isinstance(other.salary, (int, float)) else 0
+        return salary_self < salary_other
 
 
 # if __name__ == "__main__":
